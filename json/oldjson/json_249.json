@@ -1,0 +1,36 @@
+{
+	"John Kasich": {
+		"sentiment":10,
+		"tweet_text":"ius, hendrerit magna ac, aliquet odio. Etiam facilisis odio scelerisque, sodales massa vitae, mollis diam. Quisque imperdiet ",
+		"tweet_user_id":"massivedamaged",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Ted Cruz": {
+		"sentiment":0,
+		"tweet_text":"im. Maecenas at nulla ac est tristique volutpat sed a purus. In malesuada auctor lacus vestibulum eleifend. Sed mollis ju",
+		"tweet_user_id":"massivedamaged",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Donald Trump": {
+		"sentiment":3,
+		"tweet_text":" dictumst. In pulvinar eget dolor at tristique. Quisque consequat auctor est id la",
+		"tweet_user_id":"massivedamaged",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Bernie Sanders": {
+		"sentiment":2.557658e+01,
+		"tweet_text":"ae nibh iaculis auctor. Nam id consequat ex. Aliquam iaculis maximus quam, eu viverra justo ullamcorper",
+		"tweet_user_id":"massivedamaged",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Hillary Clinton": {
+		"sentiment":-248,
+		"tweet_text":"tibulum ante ipsum primis in faucibus orci luctus et ultrices posuere",
+		"tweet_user_id":"massivedamaged",
+		"tweet_timestamp":"timestamp"
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"John Kasich": {
+		"sentiment":34,
+		"tweet_text":"suere. Phasellus vehicula ut arcu vel imperdiet. Cras nec fringilla tellus. Cras volutpat neque quam, non ",
+		"tweet_user_id":"straightmarmora",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Ted Cruz": {
+		"sentiment":1,
+		"tweet_text":"s ullamcorper bibendum. Suspendisse semper tellus non purus congue pellentesque. Nulla eu diam eros. Praesent porta ligula e",
+		"tweet_user_id":"straightmarmora",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Donald Trump": {
+		"sentiment":9,
+		"tweet_text":"isus orci, quis faucibus nunc tristique in. Maecenas dignissim consectetur felis, non eleifend dolor ultricies ac. Ut sed ipsum te",
+		"tweet_user_id":"straightmarmora",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Bernie Sanders": {
+		"sentiment":2.617117e+01,
+		"tweet_text":"or eros. Phasellus in enim mauris. Maecenas ultricies lectus arcu, vel tincidunt libero interdum in. Sed aliquam ante ut v",
+		"tweet_user_id":"straightmarmora",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Hillary Clinton": {
+		"sentiment":-254,
+		"tweet_text":"em, feugiat nec est non, ornare sollicitudin sapien. Sed sagittis velit orci, eu aliquam mauris egestas lobortis. Phasellus si",
+		"tweet_user_id":"straightmarmora",
+		"tweet_timestamp":"timestamp"
+	}
+}

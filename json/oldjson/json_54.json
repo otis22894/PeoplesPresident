@@ -1,0 +1,36 @@
+{
+	"John Kasich": {
+		"sentiment":-2,
+		"tweet_text":" eu pharetra ante tristique vitae. Vestibulum vitae c",
+		"tweet_user_id":"legoashamed",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Ted Cruz": {
+		"sentiment":-4,
+		"tweet_text":" porttitor magna vel risus venenatis, eget luctus odio semper. Nullam venenat",
+		"tweet_user_id":"legoashamed",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Donald Trump": {
+		"sentiment":-1,
+		"tweet_text":"entum venenatis.Nam nunc justo, mattis in purus in, euismod tempor nulla. Phasellus quis tellus vitae nibh ia",
+		"tweet_user_id":"legoashamed",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Bernie Sanders": {
+		"sentiment":6.252252e+00,
+		"tweet_text":"nd vel vulputate vitae, viverra id ligula. Integer nec sapien in massa facilisis pretium. Nullam ullamcorper fermentum nulla, i",
+		"tweet_user_id":"legoashamed",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Hillary Clinton": {
+		"sentiment":-53,
+		"tweet_text":"sque ante augue vitae risus. Sed semper tortor in enim auctor, a mollis ligula tristique. Praesent non eros a mauris ullamcorper",
+		"tweet_user_id":"legoashamed",
+		"tweet_timestamp":"timestamp"
+	}
+}

@@ -1,0 +1,1075 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721902284456771584",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"auxiliary": {
+						"dev": "has",
+						"gov": "released"
+					},
+					"compound modifier": {
+						"dev": "#ImWithHer",
+						"gov": "http"
+					},
+					"dependent": {
+						"dev": "speech",
+						"gov": "@WeNeedHillary"
+					},
+					"nominal passive subject": {
+						"dev": "@WeNeedHillary",
+						"gov": "released"
+					},
+					"nominal subject": {
+						"dev": "#ShesWithUs",
+						"gov": "http"
+					},
+					"passive auxiliary": {
+						"dev": "been",
+						"gov": "released"
+					},
+					"root": {
+						"dev": "released",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "http",
+						"gov": "released"
+					}
+				},
+				"Token": {
+					"#ImWithHer": {
+						"CharacterOffsetBegin": 124,
+						"CharacterOffsetEnd": 134,
+						"Lemma": "#imwithher",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#ShesWithUs": {
+						"CharacterOffsetBegin": 112,
+						"CharacterOffsetEnd": 123,
+						"Lemma": "#sheswithus",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"''": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "''",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 18,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@WeNeedHillary": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "@weneedhillary",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Clinton": {
+						"CharacterOffsetBegin": 27,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "Clinton",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Goldman": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 42,
+						"Lemma": "Goldman",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Hillary": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "Hillary",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sachs": {
+						"CharacterOffsetBegin": 43,
+						"CharacterOffsetEnd": 48,
+						"Lemma": "Sachs",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Street": {
+						"CharacterOffsetBegin": 55,
+						"CharacterOffsetEnd": 61,
+						"Lemma": "Street",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Wall": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 54,
+						"Lemma": "Wall",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"``": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 50,
+						"Lemma": "``",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					},
+					"been": {
+						"CharacterOffsetBegin": 74,
+						"CharacterOffsetEnd": 78,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"has": {
+						"CharacterOffsetBegin": 70,
+						"CharacterOffsetEnd": 73,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"http": {
+						"CharacterOffsetBegin": 135,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "http",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/UaQtotVlkx": {
+						"CharacterOffsetBegin": 88,
+						"CharacterOffsetEnd": 111,
+						"Lemma": "https://t.co/uaqtotvlkx",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"released": {
+						"CharacterOffsetBegin": 79,
+						"CharacterOffsetEnd": 87,
+						"Lemma": "release",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"speech": {
+						"CharacterOffsetBegin": 63,
+						"CharacterOffsetEnd": 69,
+						"Lemma": "speech",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Negative"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:51",
+		"tweet_name": "Lenore Patton",
+		"tweet_text": "RT @WeNeedHillary: Hillary Clinton Goldman Sachs \"Wall Street\" speech has been released https://t.co/UaQtotVlkx\n#ShesWithUs #ImWithHer http…",
+		"tweet_user_id": "LenorePatton"
+	},
+	"Donald Trump": {
+		"id_str": "721902294418075648",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "WITH",
+						"gov": "presence"
+					},
+					"clausal modifier of noun": {
+						"dev": "#Wyoming",
+						"gov": "#Trump"
+					},
+					"compound modifier": {
+						"dev": "campaign",
+						"gov": "presence"
+					},
+					"dependent": {
+						"dev": "#Trump",
+						"gov": "@wtfnewsamerica"
+					},
+					"marker": {
+						"dev": "in",
+						"gov": "#Wyoming"
+					},
+					"nmod_preposition": {
+						"dev": "presence",
+						"gov": "#Wyoming"
+					},
+					"root": {
+						"dev": "@wtfnewsamerica",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"!": {
+						"CharacterOffsetBegin": 95,
+						"CharacterOffsetEnd": 96,
+						"Lemma": "!",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"#FactOfTheDay": {
+						"CharacterOffsetBegin": 20,
+						"CharacterOffsetEnd": 33,
+						"Lemma": "#factoftheday",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#MarcoRubio": {
+						"CharacterOffsetBegin": 34,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "#marcorubio",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#Trump": {
+						"CharacterOffsetBegin": 51,
+						"CharacterOffsetEnd": 57,
+						"Lemma": "#trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#Wyoming": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 69,
+						"Lemma": "#wyoming",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 19,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@wtfnewsamerica": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 18,
+						"Lemma": "@wtfnewsamerica",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"BEAT": {
+						"CharacterOffsetBegin": 46,
+						"CharacterOffsetEnd": 50,
+						"Lemma": "beat",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"NO": {
+						"CharacterOffsetBegin": 75,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "no",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"WITH": {
+						"CharacterOffsetBegin": 70,
+						"CharacterOffsetEnd": 74,
+						"Lemma": "with",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"campaign": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 86,
+						"Lemma": "campaign",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"in": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "in",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"presence": {
+						"CharacterOffsetBegin": 87,
+						"CharacterOffsetEnd": 95,
+						"Lemma": "presence",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "#LosingDonnie",
+						"gov": "https"
+					},
+					"root": {
+						"dev": "https",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#LosingDonnie": {
+						"CharacterOffsetBegin": 120,
+						"CharacterOffsetEnd": 133,
+						"Lemma": "#losingdonnie",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#NYPrimary": {
+						"CharacterOffsetBegin": 109,
+						"CharacterOffsetEnd": 119,
+						"Lemma": "#nyprimary",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#NeverTrump": {
+						"CharacterOffsetBegin": 97,
+						"CharacterOffsetEnd": 108,
+						"Lemma": "#nevertrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"https": {
+						"CharacterOffsetBegin": 134,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "http",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:53",
+		"tweet_name": "#OnlyMarco Moshi",
+		"tweet_text": "RT @wtfnewsamerica: #FactOfTheDay #MarcoRubio BEAT #Trump in #Wyoming WITH NO campaign presence! #NeverTrump #NYPrimary #LosingDonnie https…",
+		"tweet_user_id": "Moshi0313"
+	},
+	"Hillary Clinton": {
+		"id_str": "721902304681684992",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "political",
+						"gov": "https://t.co/5N…"
+					},
+					"adverbial clause modifier": {
+						"dev": "was",
+						"gov": "encounter"
+					},
+					"adverbial modifier": {
+						"dev": "simply",
+						"gov": "was"
+					},
+					"appositional modifier": {
+						"dev": "https://t.co/5N…",
+						"gov": "polite"
+					},
+					"compound modifier": {
+						"dev": "https://t.co/Onx6aqoBWb",
+						"gov": "https://t.co/5N…"
+					},
+					"copula": {
+						"dev": "being",
+						"gov": "polite"
+					},
+					"marker": {
+						"dev": "with",
+						"gov": "was"
+					},
+					"negation modifier": {
+						"dev": "not",
+						"gov": "https://t.co/5N…"
+					},
+					"nominal subject": {
+						"dev": "Sanders",
+						"gov": "was"
+					},
+					"parataxis": {
+						"dev": "says",
+						"gov": "@nytimes"
+					},
+					"root": {
+						"dev": "@nytimes",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "polite",
+						"gov": "was"
+					}
+				},
+				"Token": {
+					",": {
+						"CharacterOffsetBegin": 84,
+						"CharacterOffsetEnd": 85,
+						"Lemma": ",",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ",",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 11,
+						"CharacterOffsetEnd": 12,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@nytimes": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 11,
+						"Lemma": "@nytimes",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"Bernie": {
+						"CharacterOffsetBegin": 46,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "Bernie",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Francis": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 25,
+						"Lemma": "Francis",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Pope": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "Pope",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sanders": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "Sanders",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"being": {
+						"CharacterOffsetBegin": 72,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"encounter": {
+						"CharacterOffsetBegin": 31,
+						"CharacterOffsetEnd": 40,
+						"Lemma": "encounter",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/5N…": {
+						"CharacterOffsetBegin": 124,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "https://t.co/5n…",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/Onx6aqoBWb": {
+						"CharacterOffsetBegin": 100,
+						"CharacterOffsetEnd": 123,
+						"Lemma": "https://t.co/onx6aqobwb",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"not": {
+						"CharacterOffsetBegin": 86,
+						"CharacterOffsetEnd": 89,
+						"Lemma": "not",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Negative"
+					},
+					"polite": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 84,
+						"Lemma": "polite",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"political": {
+						"CharacterOffsetBegin": 90,
+						"CharacterOffsetEnd": 99,
+						"Lemma": "political",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"says": {
+						"CharacterOffsetBegin": 26,
+						"CharacterOffsetEnd": 30,
+						"Lemma": "say",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"simply": {
+						"CharacterOffsetBegin": 65,
+						"CharacterOffsetEnd": 71,
+						"Lemma": "simply",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"was": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 64,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"with": {
+						"CharacterOffsetBegin": 41,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "with",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:56",
+		"tweet_name": "Joan M. Burda",
+		"tweet_text": "RT @nytimes: Pope Francis says encounter with Bernie Sanders was simply being polite, not political https://t.co/Onx6aqoBWb https://t.co/5N…",
+		"tweet_user_id": "JoanMBurda"
+	},
+	"John Kasich": {
+		"id_str": "721902297991684096",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "beautiful",
+						"gov": "Peralvillo"
+					},
+					"adverbial modifier": {
+						"dev": "here",
+						"gov": "welcome"
+					},
+					"appositional modifier": {
+						"dev": "Peralvillo",
+						"gov": "Trump"
+					},
+					"auxiliary": {
+						"dev": "are",
+						"gov": "welcome"
+					},
+					"compound modifier": {
+						"dev": "La",
+						"gov": "Peralvillo"
+					},
+					"dependent": {
+						"dev": "welcome",
+						"gov": "Trump"
+					},
+					"determiner": {
+						"dev": "this",
+						"gov": "Peralvillo"
+					},
+					"negation modifier": {
+						"dev": "not",
+						"gov": "welcome"
+					},
+					"nominal subject": {
+						"dev": "you",
+						"gov": "welcome"
+					},
+					"root": {
+						"dev": "Trump",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"!": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "!",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					",": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 36,
+						"Lemma": ",",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ",",
+						"Sentiment": "Neutral"
+					},
+					"La": {
+						"CharacterOffsetBegin": 22,
+						"CharacterOffsetEnd": 24,
+						"Lemma": "La",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Peralvillo": {
+						"CharacterOffsetBegin": 25,
+						"CharacterOffsetEnd": 35,
+						"Lemma": "Peralvillo",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 5,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"are": {
+						"CharacterOffsetBegin": 41,
+						"CharacterOffsetEnd": 44,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"beautiful": {
+						"CharacterOffsetBegin": 12,
+						"CharacterOffsetEnd": 21,
+						"Lemma": "beautiful",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Very positive"
+					},
+					"here": {
+						"CharacterOffsetBegin": 57,
+						"CharacterOffsetEnd": 61,
+						"Lemma": "here",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"not": {
+						"CharacterOffsetBegin": 45,
+						"CharacterOffsetEnd": 48,
+						"Lemma": "not",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Negative"
+					},
+					"this": {
+						"CharacterOffsetBegin": 7,
+						"CharacterOffsetEnd": 11,
+						"Lemma": "this",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"welcome": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 56,
+						"Lemma": "welcome",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"you": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 40,
+						"Lemma": "you",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 1
+		},
+		"timestamp": "2016-04-18 03:24:54",
+		"tweet_name": "El profeta",
+		"tweet_text": "Trump, this beautiful La Peralvillo, you are not welcome here!",
+		"tweet_user_id": "thesadpunk"
+	},
+	"Ted Cruz": {
+		"id_str": "721902282980270080",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adverbial clause modifier": {
+						"dev": "watching",
+						"gov": "grounded"
+					},
+					"case marker": {
+						"dev": "of",
+						"gov": "numbnuts"
+					},
+					"clausal modifier of noun": {
+						"dev": "watch",
+						"gov": "Time"
+					},
+					"compound modifier": {
+						"dev": "Trump",
+						"gov": "Rally"
+					},
+					"dependent": {
+						"dev": "Time",
+						"gov": "@hale_teddy"
+					},
+					"determiner": {
+						"dev": "a",
+						"gov": "bevy"
+					},
+					"direct object": {
+						"dev": "bevy",
+						"gov": "watching"
+					},
+					"marker": {
+						"dev": "after",
+						"gov": "watching"
+					},
+					"nmod_preposition": {
+						"dev": "numbnuts",
+						"gov": "bevy"
+					},
+					"passive auxiliary": {
+						"dev": "get",
+						"gov": "grounded"
+					},
+					"root": {
+						"dev": "@hale_teddy",
+						"gov": ""
+					}
+				},
+				"Token": {
+					",": {
+						"CharacterOffsetBegin": 60,
+						"CharacterOffsetEnd": 61,
+						"Lemma": ",",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ",",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 94,
+						"CharacterOffsetEnd": 95,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 15,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@hale_teddy": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "@hale_teddy",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Rally": {
+						"CharacterOffsetBegin": 38,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "Rally",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Time": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 20,
+						"Lemma": "Time",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 37,
+						"Lemma": "Trump",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"a": {
+						"CharacterOffsetBegin": 76,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "a",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"after": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 66,
+						"Lemma": "after",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"bevy": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "bevy",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"get": {
+						"CharacterOffsetBegin": 48,
+						"CharacterOffsetEnd": 51,
+						"Lemma": "get",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"grounded": {
+						"CharacterOffsetBegin": 52,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "ground",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Positive"
+					},
+					"numbnuts": {
+						"CharacterOffsetBegin": 86,
+						"CharacterOffsetEnd": 94,
+						"Lemma": "numbnut",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"of": {
+						"CharacterOffsetBegin": 83,
+						"CharacterOffsetEnd": 85,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 45,
+						"CharacterOffsetEnd": 47,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					},
+					"watch": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "watch",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"watching": {
+						"CharacterOffsetBegin": 67,
+						"CharacterOffsetEnd": 75,
+						"Lemma": "watch",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 95,
+						"CharacterOffsetEnd": 96,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"dependent": {
+						"dev": "https",
+						"gov": "https://t.co/46KVEvZFw3"
+					},
+					"determiner": {
+						"dev": "these",
+						"gov": "https://t.co/46KVEvZFw3"
+					},
+					"relative clause modifier": {
+						"dev": "https://t.co/46KVEvZFw3",
+						"gov": "like"
+					},
+					"root": {
+						"dev": "like",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 138,
+						"CharacterOffsetEnd": 139,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"https": {
+						"CharacterOffsetBegin": 133,
+						"CharacterOffsetEnd": 138,
+						"Lemma": "http",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/46KVEvZFw3": {
+						"CharacterOffsetBegin": 109,
+						"CharacterOffsetEnd": 132,
+						"Lemma": "https://t.co/46kvevzfw3",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"like": {
+						"CharacterOffsetBegin": 96,
+						"CharacterOffsetEnd": 100,
+						"Lemma": "like",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"these": {
+						"CharacterOffsetBegin": 101,
+						"CharacterOffsetEnd": 106,
+						"Lemma": "these",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:51",
+		"tweet_name": "Nancy Hale",
+		"tweet_text": "RT @hale_teddy: Time to watch a Trump Rally, to get grounded,after watching a bevy of numbnuts..like these   https://t.co/46KVEvZFw3 https:…",
+		"tweet_user_id": "hale4jesus"
+	}
+}

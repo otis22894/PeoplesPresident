@@ -1,0 +1,944 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721902279700398080",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "of",
+						"gov": "course"
+					},
+					"compound modifier": {
+						"dev": "@DianaTsang1",
+						"gov": "@theinquisitr"
+					},
+					"nmod_preposition": {
+						"dev": "course",
+						"gov": "@theinquisitr"
+					},
+					"nominal subject": {
+						"dev": "they",
+						"gov": "are"
+					},
+					"root": {
+						"dev": "are",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 45,
+						"CharacterOffsetEnd": 46,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"@DianaTsang1": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 12,
+						"Lemma": "@dianatsang1",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"@theinquisitr": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "@theinquisitr",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"are": {
+						"CharacterOffsetBegin": 42,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"course": {
+						"CharacterOffsetBegin": 30,
+						"CharacterOffsetEnd": 36,
+						"Lemma": "course",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"of": {
+						"CharacterOffsetBegin": 27,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"they": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 41,
+						"Lemma": "they",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"copula": {
+						"dev": "is",
+						"gov": "idiot"
+					},
+					"determiner": {
+						"dev": "an",
+						"gov": "idiot"
+					},
+					"nominal subject": {
+						"dev": "Trump",
+						"gov": "idiot"
+					},
+					"root": {
+						"dev": "idiot",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 64,
+						"CharacterOffsetEnd": 65,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 47,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"an": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 58,
+						"Lemma": "a",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"idiot": {
+						"CharacterOffsetBegin": 59,
+						"CharacterOffsetEnd": 64,
+						"Lemma": "idiot",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"is": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 55,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:50",
+		"tweet_name": "Barbara",
+		"tweet_text": "@DianaTsang1 @theinquisitr of course they are. Trump is an idiot.",
+		"tweet_user_id": "thebeej1966"
+	},
+	"Donald Trump": {
+		"id_str": "721902280086130692",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "GREAT",
+						"gov": "https://t.co/vyLU2kgJ44"
+					},
+					"adverbial modifier": {
+						"dev": "AGAIN",
+						"gov": "GREAT"
+					},
+					"compound modifier": {
+						"dev": "AMERICA",
+						"gov": "https://t.co/vyLU2kgJ44"
+					},
+					"dependent": {
+						"dev": "LETS",
+						"gov": "@DanScavino"
+					},
+					"direct object": {
+						"dev": "https://t.co/vyLU2kgJ44",
+						"gov": "MAKE"
+					},
+					"root": {
+						"dev": "@DanScavino",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "MAKE",
+						"gov": "LETS"
+					}
+				},
+				"Token": {
+					":": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 15,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@DanScavino": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "@danscavino",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"AGAIN": {
+						"CharacterOffsetBegin": 40,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "again",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"AMERICA": {
+						"CharacterOffsetBegin": 26,
+						"CharacterOffsetEnd": 33,
+						"Lemma": "AMERICA",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"GREAT": {
+						"CharacterOffsetBegin": 34,
+						"CharacterOffsetEnd": 39,
+						"Lemma": "great",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"LETS": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 20,
+						"Lemma": "let",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"MAKE": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 25,
+						"Lemma": "make",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/vyLU2kgJ44": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 73,
+						"Lemma": "https://t.co/vylu2kgj44",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:50",
+		"tweet_name": "Alabama gal",
+		"tweet_text": "RT @DanScavino: LETS MAKE AMERICA GREAT AGAIN🇺🇸 https://t.co/vyLU2kgJ44",
+		"tweet_user_id": "SharonLataste"
+	},
+	"Hillary Clinton": {
+		"id_str": "721902301703569409",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "OF",
+						"gov": "#MakeAmericaGr"
+					},
+					"compound modifier": {
+						"dev": "#Trump",
+						"gov": "#MakeAmericaGr"
+					},
+					"conj_collapsed": {
+						"dev": "DEMOCRATS",
+						"gov": "REPUBLICANS"
+					},
+					"coordination": {
+						"dev": "AND",
+						"gov": "REPUBLICANS"
+					},
+					"copula": {
+						"dev": "ARE",
+						"gov": "TIRED"
+					},
+					"dependent": {
+						"dev": "PEOPLE",
+						"gov": "@Gianluca_1970"
+					},
+					"determiner": {
+						"dev": "THE",
+						"gov": "#MakeAmericaGr"
+					},
+					"nmod_preposition": {
+						"dev": "#MakeAmericaGr",
+						"gov": "TIRED"
+					},
+					"nominal subject": {
+						"dev": "@Gianluca_1970",
+						"gov": "TIRED"
+					},
+					"root": {
+						"dev": "TIRED",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#MakeAmericaGr": {
+						"CharacterOffsetBegin": 125,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "#makeamericagr",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#Trump": {
+						"CharacterOffsetBegin": 118,
+						"CharacterOffsetEnd": 124,
+						"Lemma": "#trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 18,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@Gianluca_1970": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "@gianluca_1970",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"ABSOLUTE": {
+						"CharacterOffsetBegin": 63,
+						"CharacterOffsetEnd": 71,
+						"Lemma": "ABSOLUTE",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"AND": {
+						"CharacterOffsetBegin": 44,
+						"CharacterOffsetEnd": 47,
+						"Lemma": "and",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "CC",
+						"Sentiment": "Neutral"
+					},
+					"ARE": {
+						"CharacterOffsetBegin": 92,
+						"CharacterOffsetEnd": 95,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"BOTH": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "both",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"BULLSHIT": {
+						"CharacterOffsetBegin": 109,
+						"CharacterOffsetEnd": 117,
+						"Lemma": "BULLSHIT",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"DEMOCRATS": {
+						"CharacterOffsetBegin": 48,
+						"CharacterOffsetEnd": 57,
+						"Lemma": "DEMOCRATS",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNPS",
+						"Sentiment": "Neutral"
+					},
+					"OF": {
+						"CharacterOffsetBegin": 102,
+						"CharacterOffsetEnd": 104,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"PARTIES": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 31,
+						"Lemma": "party",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"PEOPLE": {
+						"CharacterOffsetBegin": 85,
+						"CharacterOffsetEnd": 91,
+						"Lemma": "PEOPLE",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"POWER": {
+						"CharacterOffsetBegin": 72,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "POWER",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"REPUBLICANS": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "REPUBLICANS",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNPS",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"THE": {
+						"CharacterOffsetBegin": 105,
+						"CharacterOffsetEnd": 108,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"TIRED": {
+						"CharacterOffsetBegin": 96,
+						"CharacterOffsetEnd": 101,
+						"Lemma": "tired",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"WANT": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "WANT",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"WE": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 80,
+						"Lemma": "WE",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:55",
+		"tweet_name": "ALL4TRUMP",
+		"tweet_text": "RT @Gianluca_1970: BOTH PARTIES REPUBLICANS AND DEMOCRATS WANT ABSOLUTE POWER\nWE THE PEOPLE ARE TIRED OF THE BULLSHIT #Trump #MakeAmericaGr…",
+		"tweet_user_id": "LOYALtoTRUMP"
+	},
+	"John Kasich": {
+		"id_str": "721902282703376384",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "only",
+						"gov": "primary"
+					},
+					"adverbial modifier": {
+						"dev": "where",
+						"gov": "won"
+					},
+					"auxiliary": {
+						"dev": "has",
+						"gov": "won"
+					},
+					"case marker": {
+						"dev": "of",
+						"gov": "vote"
+					},
+					"clausal complement": {
+						"dev": "Vermont",
+						"gov": "won"
+					},
+					"compound modifier": {
+						"dev": "RT",
+						"gov": "@Nate_Cohn"
+					},
+					"copula": {
+						"dev": "is",
+						"gov": "Vermont"
+					},
+					"dependent": {
+						"dev": "primary",
+						"gov": "@Nate_Cohn"
+					},
+					"determiner": {
+						"dev": "the",
+						"gov": "vote"
+					},
+					"nmod_preposition": {
+						"dev": "vote",
+						"gov": "%"
+					},
+					"nominal subject": {
+						"dev": "%",
+						"gov": "Vermont"
+					},
+					"numeric modifier": {
+						"dev": "64",
+						"gov": "%"
+					},
+					"relative clause modifier": {
+						"dev": "won",
+						"gov": "primary"
+					},
+					"root": {
+						"dev": "@Nate_Cohn",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"64": {
+						"CharacterOffsetBegin": 54,
+						"CharacterOffsetEnd": 56,
+						"Lemma": "64",
+						"NamedEntityTag": "PERCENT",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"%": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 57,
+						"Lemma": "%",
+						"NamedEntityTag": "PERCENT",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 14,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@Nate_Cohn": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 13,
+						"Lemma": "@nate_cohn",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sanders": {
+						"CharacterOffsetBegin": 38,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "Sanders",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"The": {
+						"CharacterOffsetBegin": 15,
+						"CharacterOffsetEnd": 18,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"Vermont": {
+						"CharacterOffsetBegin": 73,
+						"CharacterOffsetEnd": 80,
+						"Lemma": "Vermont",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"has": {
+						"CharacterOffsetBegin": 46,
+						"CharacterOffsetEnd": 49,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"is": {
+						"CharacterOffsetBegin": 70,
+						"CharacterOffsetEnd": 72,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"of": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"only": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "only",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"primary": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 31,
+						"Lemma": "primary",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"the": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 64,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"vote": {
+						"CharacterOffsetBegin": 65,
+						"CharacterOffsetEnd": 69,
+						"Lemma": "vote",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"where": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 37,
+						"Lemma": "where",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "WRB",
+						"Sentiment": "Neutral"
+					},
+					"won": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 53,
+						"Lemma": "win",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Positive"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:51",
+		"tweet_name": "Bernie",
+		"tweet_text": "RT @Nate_Cohn: The only primary where Sanders has won 64% of the vote is Vermont",
+		"tweet_user_id": "GuessWho002"
+	},
+	"Ted Cruz": {
+		"id_str": "721902305042395136",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"appositional modifier": {
+						"dev": "Killer",
+						"gov": "Cruz"
+					},
+					"case marker": {
+						"dev": "for",
+						"gov": "bruisin"
+					},
+					"clausal modifier of noun": {
+						"dev": "murdering",
+						"gov": "bruisin"
+					},
+					"compound modifier": {
+						"dev": "Zodiac",
+						"gov": "Killer"
+					},
+					"conj_collapsed": {
+						"dev": "bruisin",
+						"gov": "Cruz"
+					},
+					"coordination": {
+						"dev": "'n",
+						"gov": "Cruz"
+					},
+					"copula": {
+						"dev": "’re",
+						"gov": "Cruz"
+					},
+					"dependent": {
+						"dev": "Cruz",
+						"gov": "bruisin"
+					},
+					"determiner": {
+						"dev": "the",
+						"gov": "Killer"
+					},
+					"direct object": {
+						"dev": "someone",
+						"gov": "murdering"
+					},
+					"marker": {
+						"dev": "before",
+						"gov": "murdering"
+					},
+					"nominal subject": {
+						"dev": "You",
+						"gov": "Cruz"
+					},
+					"parataxis": {
+						"dev": "Cruz",
+						"gov": "@SassySenSanders"
+					},
+					"root": {
+						"dev": "@SassySenSanders",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"''": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 50,
+						"Lemma": "''",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					"'n": {
+						"CharacterOffsetBegin": 33,
+						"CharacterOffsetEnd": 35,
+						"Lemma": "'n",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "CC",
+						"Sentiment": "Neutral"
+					},
+					"'re": {
+						"CharacterOffsetBegin": 25,
+						"CharacterOffsetEnd": 28,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					",": {
+						"CharacterOffsetBegin": 79,
+						"CharacterOffsetEnd": 80,
+						"Lemma": ",",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ",",
+						"Sentiment": "Neutral"
+					},
+					"-": {
+						"CharacterOffsetBegin": 51,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "-",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 20,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@SassySenSanders": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "@sassysensanders",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"Cruz": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "Cruz",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Killer": {
+						"CharacterOffsetBegin": 73,
+						"CharacterOffsetEnd": 79,
+						"Lemma": "killer",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Negative"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Ted": {
+						"CharacterOffsetBegin": 52,
+						"CharacterOffsetEnd": 55,
+						"Lemma": "Ted",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"You": {
+						"CharacterOffsetBegin": 22,
+						"CharacterOffsetEnd": 25,
+						"Lemma": "you",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"Zodiac": {
+						"CharacterOffsetBegin": 66,
+						"CharacterOffsetEnd": 72,
+						"Lemma": "Zodiac",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"``": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 22,
+						"Lemma": "``",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					},
+					"a": {
+						"CharacterOffsetBegin": 40,
+						"CharacterOffsetEnd": 41,
+						"Lemma": "a",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"before": {
+						"CharacterOffsetBegin": 81,
+						"CharacterOffsetEnd": 87,
+						"Lemma": "before",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"bruisin": {
+						"CharacterOffsetBegin": 42,
+						"CharacterOffsetEnd": 49,
+						"Lemma": "bruisin",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"for": {
+						"CharacterOffsetBegin": 36,
+						"CharacterOffsetEnd": 39,
+						"Lemma": "for",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"murdering": {
+						"CharacterOffsetBegin": 88,
+						"CharacterOffsetEnd": 97,
+						"Lemma": "murder",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"someone": {
+						"CharacterOffsetBegin": 98,
+						"CharacterOffsetEnd": 105,
+						"Lemma": "someone",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"the": {
+						"CharacterOffsetBegin": 62,
+						"CharacterOffsetEnd": 65,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:56",
+		"tweet_name": "jordan",
+		"tweet_text": "RT @SassySenSanders: “You’re Cruz'n for a bruisin�?\n-Ted Cruz, the Zodiac Killer, before murdering someone",
+		"tweet_user_id": "jstumpmier12"
+	}
+}

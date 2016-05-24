@@ -1,0 +1,1270 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721902292648091648",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "amazing",
+						"gov": "negotiator"
+					},
+					"adverbial modifier": {
+						"dev": "more",
+						"gov": "suffers"
+					},
+					"case marker": {
+						"dev": "'s",
+						"gov": "world"
+					},
+					"compound modifier": {
+						"dev": "RT",
+						"gov": "@RonNehring"
+					},
+					"determiner": {
+						"dev": "The",
+						"gov": "world"
+					},
+					"direct object": {
+						"dev": "losses",
+						"gov": "suffers"
+					},
+					"nominal subject": {
+						"dev": "negotiator",
+						"gov": "suffers"
+					},
+					"parataxis": {
+						"dev": "suffers",
+						"gov": "@RonNehring"
+					},
+					"possession modifier": {
+						"dev": "world",
+						"gov": "negotiator"
+					},
+					"root": {
+						"dev": "@RonNehring",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"'s": {
+						"CharacterOffsetBegin": 25,
+						"CharacterOffsetEnd": 27,
+						"Lemma": "'s",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "POS",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 72,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 15,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@RonNehring": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "@ronnehring",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"The": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"amazing": {
+						"CharacterOffsetBegin": 33,
+						"CharacterOffsetEnd": 40,
+						"Lemma": "amazing",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Very positive"
+					},
+					"losses": {
+						"CharacterOffsetBegin": 65,
+						"CharacterOffsetEnd": 71,
+						"Lemma": "loss",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"more": {
+						"CharacterOffsetBegin": 60,
+						"CharacterOffsetEnd": 64,
+						"Lemma": "more",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RBR",
+						"Sentiment": "Neutral"
+					},
+					"most": {
+						"CharacterOffsetBegin": 28,
+						"CharacterOffsetEnd": 32,
+						"Lemma": "most",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RBS",
+						"Sentiment": "Neutral"
+					},
+					"negotiator": {
+						"CharacterOffsetBegin": 41,
+						"CharacterOffsetEnd": 51,
+						"Lemma": "negotiator",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"suffers": {
+						"CharacterOffsetBegin": 52,
+						"CharacterOffsetEnd": 59,
+						"Lemma": "suffer",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"world": {
+						"CharacterOffsetBegin": 20,
+						"CharacterOffsetEnd": 25,
+						"Lemma": "world",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"root": {
+						"dev": "https://t.co/AxyU1Qw56l",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"https://t.co/AxyU1Qw56l": {
+						"CharacterOffsetBegin": 73,
+						"CharacterOffsetEnd": 96,
+						"Lemma": "https://t.co/axyu1qw56l",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:53",
+		"tweet_name": "Allie #NeverTrump",
+		"tweet_text": "RT @RonNehring: The world's most amazing negotiator suffers more losses. https://t.co/AxyU1Qw56l",
+		"tweet_user_id": "ADLeVier"
+	},
+	"Donald Trump": {
+		"id_str": "721902299778392064",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "big",
+						"gov": "guy"
+					},
+					"case marker": {
+						"dev": "of",
+						"gov": "Trump"
+					},
+					"determiner": {
+						"dev": "the",
+						"gov": "defence"
+					},
+					"nmod_preposition": {
+						"dev": "Trump",
+						"gov": "defence"
+					},
+					"nominal subject": {
+						"dev": "guy",
+						"gov": "comes"
+					},
+					"numeric modifier": {
+						"dev": "3",
+						"gov": "episode"
+					},
+					"root": {
+						"dev": "comes",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"3": {
+						"CharacterOffsetBegin": 11,
+						"CharacterOffsetEnd": 12,
+						"Lemma": "3",
+						"NamedEntityTag": "NUMBER",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					",": {
+						"CharacterOffsetBegin": 26,
+						"CharacterOffsetEnd": 27,
+						"Lemma": ",",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ",",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 69,
+						"CharacterOffsetEnd": 70,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"Lathamland": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "Lathamland",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"On": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "on",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 64,
+						"CharacterOffsetEnd": 69,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"big": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 35,
+						"Lemma": "big",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"comes": {
+						"CharacterOffsetBegin": 40,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "come",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Positive"
+					},
+					"defence": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "defence",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"episode": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 10,
+						"Lemma": "episode",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"guy": {
+						"CharacterOffsetBegin": 36,
+						"CharacterOffsetEnd": 39,
+						"Lemma": "guy",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"of": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 63,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"the": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 46,
+						"CharacterOffsetEnd": 48,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "political",
+						"gov": "correctness"
+					},
+					"case marker": {
+						"dev": "to",
+						"gov": "correctness"
+					},
+					"direct object": {
+						"dev": "opposition",
+						"gov": "Loves"
+					},
+					"nmod_preposition": {
+						"dev": "correctness",
+						"gov": "opposition"
+					},
+					"possession modifier": {
+						"dev": "his",
+						"gov": "opposition"
+					},
+					"root": {
+						"dev": "Loves",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"''": {
+						"CharacterOffsetBegin": 117,
+						"CharacterOffsetEnd": 118,
+						"Lemma": "''",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 118,
+						"CharacterOffsetEnd": 119,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"Loves": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 76,
+						"Lemma": "love",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"``": {
+						"CharacterOffsetBegin": 81,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "``",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					},
+					"correctness": {
+						"CharacterOffsetBegin": 106,
+						"CharacterOffsetEnd": 117,
+						"Lemma": "correctness",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"his": {
+						"CharacterOffsetBegin": 77,
+						"CharacterOffsetEnd": 80,
+						"Lemma": "he",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP$",
+						"Sentiment": "Neutral"
+					},
+					"opposition": {
+						"CharacterOffsetBegin": 82,
+						"CharacterOffsetEnd": 92,
+						"Lemma": "opposition",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"political": {
+						"CharacterOffsetBegin": 96,
+						"CharacterOffsetEnd": 105,
+						"Lemma": "political",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 93,
+						"CharacterOffsetEnd": 95,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:55",
+		"tweet_name": "Dan Barrett",
+		"tweet_text": "On episode 3 of Lathamland, the big guy comes to the defence of Trump. Loves his \"opposition to political correctness\".",
+		"tweet_user_id": "TheDanBarrett"
+	},
+	"Hillary Clinton": {
+		"id_str": "721902289565413376",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "NEW",
+						"gov": "#NYPrimary"
+					},
+					"dependent": {
+						"dev": "POLL",
+						"gov": "#NYPrimary"
+					},
+					"root": {
+						"dev": "@DefendingtheUSA",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"!": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 50,
+						"Lemma": "!",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"#NYPrimary": {
+						"CharacterOffsetBegin": 34,
+						"CharacterOffsetEnd": 44,
+						"Lemma": "#NYPrimary",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 20,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@DefendingtheUSA": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "@defendingtheusa",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"BREAKING": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "BREAKING",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"NEW": {
+						"CharacterOffsetBegin": 30,
+						"CharacterOffsetEnd": 33,
+						"Lemma": "NEW",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"POLL": {
+						"CharacterOffsetBegin": 45,
+						"CharacterOffsetEnd": 49,
+						"Lemma": "poll",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "Soros-Funded",
+						"gov": "Kasich"
+					},
+					"adverbial modifier": {
+						"dev": "FAR",
+						"gov": "AHEAD"
+					},
+					"appositional modifier": {
+						"dev": "%",
+						"gov": "Ted"
+					},
+					"case marker": {
+						"dev": "of",
+						"gov": "Kasich"
+					},
+					"compound modifier": {
+						"dev": "55",
+						"gov": "%"
+					},
+					"dependent": {
+						"dev": "COMBINED",
+						"gov": "Ted"
+					},
+					"direct object": {
+						"dev": "Ted",
+						"gov": "Sinking"
+					},
+					"nmod_preposition": {
+						"dev": "Kasich",
+						"gov": "AHEAD"
+					},
+					"nominal subject": {
+						"dev": "&amp;",
+						"gov": "Sinking"
+					},
+					"numeric modifier": {
+						"dev": "18",
+						"gov": "%"
+					},
+					"relative clause modifier": {
+						"dev": "Sinking",
+						"gov": "Kasich"
+					},
+					"root": {
+						"dev": "Trump",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"18": {
+						"CharacterOffsetBegin": 125,
+						"CharacterOffsetEnd": 127,
+						"Lemma": "18",
+						"NamedEntityTag": "PERCENT",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"21": {
+						"CharacterOffsetBegin": 95,
+						"CharacterOffsetEnd": 97,
+						"Lemma": "21",
+						"NamedEntityTag": "PERCENT",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"55": {
+						"CharacterOffsetBegin": 57,
+						"CharacterOffsetEnd": 59,
+						"Lemma": "55",
+						"NamedEntityTag": "PERCENT",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"!": {
+						"CharacterOffsetBegin": 138,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "!",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"%": {
+						"CharacterOffsetBegin": 127,
+						"CharacterOffsetEnd": 128,
+						"Lemma": "%",
+						"NamedEntityTag": "PERCENT",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"&": {
+						"CharacterOffsetBegin": 100,
+						"CharacterOffsetEnd": 105,
+						"Lemma": "&",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "CC",
+						"Sentiment": "Neutral"
+					},
+					"'": {
+						"CharacterOffsetBegin": 118,
+						"CharacterOffsetEnd": 119,
+						"Lemma": "'",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					"-LRB-": {
+						"CharacterOffsetBegin": 124,
+						"CharacterOffsetEnd": 125,
+						"Lemma": "-lrb-",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "-LRB-",
+						"Sentiment": "Neutral"
+					},
+					"-RRB-": {
+						"CharacterOffsetBegin": 128,
+						"CharacterOffsetEnd": 129,
+						"Lemma": "-rrb-",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "-RRB-",
+						"Sentiment": "Neutral"
+					},
+					"AHEAD": {
+						"CharacterOffsetBegin": 65,
+						"CharacterOffsetEnd": 70,
+						"Lemma": "ahead",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"COMBINED": {
+						"CharacterOffsetBegin": 130,
+						"CharacterOffsetEnd": 138,
+						"Lemma": "combined",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"FAR": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 64,
+						"Lemma": "far",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"Kasich": {
+						"CharacterOffsetBegin": 87,
+						"CharacterOffsetEnd": 93,
+						"Lemma": "Kasich",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Lyin": {
+						"CharacterOffsetBegin": 114,
+						"CharacterOffsetEnd": 118,
+						"Lemma": "lyin",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sinking": {
+						"CharacterOffsetBegin": 106,
+						"CharacterOffsetEnd": 113,
+						"Lemma": "sink",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"Soros-Funded": {
+						"CharacterOffsetBegin": 74,
+						"CharacterOffsetEnd": 86,
+						"Lemma": "soros-funded",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"Ted": {
+						"CharacterOffsetBegin": 120,
+						"CharacterOffsetEnd": 123,
+						"Lemma": "Ted",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 51,
+						"CharacterOffsetEnd": 56,
+						"Lemma": "Trump",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"of": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 73,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"root": {
+						"dev": "htt",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"...": {
+						"CharacterOffsetBegin": 143,
+						"CharacterOffsetEnd": 144,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"htt": {
+						"CharacterOffsetBegin": 140,
+						"CharacterOffsetEnd": 143,
+						"Lemma": "htt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:52",
+		"tweet_name": "DEBRA GIFFORD",
+		"tweet_text": "RT @DefendingtheUSA: BREAKING NEW #NYPrimary POLL!\nTrump 55%\nFAR AHEAD of Soros-Funded Kasich (21%) &amp; Sinking Lyin' Ted (18%) COMBINED! htt…",
+		"tweet_user_id": "lovemyyorkie14"
+	},
+	"John Kasich": {
+		"id_str": "721900945693495296",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "#Trump",
+						"gov": "2016"
+					},
+					"adverbial clause modifier": {
+						"dev": "said",
+						"gov": "get"
+					},
+					"adverbial modifier": {
+						"dev": "always",
+						"gov": "get"
+					},
+					"case marker": {
+						"dev": "as",
+						"gov": "2016"
+					},
+					"compound modifier": {
+						"dev": "RT",
+						"gov": "@MNTrump"
+					},
+					"coordination": {
+						"dev": "but",
+						"gov": "get"
+					},
+					"copula": {
+						"dev": "is",
+						"gov": "cheater"
+					},
+					"dependent": {
+						"dev": "caught",
+						"gov": "get"
+					},
+					"determiner": {
+						"dev": "a",
+						"gov": "cheater"
+					},
+					"nmod_preposition": {
+						"dev": "2016",
+						"gov": "said"
+					},
+					"nominal subject": {
+						"dev": "he",
+						"gov": "get"
+					},
+					"parataxis": {
+						"dev": "get",
+						"gov": "cheater"
+					},
+					"root": {
+						"dev": "@MNTrump",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"2016": {
+						"CharacterOffsetBegin": 62,
+						"CharacterOffsetEnd": 66,
+						"Lemma": "2016",
+						"NamedEntityTag": "DATE",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"!": {
+						"CharacterOffsetBegin": 93,
+						"CharacterOffsetEnd": 94,
+						"Lemma": "!",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"#TedCruz": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 21,
+						"Lemma": "#tedcruz",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#Trump": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "#trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					",": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 72,
+						"Lemma": ",",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ",",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 11,
+						"CharacterOffsetEnd": 12,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					";": {
+						"CharacterOffsetBegin": 47,
+						"CharacterOffsetEnd": 48,
+						"Lemma": ";",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@MNTrump": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 11,
+						"Lemma": "@mntrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"a": {
+						"CharacterOffsetBegin": 25,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "a",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"always": {
+						"CharacterOffsetBegin": 76,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "always",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"as": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 55,
+						"Lemma": "as",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"but": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "but",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "CC",
+						"Sentiment": "Neutral"
+					},
+					"caught": {
+						"CharacterOffsetBegin": 87,
+						"CharacterOffsetEnd": 93,
+						"Lemma": "catch",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"cheater": {
+						"CharacterOffsetBegin": 40,
+						"CharacterOffsetEnd": 47,
+						"Lemma": "cheater",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"get": {
+						"CharacterOffsetBegin": 83,
+						"CharacterOffsetEnd": 86,
+						"Lemma": "get",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"he": {
+						"CharacterOffsetBegin": 73,
+						"CharacterOffsetEnd": 75,
+						"Lemma": "he",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"is": {
+						"CharacterOffsetBegin": 22,
+						"CharacterOffsetEnd": 24,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"pathological": {
+						"CharacterOffsetBegin": 27,
+						"CharacterOffsetEnd": 39,
+						"Lemma": "pathological",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"said": {
+						"CharacterOffsetBegin": 67,
+						"CharacterOffsetEnd": 71,
+						"Lemma": "say",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "intelligent",
+						"gov": "guy"
+					},
+					"determiner": {
+						"dev": "an",
+						"gov": "guy"
+					},
+					"negation modifier": {
+						"dev": "Not",
+						"gov": "guy"
+					},
+					"root": {
+						"dev": "guy",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 117,
+						"CharacterOffsetEnd": 118,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"Not": {
+						"CharacterOffsetBegin": 95,
+						"CharacterOffsetEnd": 98,
+						"Lemma": "not",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"an": {
+						"CharacterOffsetBegin": 99,
+						"CharacterOffsetEnd": 101,
+						"Lemma": "a",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"guy": {
+						"CharacterOffsetBegin": 114,
+						"CharacterOffsetEnd": 117,
+						"Lemma": "guy",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"intelligent": {
+						"CharacterOffsetBegin": 102,
+						"CharacterOffsetEnd": 113,
+						"Lemma": "intelligent",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Positive"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "Crude",
+						"gov": "Cruz"
+					},
+					"dependent": {
+						"dev": "https://t…",
+						"gov": "Cruz"
+					},
+					"root": {
+						"dev": "Cruz",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"Crude": {
+						"CharacterOffsetBegin": 119,
+						"CharacterOffsetEnd": 124,
+						"Lemma": "crude",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"Cruz": {
+						"CharacterOffsetBegin": 125,
+						"CharacterOffsetEnd": 129,
+						"Lemma": "Cruz",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"https://t…": {
+						"CharacterOffsetBegin": 130,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "https://t…",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "Cheryl Clarke",
+		"tweet_text": "RT @MNTrump: #TedCruz is a pathological cheater; but as #Trump2016 said, he always get caught! Not an intelligent guy. Crude Cruz https://t…",
+		"tweet_user_id": "CherylC24976869"
+	},
+	"Ted Cruz": {
+		"id_str": "721900945236369408",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "starter",
+						"gov": "https://t.co/JJ6aTWkCO9"
+					},
+					"auxiliary": {
+						"dev": "'m",
+						"gov": "voting"
+					},
+					"case marker": {
+						"dev": "for",
+						"gov": "Trump"
+					},
+					"compound modifier": {
+						"dev": "pack",
+						"gov": "https://t.co/JJ6aTWkCO9"
+					},
+					"direct object": {
+						"dev": "https://t.co/JJ6aTWkCO9",
+						"gov": "voting"
+					},
+					"negation modifier": {
+						"dev": "not",
+						"gov": "voting"
+					},
+					"nmod_preposition": {
+						"dev": "Trump",
+						"gov": "voting"
+					},
+					"nominal subject": {
+						"dev": "I",
+						"gov": "voting"
+					},
+					"parataxis": {
+						"dev": "voting",
+						"gov": "@girlideas"
+					},
+					"root": {
+						"dev": "@girlideas",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"''": {
+						"CharacterOffsetBegin": 47,
+						"CharacterOffsetEnd": 48,
+						"Lemma": "''",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					"'m": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 14,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@girlideas": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 13,
+						"Lemma": "@girlideas",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"Donald": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 41,
+						"Lemma": "Donald",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"I": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "I",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 42,
+						"CharacterOffsetEnd": 47,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"``": {
+						"CharacterOffsetBegin": 15,
+						"CharacterOffsetEnd": 16,
+						"Lemma": "``",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					},
+					"for": {
+						"CharacterOffsetBegin": 31,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "for",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/JJ6aTWkCO9": {
+						"CharacterOffsetBegin": 62,
+						"CharacterOffsetEnd": 85,
+						"Lemma": "https://t.co/jj6atwkco9",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"not": {
+						"CharacterOffsetBegin": 20,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "not",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Negative"
+					},
+					"pack": {
+						"CharacterOffsetBegin": 57,
+						"CharacterOffsetEnd": 61,
+						"Lemma": "pack",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"starter": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 56,
+						"Lemma": "starter",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"voting": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 30,
+						"Lemma": "vote",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "Makayla Munroe",
+		"tweet_text": "RT @girlideas: \"I'm not voting for Donald Trump\" starter pack https://t.co/JJ6aTWkCO9",
+		"tweet_user_id": "MakaylaLynnx3"
+	}
+}

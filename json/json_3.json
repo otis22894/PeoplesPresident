@@ -1,0 +1,1138 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721900936726126592",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "RT",
+						"gov": "@Gabby_Hoffman"
+					},
+					"root": {
+						"dev": "@Gabby_Hoffman",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 20,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 18,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@Gabby_Hoffman": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "@gabby_hoffman",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "immigrant",
+						"gov": "patterns"
+					},
+					"case marker": {
+						"dev": "on",
+						"gov": "patterns"
+					},
+					"compound modifier": {
+						"dev": "voter",
+						"gov": "patterns"
+					},
+					"determiner": {
+						"dev": "an",
+						"gov": "piece"
+					},
+					"direct object": {
+						"dev": "piece",
+						"gov": "had"
+					},
+					"nmod_preposition": {
+						"dev": "patterns",
+						"gov": "piece"
+					},
+					"nominal subject": {
+						"dev": "@TheAtlantic",
+						"gov": "had"
+					},
+					"root": {
+						"dev": "had",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 92,
+						"CharacterOffsetEnd": 93,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"@TheAtlantic": {
+						"CharacterOffsetBegin": 20,
+						"CharacterOffsetEnd": 32,
+						"Lemma": "@TheAtlantic",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Soviet": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 67,
+						"Lemma": "soviet",
+						"NamedEntityTag": "MISC",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"an": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 39,
+						"Lemma": "a",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"had": {
+						"CharacterOffsetBegin": 33,
+						"CharacterOffsetEnd": 36,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"immigrant": {
+						"CharacterOffsetBegin": 68,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "immigrant",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"interesting": {
+						"CharacterOffsetBegin": 40,
+						"CharacterOffsetEnd": 51,
+						"Lemma": "interesting",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Positive"
+					},
+					"on": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "on",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"patterns": {
+						"CharacterOffsetBegin": 84,
+						"CharacterOffsetEnd": 92,
+						"Lemma": "pattern",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"piece": {
+						"CharacterOffsetBegin": 52,
+						"CharacterOffsetEnd": 57,
+						"Lemma": "piece",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"voter": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 83,
+						"Lemma": "voter",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"adverbial modifier": {
+						"dev": "here",
+						"gov": "found"
+					},
+					"auxiliary": {
+						"dev": "can",
+						"gov": "found"
+					},
+					"case marker": {
+						"dev": "at",
+						"gov": "@resurgent"
+					},
+					"nmod_preposition": {
+						"dev": "@resurgent",
+						"gov": "take"
+					},
+					"nominal passive subject": {
+						"dev": "take",
+						"gov": "found"
+					},
+					"parataxis": {
+						"dev": "http",
+						"gov": "found"
+					},
+					"passive auxiliary": {
+						"dev": "be",
+						"gov": "found"
+					},
+					"possession modifier": {
+						"dev": "My",
+						"gov": "take"
+					},
+					"root": {
+						"dev": "found",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 133,
+						"CharacterOffsetEnd": 134,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@resurgent": {
+						"CharacterOffsetBegin": 105,
+						"CharacterOffsetEnd": 115,
+						"Lemma": "@resurgent",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"My": {
+						"CharacterOffsetBegin": 94,
+						"CharacterOffsetEnd": 96,
+						"Lemma": "my",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP$",
+						"Sentiment": "Neutral"
+					},
+					"at": {
+						"CharacterOffsetBegin": 102,
+						"CharacterOffsetEnd": 104,
+						"Lemma": "at",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"be": {
+						"CharacterOffsetBegin": 120,
+						"CharacterOffsetEnd": 122,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"can": {
+						"CharacterOffsetBegin": 116,
+						"CharacterOffsetEnd": 119,
+						"Lemma": "can",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "MD",
+						"Sentiment": "Neutral"
+					},
+					"found": {
+						"CharacterOffsetBegin": 123,
+						"CharacterOffsetEnd": 128,
+						"Lemma": "find",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"here": {
+						"CharacterOffsetBegin": 129,
+						"CharacterOffsetEnd": 133,
+						"Lemma": "here",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"http": {
+						"CharacterOffsetBegin": 135,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "http",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"take": {
+						"CharacterOffsetBegin": 97,
+						"CharacterOffsetEnd": 101,
+						"Lemma": "take",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:19:30",
+		"tweet_name": "Melissa",
+		"tweet_text": "RT @Gabby_Hoffman: .@TheAtlantic had an interesting piece on Soviet immigrant voter patterns. My take at @resurgent can be found here: http…",
+		"tweet_user_id": "MLAS"
+	},
+	"Donald Trump": {
+		"id_str": "721902286977544192",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"auxiliary": {
+						"dev": "Will",
+						"gov": "next"
+					},
+					"compound modifier": {
+						"dev": "RT",
+						"gov": "@goprapebuster"
+					},
+					"copula": {
+						"dev": "be",
+						"gov": "next"
+					},
+					"dependent": {
+						"dev": "next",
+						"gov": "@goprapebuster"
+					},
+					"nominal subject": {
+						"dev": "Texas",
+						"gov": "next"
+					},
+					"root": {
+						"dev": "@goprapebuster",
+						"gov": ""
+					}
+				},
+				"Token": {
+					":": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 18,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"?": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 38,
+						"Lemma": "?",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"@goprapebuster": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "@goprapebuster",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Texas": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "Texas",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Will": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "will",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "MD",
+						"Sentiment": "Neutral"
+					},
+					"be": {
+						"CharacterOffsetBegin": 30,
+						"CharacterOffsetEnd": 32,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"next": {
+						"CharacterOffsetBegin": 33,
+						"CharacterOffsetEnd": 37,
+						"Lemma": "next",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"direct object": {
+						"dev": "????",
+						"gov": "Please"
+					},
+					"root": {
+						"dev": "Please",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"????": {
+						"CharacterOffsetBegin": 45,
+						"CharacterOffsetEnd": 49,
+						"Lemma": "????",
+						"NamedEntityTag": "NUMBER",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"Please": {
+						"CharacterOffsetBegin": 39,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "please",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"root": {
+						"dev": "https://t.co/5qqFst2dT8",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"https://t.co/5qqFst2dT8": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 73,
+						"Lemma": "https://t.co/5qqfst2dt8",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:52",
+		"tweet_name": "angie patterson",
+		"tweet_text": "RT @goprapebuster: Will Texas be next? Please???? https://t.co/5qqFst2dT8",
+		"tweet_user_id": "angiepatterso15"
+	},
+	"Hillary Clinton": {
+		"id_str": "721902302215421952",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "RT",
+						"gov": "@NaYaKnoMi"
+					},
+					"root": {
+						"dev": "@NaYaKnoMi",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 15,
+						"CharacterOffsetEnd": 16,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 14,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@NaYaKnoMi": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 13,
+						"Lemma": "@nayaknomi",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "@adbridgeforth",
+						"gov": "@terri_georgia"
+					},
+					"compound modifier": {
+						"dev": "#IDFWBernie",
+						"gov": "https://t.co/5qsI1UMOWK"
+					},
+					"dependent": {
+						"dev": "https://t.co/5qsI1UMOWK",
+						"gov": "@terri_georgia"
+					},
+					"determiner": {
+						"dev": "another",
+						"gov": "reason"
+					},
+					"root": {
+						"dev": "@terri_georgia",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#IDFWBernie": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 72,
+						"Lemma": "#idfwbernie",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"@adbridgeforth": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 30,
+						"Lemma": "@adbridgeforth",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"@terri_georgia": {
+						"CharacterOffsetBegin": 31,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "@terri_georgia",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"another": {
+						"CharacterOffsetBegin": 46,
+						"CharacterOffsetEnd": 53,
+						"Lemma": "another",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/5qsI1UMOWK": {
+						"CharacterOffsetBegin": 73,
+						"CharacterOffsetEnd": 96,
+						"Lemma": "https://t.co/5qsi1umowk",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"reason": {
+						"CharacterOffsetBegin": 54,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "reason",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:55",
+		"tweet_name": "banana",
+		"tweet_text": "RT @NaYaKnoMi: .@adbridgeforth @terri_georgia another reason #IDFWBernie https://t.co/5qsI1UMOWK",
+		"tweet_user_id": "icyjuicy"
+	},
+	"John Kasich": {
+		"id_str": "721900928803033088",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "RT",
+						"gov": "@abc7leanne"
+					},
+					"root": {
+						"dev": "@abc7leanne",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 17,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 15,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@abc7leanne": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "@abc7leanne",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "big",
+						"gov": "fundraiser"
+					},
+					"case marker": {
+						"dev": "to",
+						"gov": "fundraiser"
+					},
+					"compound modifier": {
+						"dev": "#hollywood",
+						"gov": "fundraiser"
+					},
+					"direct object": {
+						"dev": "bills",
+						"gov": "throw"
+					},
+					"nmod_preposition": {
+						"dev": "fundraiser",
+						"gov": "throw"
+					},
+					"nominal subject": {
+						"dev": "supporters",
+						"gov": "throw"
+					},
+					"root": {
+						"dev": "throw",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#Hillary": {
+						"CharacterOffsetBegin": 59,
+						"CharacterOffsetEnd": 67,
+						"Lemma": "#Hillary",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"#Sanders": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 25,
+						"Lemma": "#sanders",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"#hollywood": {
+						"CharacterOffsetBegin": 96,
+						"CharacterOffsetEnd": 106,
+						"Lemma": "#hollywood",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 117,
+						"CharacterOffsetEnd": 118,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"Clinton": {
+						"CharacterOffsetBegin": 68,
+						"CharacterOffsetEnd": 75,
+						"Lemma": "Clinton",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"at": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 58,
+						"Lemma": "at",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"big": {
+						"CharacterOffsetBegin": 86,
+						"CharacterOffsetEnd": 89,
+						"Lemma": "big",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"bills": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 55,
+						"Lemma": "bill",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"dollar": {
+						"CharacterOffsetBegin": 43,
+						"CharacterOffsetEnd": 49,
+						"Lemma": "dollar",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"fundraiser": {
+						"CharacterOffsetBegin": 107,
+						"CharacterOffsetEnd": 117,
+						"Lemma": "fundraiser",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"money": {
+						"CharacterOffsetBegin": 90,
+						"CharacterOffsetEnd": 95,
+						"Lemma": "money",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"on": {
+						"CharacterOffsetBegin": 76,
+						"CharacterOffsetEnd": 78,
+						"Lemma": "on",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"supporters": {
+						"CharacterOffsetBegin": 26,
+						"CharacterOffsetEnd": 36,
+						"Lemma": "supporter",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"throw": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 42,
+						"Lemma": "throw",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 83,
+						"CharacterOffsetEnd": 85,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					},
+					"way": {
+						"CharacterOffsetBegin": 79,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "way",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"case marker": {
+						"dev": "at",
+						"gov": "https"
+					},
+					"nmod_preposition": {
+						"dev": "https",
+						"gov": "Story"
+					},
+					"numeric modifier": {
+						"dev": "11pm",
+						"gov": "https"
+					},
+					"root": {
+						"dev": "Story",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"11pm": {
+						"CharacterOffsetBegin": 128,
+						"CharacterOffsetEnd": 132,
+						"Lemma": "11pm",
+						"NamedEntityTag": "TIME",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 138,
+						"CharacterOffsetEnd": 139,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"Story": {
+						"CharacterOffsetBegin": 119,
+						"CharacterOffsetEnd": 124,
+						"Lemma": "Story",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"at": {
+						"CharacterOffsetBegin": 125,
+						"CharacterOffsetEnd": 127,
+						"Lemma": "at",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"https": {
+						"CharacterOffsetBegin": 133,
+						"CharacterOffsetEnd": 138,
+						"Lemma": "http",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:19:28",
+		"tweet_name": "Betsy",
+		"tweet_text": "RT @abc7leanne: .#Sanders supporters throw dollar bills at #Hillary Clinton on way to big money #hollywood fundraiser. Story at 11pm https:…",
+		"tweet_user_id": "bbkenn92"
+	},
+	"Ted Cruz": {
+		"id_str": "721902295995121664",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adverbial clause modifier": {
+						"dev": "strike",
+						"gov": "crush"
+					},
+					"auxiliary": {
+						"dev": "can",
+						"gov": "strike"
+					},
+					"compound modifier": {
+						"dev": "Ted",
+						"gov": "Cruz"
+					},
+					"dependent": {
+						"dev": "@FranklinMan25",
+						"gov": "@WYMamaBon"
+					},
+					"determiner": {
+						"dev": "the",
+						"gov": "enemy"
+					},
+					"direct object": {
+						"dev": "enemy",
+						"gov": "crush"
+					},
+					"marker": {
+						"dev": "before",
+						"gov": "strike"
+					},
+					"nominal subject": {
+						"dev": "they",
+						"gov": "strike"
+					},
+					"parataxis": {
+						"dev": "know",
+						"gov": "@WYMamaBon"
+					},
+					"root": {
+						"dev": "@WYMamaBon",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 100,
+						"CharacterOffsetEnd": 101,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 33,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@FranklinMan25": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 32,
+						"Lemma": "@FranklinMan25",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"@WYMamaBon": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 13,
+						"Lemma": "@wymamabon",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Cruz": {
+						"CharacterOffsetBegin": 38,
+						"CharacterOffsetEnd": 42,
+						"Lemma": "Cruz",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"MT": {
+						"CharacterOffsetBegin": 15,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "MT",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Ted": {
+						"CharacterOffsetBegin": 34,
+						"CharacterOffsetEnd": 37,
+						"Lemma": "Ted",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"before": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 84,
+						"Lemma": "before",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"can": {
+						"CharacterOffsetBegin": 90,
+						"CharacterOffsetEnd": 93,
+						"Lemma": "can",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "MD",
+						"Sentiment": "Neutral"
+					},
+					"crush": {
+						"CharacterOffsetBegin": 62,
+						"CharacterOffsetEnd": 67,
+						"Lemma": "crush",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"enemy": {
+						"CharacterOffsetBegin": 72,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "enemy",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"has": {
+						"CharacterOffsetBegin": 43,
+						"CharacterOffsetEnd": 46,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"know": {
+						"CharacterOffsetBegin": 47,
+						"CharacterOffsetEnd": 51,
+						"Lemma": "know",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"strike": {
+						"CharacterOffsetBegin": 94,
+						"CharacterOffsetEnd": 100,
+						"Lemma": "strike",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"the": {
+						"CharacterOffsetBegin": 68,
+						"CharacterOffsetEnd": 71,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"they": {
+						"CharacterOffsetBegin": 85,
+						"CharacterOffsetEnd": 89,
+						"Lemma": "they",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 59,
+						"CharacterOffsetEnd": 61,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					},
+					"withal": {
+						"CharacterOffsetBegin": 52,
+						"CharacterOffsetEnd": 58,
+						"Lemma": "withal",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "#CruzCrew",
+						"gov": "#PJ"
+					},
+					"root": {
+						"dev": "#PJ",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#CruzCrew": {
+						"CharacterOffsetBegin": 126,
+						"CharacterOffsetEnd": 135,
+						"Lemma": "#cruzcrew",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#PJ": {
+						"CharacterOffsetBegin": 136,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "#pj",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/JfBo9IAnBF": {
+						"CharacterOffsetBegin": 102,
+						"CharacterOffsetEnd": 125,
+						"Lemma": "https://t.co/jfbo9ianbf",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:54",
+		"tweet_name": "mathewsjw",
+		"tweet_text": "RT @WYMamaBon: MT @FranklinMan25: Ted Cruz has know withal to crush the enemy before they can strike. https://t.co/JfBo9IAnBF #CruzCrew #PJ…",
+		"tweet_user_id": "mathewsjw"
+	}
+}

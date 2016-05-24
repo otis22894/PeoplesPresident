@@ -1,0 +1,46 @@
+{
+	"John Kasich": {
+		"id_str":"721858445939318016",
+		"timestamp":"4/18/2016 12:30:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"https:\/\/t.co\/yoAXlvKaVD\":{\"Lemma\":\"https:\/\/t.co\/yoaxlvkavd\",\"CharacterOffsetBegin\":42,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":65,\"Sentiment\":\"Neutral\"},\"and\":{\"Lemma\":\"and\",\"CharacterOffsetBegin\":13,\"PartOfSpeech\":\"CC\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":16,\"Sentiment\":\"Neutral\"},\"progressives\":{\"Lemma\":\"progressive\",\"CharacterOffsetBegin\":29,\"PartOfSpeech\":\"NNS\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":41,\"Sentiment\":\"Neutral\"},\"Sanders\":{\"Lemma\":\"Sanders\",\"CharacterOffsetBegin\":17,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":24,\"Sentiment\":\"Neutral\"},\"owe\":{\"Lemma\":\"owe\",\"CharacterOffsetBegin\":25,\"PartOfSpeech\":\"VBP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":28,\"Sentiment\":\"Neutral\"},\"What\":{\"Lemma\":\"what\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"WDT\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":4,\"Sentiment\":\"Neutral\"},\"Clinton\":{\"Lemma\":\"Clinton\",\"CharacterOffsetBegin\":5,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":12,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"direct object\":{\"dev\":\"https:\/\/t.co\/yoAXlvKaVD\",\"gov\":\"owe\"},\"root\":{\"dev\":\"owe\",\"gov\":\"\"},\"nominal subject\":{\"dev\":\"Clinton\",\"gov\":\"owe\"},\"conj_collapsed\":{\"dev\":\"Sanders\",\"gov\":\"Clinton\"},\"indirect object\":{\"dev\":\"progressives\",\"gov\":\"owe\"},\"coordination\":{\"dev\":\"and\",\"gov\":\"Clinton\"}}},\"Sentiment\":0}",
+		"tweet_name":"John Muriango",
+		"tweet_text":"What Clinton and Sanders owe progressives https://t.co/yoAXlvKaVD",
+		"tweet_user_id":"juanmuriango"
+	},
+
+	"Ted Cruz": {
+		"id_str":"721858445939318016",
+		"timestamp":"4/18/2016 12:30:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"https:\/\/t.co\/yoAXlvKaVD\":{\"Lemma\":\"https:\/\/t.co\/yoaxlvkavd\",\"CharacterOffsetBegin\":42,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":65,\"Sentiment\":\"Neutral\"},\"and\":{\"Lemma\":\"and\",\"CharacterOffsetBegin\":13,\"PartOfSpeech\":\"CC\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":16,\"Sentiment\":\"Neutral\"},\"progressives\":{\"Lemma\":\"progressive\",\"CharacterOffsetBegin\":29,\"PartOfSpeech\":\"NNS\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":41,\"Sentiment\":\"Neutral\"},\"Sanders\":{\"Lemma\":\"Sanders\",\"CharacterOffsetBegin\":17,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":24,\"Sentiment\":\"Neutral\"},\"owe\":{\"Lemma\":\"owe\",\"CharacterOffsetBegin\":25,\"PartOfSpeech\":\"VBP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":28,\"Sentiment\":\"Neutral\"},\"What\":{\"Lemma\":\"what\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"WDT\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":4,\"Sentiment\":\"Neutral\"},\"Clinton\":{\"Lemma\":\"Clinton\",\"CharacterOffsetBegin\":5,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":12,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"direct object\":{\"dev\":\"https:\/\/t.co\/yoAXlvKaVD\",\"gov\":\"owe\"},\"root\":{\"dev\":\"owe\",\"gov\":\"\"},\"nominal subject\":{\"dev\":\"Clinton\",\"gov\":\"owe\"},\"conj_collapsed\":{\"dev\":\"Sanders\",\"gov\":\"Clinton\"},\"indirect object\":{\"dev\":\"progressives\",\"gov\":\"owe\"},\"coordination\":{\"dev\":\"and\",\"gov\":\"Clinton\"}}},\"Sentiment\":0}",
+		"tweet_name":"John Muriango",
+		"tweet_text":"What Clinton and Sanders owe progressives https://t.co/yoAXlvKaVD",
+		"tweet_user_id":"juanmuriango"
+	},
+
+	"Donald Trump": {
+		"id_str":"721858445939318016",
+		"timestamp":"4/18/2016 12:30:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"https:\/\/t.co\/yoAXlvKaVD\":{\"Lemma\":\"https:\/\/t.co\/yoaxlvkavd\",\"CharacterOffsetBegin\":42,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":65,\"Sentiment\":\"Neutral\"},\"and\":{\"Lemma\":\"and\",\"CharacterOffsetBegin\":13,\"PartOfSpeech\":\"CC\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":16,\"Sentiment\":\"Neutral\"},\"progressives\":{\"Lemma\":\"progressive\",\"CharacterOffsetBegin\":29,\"PartOfSpeech\":\"NNS\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":41,\"Sentiment\":\"Neutral\"},\"Sanders\":{\"Lemma\":\"Sanders\",\"CharacterOffsetBegin\":17,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":24,\"Sentiment\":\"Neutral\"},\"owe\":{\"Lemma\":\"owe\",\"CharacterOffsetBegin\":25,\"PartOfSpeech\":\"VBP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":28,\"Sentiment\":\"Neutral\"},\"What\":{\"Lemma\":\"what\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"WDT\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":4,\"Sentiment\":\"Neutral\"},\"Clinton\":{\"Lemma\":\"Clinton\",\"CharacterOffsetBegin\":5,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":12,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"direct object\":{\"dev\":\"https:\/\/t.co\/yoAXlvKaVD\",\"gov\":\"owe\"},\"root\":{\"dev\":\"owe\",\"gov\":\"\"},\"nominal subject\":{\"dev\":\"Clinton\",\"gov\":\"owe\"},\"conj_collapsed\":{\"dev\":\"Sanders\",\"gov\":\"Clinton\"},\"indirect object\":{\"dev\":\"progressives\",\"gov\":\"owe\"},\"coordination\":{\"dev\":\"and\",\"gov\":\"Clinton\"}}},\"Sentiment\":0}",
+		"tweet_name":"John Muriango",
+		"tweet_text":"What Clinton and Sanders owe progressives https://t.co/yoAXlvKaVD",
+		"tweet_user_id":"juanmuriango"
+	},
+
+	"Bernie Sanders": {
+		"id_str":"721858445939318016",
+		"timestamp":"4/18/2016 12:30:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"https:\/\/t.co\/yoAXlvKaVD\":{\"Lemma\":\"https:\/\/t.co\/yoaxlvkavd\",\"CharacterOffsetBegin\":42,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":65,\"Sentiment\":\"Neutral\"},\"and\":{\"Lemma\":\"and\",\"CharacterOffsetBegin\":13,\"PartOfSpeech\":\"CC\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":16,\"Sentiment\":\"Neutral\"},\"progressives\":{\"Lemma\":\"progressive\",\"CharacterOffsetBegin\":29,\"PartOfSpeech\":\"NNS\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":41,\"Sentiment\":\"Neutral\"},\"Sanders\":{\"Lemma\":\"Sanders\",\"CharacterOffsetBegin\":17,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":24,\"Sentiment\":\"Neutral\"},\"owe\":{\"Lemma\":\"owe\",\"CharacterOffsetBegin\":25,\"PartOfSpeech\":\"VBP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":28,\"Sentiment\":\"Neutral\"},\"What\":{\"Lemma\":\"what\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"WDT\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":4,\"Sentiment\":\"Neutral\"},\"Clinton\":{\"Lemma\":\"Clinton\",\"CharacterOffsetBegin\":5,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":12,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"direct object\":{\"dev\":\"https:\/\/t.co\/yoAXlvKaVD\",\"gov\":\"owe\"},\"root\":{\"dev\":\"owe\",\"gov\":\"\"},\"nominal subject\":{\"dev\":\"Clinton\",\"gov\":\"owe\"},\"conj_collapsed\":{\"dev\":\"Sanders\",\"gov\":\"Clinton\"},\"indirect object\":{\"dev\":\"progressives\",\"gov\":\"owe\"},\"coordination\":{\"dev\":\"and\",\"gov\":\"Clinton\"}}},\"Sentiment\":0}",
+		"tweet_name":"John Muriango",
+		"tweet_text":"What Clinton and Sanders owe progressives https://t.co/yoAXlvKaVD",
+		"tweet_user_id":"juanmuriango"
+	},
+
+	"Hillary Clinton": {
+		"id_str":"721858445939318016",
+		"timestamp":"4/18/2016 12:30:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"https:\/\/t.co\/yoAXlvKaVD\":{\"Lemma\":\"https:\/\/t.co\/yoaxlvkavd\",\"CharacterOffsetBegin\":42,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":65,\"Sentiment\":\"Neutral\"},\"and\":{\"Lemma\":\"and\",\"CharacterOffsetBegin\":13,\"PartOfSpeech\":\"CC\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":16,\"Sentiment\":\"Neutral\"},\"progressives\":{\"Lemma\":\"progressive\",\"CharacterOffsetBegin\":29,\"PartOfSpeech\":\"NNS\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":41,\"Sentiment\":\"Neutral\"},\"Sanders\":{\"Lemma\":\"Sanders\",\"CharacterOffsetBegin\":17,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":24,\"Sentiment\":\"Neutral\"},\"owe\":{\"Lemma\":\"owe\",\"CharacterOffsetBegin\":25,\"PartOfSpeech\":\"VBP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":28,\"Sentiment\":\"Neutral\"},\"What\":{\"Lemma\":\"what\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"WDT\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":4,\"Sentiment\":\"Neutral\"},\"Clinton\":{\"Lemma\":\"Clinton\",\"CharacterOffsetBegin\":5,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":12,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"direct object\":{\"dev\":\"https:\/\/t.co\/yoAXlvKaVD\",\"gov\":\"owe\"},\"root\":{\"dev\":\"owe\",\"gov\":\"\"},\"nominal subject\":{\"dev\":\"Clinton\",\"gov\":\"owe\"},\"conj_collapsed\":{\"dev\":\"Sanders\",\"gov\":\"Clinton\"},\"indirect object\":{\"dev\":\"progressives\",\"gov\":\"owe\"},\"coordination\":{\"dev\":\"and\",\"gov\":\"Clinton\"}}},\"Sentiment\":0}",
+		"tweet_name":"John Muriango",
+		"tweet_text":"What Clinton and Sanders owe progressives https://t.co/yoAXlvKaVD",
+		"tweet_user_id":"juanmuriango"
+	}
+}

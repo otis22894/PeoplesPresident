@@ -1,0 +1,970 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721902289250856960",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "WITH",
+						"gov": "CITATIONS"
+					},
+					"compound modifier": {
+						"dev": "Bernie",
+						"gov": "Sanders"
+					},
+					"dependent": {
+						"dev": "retweet",
+						"gov": "Here"
+					},
+					"determiner": {
+						"dev": "A",
+						"gov": "List"
+					},
+					"direct object": {
+						"dev": "share",
+						"gov": "Please"
+					},
+					"nmod_preposition": {
+						"dev": "CITATIONS",
+						"gov": "Accomplishments"
+					},
+					"possession modifier": {
+						"dev": "Sanders",
+						"gov": "Accomplishments"
+					},
+					"root": {
+						"dev": "@NCForBernie",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"!": {
+						"CharacterOffsetBegin": 112,
+						"CharacterOffsetEnd": 113,
+						"Lemma": "!",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"'": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 54,
+						"Lemma": "'",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "POS",
+						"Sentiment": "Neutral"
+					},
+					"'s": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "'s",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "POS",
+						"Sentiment": "Neutral"
+					},
+					"-": {
+						"CharacterOffsetBegin": 88,
+						"CharacterOffsetEnd": 89,
+						"Lemma": "-",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"-LRB-": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 72,
+						"Lemma": "-lrb-",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "-LRB-",
+						"Sentiment": "Neutral"
+					},
+					"-RRB-": {
+						"CharacterOffsetBegin": 86,
+						"CharacterOffsetEnd": 87,
+						"Lemma": "-rrb-",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "-RRB-",
+						"Sentiment": "Neutral"
+					},
+					"/": {
+						"CharacterOffsetBegin": 103,
+						"CharacterOffsetEnd": 104,
+						"Lemma": "/",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 15,
+						"CharacterOffsetEnd": 16,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@NCForBernie": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 15,
+						"Lemma": "@ncforbernie",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"A": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 25,
+						"Lemma": "a",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"Accomplishments": {
+						"CharacterOffsetBegin": 55,
+						"CharacterOffsetEnd": 70,
+						"Lemma": "accomplishment",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"Bernie": {
+						"CharacterOffsetBegin": 39,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "Bernie",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"CITATIONS": {
+						"CharacterOffsetBegin": 77,
+						"CharacterOffsetEnd": 86,
+						"Lemma": "citation",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"Here": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 21,
+						"Lemma": "here",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"LONG": {
+						"CharacterOffsetBegin": 26,
+						"CharacterOffsetEnd": 30,
+						"Lemma": "long",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"List": {
+						"CharacterOffsetBegin": 31,
+						"CharacterOffsetEnd": 35,
+						"Lemma": "list",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Of": {
+						"CharacterOffsetBegin": 36,
+						"CharacterOffsetEnd": 38,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"Please": {
+						"CharacterOffsetBegin": 90,
+						"CharacterOffsetEnd": 96,
+						"Lemma": "please",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sanders": {
+						"CharacterOffsetBegin": 46,
+						"CharacterOffsetEnd": 53,
+						"Lemma": "Sanders",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"WITH": {
+						"CharacterOffsetBegin": 72,
+						"CharacterOffsetEnd": 76,
+						"Lemma": "with",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"retweet": {
+						"CharacterOffsetBegin": 105,
+						"CharacterOffsetEnd": 112,
+						"Lemma": "retweet",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"share": {
+						"CharacterOffsetBegin": 97,
+						"CharacterOffsetEnd": 102,
+						"Lemma": "share",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Positive"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"dependent": {
+						"dev": "#",
+						"gov": "https://t.co/sBaqsVZuAo"
+					},
+					"root": {
+						"dev": "https://t.co/sBaqsVZuAo",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#": {
+						"CharacterOffsetBegin": 138,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "#",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "#",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/sBaqsVZuAo": {
+						"CharacterOffsetBegin": 114,
+						"CharacterOffsetEnd": 137,
+						"Lemma": "https://t.co/sbaqsvzuao",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:52",
+		"tweet_name": "Indy4Bernie",
+		"tweet_text": "RT @NCForBernie: Here’s A LONG List Of Bernie Sanders’ Accomplishments (WITH CITATIONS) - Please share / retweet! https://t.co/sBaqsVZuAo #…",
+		"tweet_user_id": "Indy4Bernie"
+	},
+	"Donald Trump": {
+		"id_str": "721902288139235328",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "other",
+						"gov": "Trump"
+					},
+					"adverbial clause modifier": {
+						"dev": "customer",
+						"gov": "had"
+					},
+					"adverbial modifier": {
+						"dev": "absolutely",
+						"gov": "relationship"
+					},
+					"case marker": {
+						"dev": "at",
+						"gov": "casino"
+					},
+					"copula": {
+						"dev": "being",
+						"gov": "customer"
+					},
+					"dependent": {
+						"dev": "gangster",
+						"gov": "@stophilary4ever"
+					},
+					"determiner": {
+						"dev": "a",
+						"gov": "customer"
+					},
+					"direct object": {
+						"dev": "relationship",
+						"gov": "had"
+					},
+					"marker": {
+						"dev": "than",
+						"gov": "customer"
+					},
+					"negation modifier": {
+						"dev": "no",
+						"gov": "relationship"
+					},
+					"nmod_preposition": {
+						"dev": "casino",
+						"gov": "customer"
+					},
+					"nominal subject": {
+						"dev": "@stophilary4ever",
+						"gov": "had"
+					},
+					"possession modifier": {
+						"dev": "his",
+						"gov": "casino"
+					},
+					"root": {
+						"dev": "had",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 121,
+						"CharacterOffsetEnd": 122,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"@stophilary4ever": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 16,
+						"Lemma": "@stophilary4ever",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"That": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 21,
+						"Lemma": "that",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "WDT",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 74,
+						"CharacterOffsetEnd": 79,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"a": {
+						"CharacterOffsetBegin": 97,
+						"CharacterOffsetEnd": 98,
+						"Lemma": "a",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"absolutely": {
+						"CharacterOffsetBegin": 42,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "absolutely",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Positive"
+					},
+					"at": {
+						"CharacterOffsetBegin": 108,
+						"CharacterOffsetEnd": 110,
+						"Lemma": "at",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"being": {
+						"CharacterOffsetBegin": 91,
+						"CharacterOffsetEnd": 96,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"casino": {
+						"CharacterOffsetBegin": 115,
+						"CharacterOffsetEnd": 121,
+						"Lemma": "casino",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"customer": {
+						"CharacterOffsetBegin": 99,
+						"CharacterOffsetEnd": 107,
+						"Lemma": "customer",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"gangster": {
+						"CharacterOffsetBegin": 29,
+						"CharacterOffsetEnd": 37,
+						"Lemma": "gangster",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Negative"
+					},
+					"had": {
+						"CharacterOffsetBegin": 38,
+						"CharacterOffsetEnd": 41,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"his": {
+						"CharacterOffsetBegin": 111,
+						"CharacterOffsetEnd": 114,
+						"Lemma": "he",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP$",
+						"Sentiment": "Neutral"
+					},
+					"no": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 55,
+						"Lemma": "no",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Negative"
+					},
+					"other": {
+						"CharacterOffsetBegin": 80,
+						"CharacterOffsetEnd": 85,
+						"Lemma": "other",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"racist": {
+						"CharacterOffsetBegin": 22,
+						"CharacterOffsetEnd": 28,
+						"Lemma": "racist",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Negative"
+					},
+					"relationship": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 68,
+						"Lemma": "relationship",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"than": {
+						"CharacterOffsetBegin": 86,
+						"CharacterOffsetEnd": 90,
+						"Lemma": "than",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"with": {
+						"CharacterOffsetBegin": 69,
+						"CharacterOffsetEnd": 73,
+						"Lemma": "with",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:52",
+		"tweet_name": "Latinos para Trump",
+		"tweet_text": "@stophilary4ever That racist gangster had absolutely no relationship with Trump other than being a customer at his casino.",
+		"tweet_user_id": "LatinoParaTrump"
+	},
+	"Hillary Clinton": {
+		"id_str": "721902285614264320",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "like",
+						"gov": "https://t.co/JdgkbB6Y7U"
+					},
+					"compound modifier": {
+						"dev": "dog",
+						"gov": "https://t.co/JdgkbB6Y7U"
+					},
+					"determiner": {
+						"dev": "this",
+						"gov": "https://t.co/JdgkbB6Y7U"
+					},
+					"nmod_preposition": {
+						"dev": "https://t.co/JdgkbB6Y7U",
+						"gov": "looks"
+					},
+					"nominal subject": {
+						"dev": "Cruz",
+						"gov": "looks"
+					},
+					"parataxis": {
+						"dev": "looks",
+						"gov": "@IlaxBJoseph"
+					},
+					"root": {
+						"dev": "@IlaxBJoseph",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#RecentStudiesSuggest": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 38,
+						"Lemma": "#RecentStudiesSuggest",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 15,
+						"CharacterOffsetEnd": 16,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@IlaxBJoseph": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 15,
+						"Lemma": "@ilaxbjoseph",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Cruz": {
+						"CharacterOffsetBegin": 43,
+						"CharacterOffsetEnd": 47,
+						"Lemma": "Cruz",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Ted": {
+						"CharacterOffsetBegin": 39,
+						"CharacterOffsetEnd": 42,
+						"Lemma": "Ted",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"dog": {
+						"CharacterOffsetBegin": 64,
+						"CharacterOffsetEnd": 67,
+						"Lemma": "dog",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Positive"
+					},
+					"https://t.co/JdgkbB6Y7U": {
+						"CharacterOffsetBegin": 68,
+						"CharacterOffsetEnd": 91,
+						"Lemma": "https://t.co/jdgkbb6y7u",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"like": {
+						"CharacterOffsetBegin": 54,
+						"CharacterOffsetEnd": 58,
+						"Lemma": "like",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"looks": {
+						"CharacterOffsetBegin": 48,
+						"CharacterOffsetEnd": 53,
+						"Lemma": "look",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"this": {
+						"CharacterOffsetBegin": 59,
+						"CharacterOffsetEnd": 63,
+						"Lemma": "this",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:51",
+		"tweet_name": "Barbara Crockett",
+		"tweet_text": "RT @IlaxBJoseph: #RecentStudiesSuggest Ted Cruz looks like this dog https://t.co/JdgkbB6Y7U",
+		"tweet_user_id": "mattismommi"
+	},
+	"John Kasich": {
+		"id_str": "721900942082224129",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "of",
+						"gov": "color"
+					},
+					"compound modifier": {
+						"dev": "Sanders",
+						"gov": "supporters"
+					},
+					"dependent": {
+						"dev": "interesting",
+						"gov": "remains"
+					},
+					"nmod_preposition": {
+						"dev": "color",
+						"gov": "women"
+					},
+					"possession modifier": {
+						"dev": "supporters",
+						"gov": "outreach"
+					},
+					"root": {
+						"dev": "@AngryBlackLady",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"'": {
+						"CharacterOffsetBegin": 38,
+						"CharacterOffsetEnd": 39,
+						"Lemma": "'",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "POS",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 87,
+						"CharacterOffsetEnd": 88,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 74,
+						"CharacterOffsetEnd": 75,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 19,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@AngryBlackLady": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 18,
+						"Lemma": "@angryblacklady",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sanders": {
+						"CharacterOffsetBegin": 20,
+						"CharacterOffsetEnd": 27,
+						"Lemma": "Sanders",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"color": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 66,
+						"Lemma": "color",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"interesting": {
+						"CharacterOffsetBegin": 76,
+						"CharacterOffsetEnd": 87,
+						"Lemma": "interesting",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Positive"
+					},
+					"of": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"outreach": {
+						"CharacterOffsetBegin": 40,
+						"CharacterOffsetEnd": 48,
+						"Lemma": "outreach",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"remains": {
+						"CharacterOffsetBegin": 67,
+						"CharacterOffsetEnd": 74,
+						"Lemma": "remain",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Negative"
+					},
+					"supporters": {
+						"CharacterOffsetBegin": 28,
+						"CharacterOffsetEnd": 38,
+						"Lemma": "supporter",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 51,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					},
+					"women": {
+						"CharacterOffsetBegin": 52,
+						"CharacterOffsetEnd": 57,
+						"Lemma": "woman",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "#FeelTheCondescension",
+						"gov": "https://t.co/Cr7Pu65ANb"
+					},
+					"root": {
+						"dev": "https://t.co/Cr7Pu65ANb",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#FeelTheCondescension": {
+						"CharacterOffsetBegin": 89,
+						"CharacterOffsetEnd": 110,
+						"Lemma": "#feelthecondescension",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/Cr7Pu65ANb": {
+						"CharacterOffsetBegin": 111,
+						"CharacterOffsetEnd": 134,
+						"Lemma": "https://t.co/cr7pu65anb",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:19:31",
+		"tweet_name": "Young Guwop, CPA",
+		"tweet_text": "RT @AngryBlackLady: Sanders supporters’ outreach to women of color remains… interesting. #FeelTheCondescension https://t.co/Cr7Pu65ANb",
+		"tweet_user_id": "BrittanyBEEST"
+	},
+	"Ted Cruz": {
+		"id_str": "721900945026605056",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "like",
+						"gov": "liberals"
+					},
+					"compound modifier": {
+						"dev": "#DonaldTrump",
+						"gov": "https://t.co/UVBJjHO037"
+					},
+					"copula": {
+						"dev": "are",
+						"gov": "liberals"
+					},
+					"dependent": {
+						"dev": "https://t.co/UVBJjHO037",
+						"gov": "#Trump"
+					},
+					"numeric modifier": {
+						"dev": "2016",
+						"gov": "https://t.co/UVBJjHO037"
+					},
+					"root": {
+						"dev": "Cruzbots",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"2016": {
+						"CharacterOffsetBegin": 43,
+						"CharacterOffsetEnd": 47,
+						"Lemma": "2016",
+						"NamedEntityTag": "DATE",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"#AlwaysTrump": {
+						"CharacterOffsetBegin": 83,
+						"CharacterOffsetEnd": 95,
+						"Lemma": "#alwaystrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#DonaldTrump": {
+						"CharacterOffsetBegin": 96,
+						"CharacterOffsetEnd": 108,
+						"Lemma": "#donaldtrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#TeamTrump": {
+						"CharacterOffsetBegin": 60,
+						"CharacterOffsetEnd": 70,
+						"Lemma": "#TeamTrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"#Trump": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "#Trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"#TrumpTrain": {
+						"CharacterOffsetBegin": 48,
+						"CharacterOffsetEnd": 59,
+						"Lemma": "#TrumpTrain",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"#Vote": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 76,
+						"Lemma": "#Vote",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 26,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"4Trump": {
+						"CharacterOffsetBegin": 76,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "4trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Cruzbots": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 8,
+						"Lemma": "cruzbot",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"are": {
+						"CharacterOffsetBegin": 9,
+						"CharacterOffsetEnd": 12,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/UVBJjHO037": {
+						"CharacterOffsetBegin": 109,
+						"CharacterOffsetEnd": 132,
+						"Lemma": "https://t.co/uvbjjho037",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"liberals": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "liberal",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"like": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "like",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "teddi.zaps",
+		"tweet_text": "Cruzbots are like liberals...\n#Trump\n#Trump2016\n#TrumpTrain\n#TeamTrump\n#Vote4Trump\n#AlwaysTrump\n#DonaldTrump https://t.co/UVBJjHO037",
+		"tweet_user_id": "VonKloss"
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"John Kasich": {
+		"sentiment":23,
+		"tweet_text":"a nisl id metus maximus, vitae malesuada risus semper. Nam in vehicula turpis. Vestibulum sit amet arcu at sem placerat i",
+		"tweet_user_id":"futurityvacancies",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Ted Cruz": {
+		"sentiment":-4,
+		"tweet_text":"c. Suspendisse non nisi venenatis, aliquam nisi eu, dapibus dui. Curabitur bibendum fringi",
+		"tweet_user_id":"futurityvacancies",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Donald Trump": {
+		"sentiment":3,
+		"tweet_text":" in lectus. Nullam commodo ornare dui id lacinia. Suspendisse est nisi, luc",
+		"tweet_user_id":"futurityvacancies",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Bernie Sanders": {
+		"sentiment":7.304505e+01,
+		"tweet_text":" ex.Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ac nisl sed nibh faucibus p",
+		"tweet_user_id":"futurityvacancies",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Hillary Clinton": {
+		"sentiment":-727,
+		"tweet_text":"m quis magna condimentum placerat. Vivamus in rutrum ipsum. Quisque mi ligula, laoreet in turpis sed, malesuada gravida nulla",
+		"tweet_user_id":"futurityvacancies",
+		"tweet_timestamp":"timestamp"
+	}
+}

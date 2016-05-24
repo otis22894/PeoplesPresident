@@ -1,0 +1,648 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721902281860456448",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "Chinese",
+						"gov": "official"
+					},
+					"case marker": {
+						"dev": "on",
+						"gov": "https://t.co/GJZtQr9347"
+					},
+					"compound modifier": {
+						"dev": "trade",
+						"gov": "https://t.co/GJZtQr9347"
+					},
+					"nmod_preposition": {
+						"dev": "https://t.co/GJZtQr9347",
+						"gov": "irrational"
+					},
+					"nominal subject": {
+						"dev": "Trump",
+						"gov": "irrational"
+					},
+					"parataxis": {
+						"dev": "calls",
+						"gov": "@Reuters"
+					},
+					"root": {
+						"dev": "@Reuters",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "irrational",
+						"gov": "calls"
+					}
+				},
+				"Token": {
+					"'": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 54,
+						"Lemma": "'",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 11,
+						"CharacterOffsetEnd": 12,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@Reuters": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 11,
+						"Lemma": "@reuters",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"Chinese": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 20,
+						"Lemma": "chinese",
+						"NamedEntityTag": "MISC",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 36,
+						"CharacterOffsetEnd": 41,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"`": {
+						"CharacterOffsetBegin": 42,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "`",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					},
+					"calls": {
+						"CharacterOffsetBegin": 30,
+						"CharacterOffsetEnd": 35,
+						"Lemma": "call",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/GJZtQr9347": {
+						"CharacterOffsetBegin": 64,
+						"CharacterOffsetEnd": 87,
+						"Lemma": "https://t.co/gjztqr9347",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"irrational": {
+						"CharacterOffsetBegin": 43,
+						"CharacterOffsetEnd": 53,
+						"Lemma": "irrational",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Negative"
+					},
+					"official": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "official",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"on": {
+						"CharacterOffsetBegin": 55,
+						"CharacterOffsetEnd": 57,
+						"Lemma": "on",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"trade": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 63,
+						"Lemma": "trade",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:50",
+		"tweet_name": "mohaafunky wa wajir",
+		"tweet_text": "RT @Reuters: Chinese official calls Trump 'irrational' on trade https://t.co/GJZtQr9347",
+		"tweet_user_id": "ahmed309960"
+	},
+	"Donald Trump": {
+		"id_str": "721902293529075712",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adverbial clause modifier": {
+						"dev": "SINKING",
+						"gov": "LEAVING"
+					},
+					"clausal modifier of noun": {
+						"dev": "LEAVING",
+						"gov": "RATS"
+					},
+					"compound modifier": {
+						"dev": "EDUARDO",
+						"gov": "CRUZ"
+					},
+					"direct object": {
+						"dev": "SHIP",
+						"gov": "SINKING"
+					},
+					"nominal subject": {
+						"dev": "CRUZ",
+						"gov": "#LyingTed"
+					},
+					"possession modifier": {
+						"dev": "HIS",
+						"gov": "RATS"
+					},
+					"root": {
+						"dev": "#LyingTed",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "RATS",
+						"gov": "#LyingTed"
+					}
+				},
+				"Token": {
+					"!": {
+						"CharacterOffsetBegin": 85,
+						"CharacterOffsetEnd": 86,
+						"Lemma": "!",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"#LyingTed": {
+						"CharacterOffsetBegin": 40,
+						"CharacterOffsetEnd": 49,
+						"Lemma": "#lyingted",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"#TedCruz": {
+						"CharacterOffsetBegin": 11,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "#TedCruz",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"ALL": {
+						"CharacterOffsetBegin": 51,
+						"CharacterOffsetEnd": 54,
+						"Lemma": "all",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"CHEAT": {
+						"CharacterOffsetBegin": 5,
+						"CharacterOffsetEnd": 10,
+						"Lemma": "cheat",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"CRUZ": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 39,
+						"Lemma": "CRUZ",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"EDUARDO": {
+						"CharacterOffsetBegin": 27,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "EDUARDO",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"HIS": {
+						"CharacterOffsetBegin": 55,
+						"CharacterOffsetEnd": 58,
+						"Lemma": "he",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP$",
+						"Sentiment": "Neutral"
+					},
+					"LEAVING": {
+						"CharacterOffsetBegin": 64,
+						"CharacterOffsetEnd": 71,
+						"Lemma": "leave",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"LIAR": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 4,
+						"Lemma": "liar",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RAFAEL": {
+						"CharacterOffsetBegin": 20,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "RAFAEL",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RATS": {
+						"CharacterOffsetBegin": 59,
+						"CharacterOffsetEnd": 63,
+						"Lemma": "rat",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"SHIP": {
+						"CharacterOffsetBegin": 80,
+						"CharacterOffsetEnd": 84,
+						"Lemma": "ship",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"SINKING": {
+						"CharacterOffsetBegin": 72,
+						"CharacterOffsetEnd": 79,
+						"Lemma": "sink",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "#RI",
+						"gov": "https://t.co/BiumzEcGNk"
+					},
+					"dependent": {
+						"dev": "https://t.co/BiumzEcGNk",
+						"gov": "#CT"
+					},
+					"root": {
+						"dev": "#CT",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#CT": {
+						"CharacterOffsetBegin": 91,
+						"CharacterOffsetEnd": 94,
+						"Lemma": "#ct",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#DE": {
+						"CharacterOffsetBegin": 95,
+						"CharacterOffsetEnd": 98,
+						"Lemma": "#de",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#MD": {
+						"CharacterOffsetBegin": 99,
+						"CharacterOffsetEnd": 102,
+						"Lemma": "#md",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#NY": {
+						"CharacterOffsetBegin": 87,
+						"CharacterOffsetEnd": 90,
+						"Lemma": "#ny",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#PA": {
+						"CharacterOffsetBegin": 103,
+						"CharacterOffsetEnd": 106,
+						"Lemma": "#pa",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#RI": {
+						"CharacterOffsetBegin": 107,
+						"CharacterOffsetEnd": 110,
+						"Lemma": "#ri",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/BiumzEcGNk": {
+						"CharacterOffsetBegin": 111,
+						"CharacterOffsetEnd": 134,
+						"Lemma": "https://t.co/biumzecgnk",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:53",
+		"tweet_name": "susie smith",
+		"tweet_text": "LIAR CHEAT #TedCruz RAFAEL EDUARDO CRUZ #LyingTed \nALL HIS RATS LEAVING SINKING SHIP !\n#NY #CT #DE #MD #PA #RI https://t.co/BiumzEcGNk",
+		"tweet_user_id": "gs777gs777"
+	},
+	"Hillary Clinton": {
+		"id_str": "721902293109616640",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "cruz",
+						"gov": "ship"
+					},
+					"root": {
+						"dev": "ship",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"cruz": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 4,
+						"Lemma": "cruz",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"ship": {
+						"CharacterOffsetBegin": 5,
+						"CharacterOffsetEnd": 9,
+						"Lemma": "ship",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:53",
+		"tweet_name": "kim",
+		"tweet_text": "cruz ship",
+		"tweet_user_id": "zaylenad"
+	},
+	"John Kasich": {
+		"id_str": "721902293109616640",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "cruz",
+						"gov": "ship"
+					},
+					"root": {
+						"dev": "ship",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"cruz": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 4,
+						"Lemma": "cruz",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"ship": {
+						"CharacterOffsetBegin": 5,
+						"CharacterOffsetEnd": 9,
+						"Lemma": "ship",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:53",
+		"tweet_name": "kim",
+		"tweet_text": "cruz ship",
+		"tweet_user_id": "zaylenad"
+	},
+	"Ted Cruz": {
+		"id_str": "721900948130553856",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adverbial clause modifier": {
+						"dev": "Steal",
+						"gov": "Staged"
+					},
+					"case marker": {
+						"dev": "In",
+						"gov": "Georgia"
+					},
+					"compound modifier": {
+						"dev": "Donald",
+						"gov": "Trump"
+					},
+					"dependent": {
+						"dev": "Cruz",
+						"gov": "Trump"
+					},
+					"direct object": {
+						"dev": "Delegates",
+						"gov": "Steal"
+					},
+					"marker": {
+						"dev": "To",
+						"gov": "Steal"
+					},
+					"nmod_preposition": {
+						"dev": "Georgia",
+						"gov": "Staged"
+					},
+					"nominal subject": {
+						"dev": "https://t.co/Ubu9dXMFfN",
+						"gov": "Staged"
+					},
+					"root": {
+						"dev": "Staged",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"'": {
+						"CharacterOffsetBegin": 51,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "'",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 30,
+						"CharacterOffsetEnd": 31,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@Crimsontider": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 16,
+						"Lemma": "@crimsontider",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Attack": {
+						"CharacterOffsetBegin": 45,
+						"CharacterOffsetEnd": 51,
+						"Lemma": "attack",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Cruz": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 36,
+						"Lemma": "Cruz",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Delegates": {
+						"CharacterOffsetBegin": 73,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "Delegates",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNPS",
+						"Sentiment": "Neutral"
+					},
+					"Donald": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 24,
+						"Lemma": "Donald",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Georgia": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 63,
+						"Lemma": "Georgia",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"In": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 55,
+						"Lemma": "in",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Staged": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "stage",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"Steal": {
+						"CharacterOffsetBegin": 67,
+						"CharacterOffsetEnd": 72,
+						"Lemma": "steal",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"To": {
+						"CharacterOffsetBegin": 64,
+						"CharacterOffsetEnd": 66,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 25,
+						"CharacterOffsetEnd": 30,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"`": {
+						"CharacterOffsetBegin": 44,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "`",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/Ubu9dXMFfN": {
+						"CharacterOffsetBegin": 83,
+						"CharacterOffsetEnd": 106,
+						"Lemma": "https://t.co/ubu9dxmffn",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "Tweety Bird - JTL",
+		"tweet_text": "RT @Crimsontider: Donald Trump: Cruz Staged 'Attack' In Georgia To Steal Delegates https://t.co/Ubu9dXMFfN",
+		"tweet_user_id": "jtleitner"
+	}
+}

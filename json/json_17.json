@@ -1,0 +1,988 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721900945039343617",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"clausal complement": {
+						"dev": "Has",
+						"gov": "Says"
+					},
+					"compound modifier": {
+						"dev": "Better",
+						"gov": "Toys"
+					},
+					"dependent": {
+						"dev": "Cruz",
+						"gov": "@TheTruth24US"
+					},
+					"nominal subject": {
+						"dev": "He",
+						"gov": "Has"
+					},
+					"root": {
+						"dev": "Says",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "Toys",
+						"gov": "Has"
+					}
+				},
+				"Token": {
+					"''": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "''",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					",": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 36,
+						"Lemma": ",",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ",",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 62,
+						"CharacterOffsetEnd": 63,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 17,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@TheTruth24US": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 16,
+						"Lemma": "@thetruth24us",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Bashes": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 30,
+						"Lemma": "Bashes",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Better": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 56,
+						"Lemma": "Better",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Positive"
+					},
+					"Cruz": {
+						"CharacterOffsetBegin": 31,
+						"CharacterOffsetEnd": 35,
+						"Lemma": "Cruz",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Has": {
+						"CharacterOffsetBegin": 45,
+						"CharacterOffsetEnd": 48,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"He": {
+						"CharacterOffsetBegin": 42,
+						"CharacterOffsetEnd": 44,
+						"Lemma": "he",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Says": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 41,
+						"Lemma": "say",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"Toys": {
+						"CharacterOffsetBegin": 57,
+						"CharacterOffsetEnd": 61,
+						"Lemma": "Toys",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "Trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"``": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 50,
+						"Lemma": "``",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "https://t.co/tO2TPVZZTS",
+						"gov": "https://t.co/QEr20zb81x"
+					},
+					"root": {
+						"dev": "https://t.co/QEr20zb81x",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"https://t.co/QEr20zb81x": {
+						"CharacterOffsetBegin": 88,
+						"CharacterOffsetEnd": 111,
+						"Lemma": "https://t.co/qer20zb81x",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/tO2TPVZZTS": {
+						"CharacterOffsetBegin": 64,
+						"CharacterOffsetEnd": 87,
+						"Lemma": "https://t.co/to2tpvzzts",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "troy smith",
+		"tweet_text": "RT @TheTruth24US: Trump Bashes Cruz, Says He Has \"Better Toys\". https://t.co/tO2TPVZZTS https://t.co/QEr20zb81x",
+		"tweet_user_id": "clarky2006"
+	},
+	"Donald Trump": {
+		"id_str": "721902287950520320",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "more",
+						"gov": "backers"
+					},
+					"adverbial clause modifier": {
+						"dev": "'ve",
+						"gov": "created"
+					},
+					"auxiliary": {
+						"dev": "could",
+						"gov": "'ve"
+					},
+					"compound modifier": {
+						"dev": "Trump",
+						"gov": "backers"
+					},
+					"dependent": {
+						"dev": "w",
+						"gov": "@FiveRights"
+					},
+					"direct object": {
+						"dev": "backers",
+						"gov": "created"
+					},
+					"marker": {
+						"dev": "than",
+						"gov": "'ve"
+					},
+					"nominal subject": {
+						"dev": "Trump",
+						"gov": "'ve"
+					},
+					"relative clause modifier": {
+						"dev": "created",
+						"gov": "w"
+					},
+					"root": {
+						"dev": "@FiveRights",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"'ve": {
+						"CharacterOffsetBegin": 89,
+						"CharacterOffsetEnd": 92,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 92,
+						"CharacterOffsetEnd": 93,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 15,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@FiveRights": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "@fiverights",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"Colorado": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 24,
+						"Lemma": "Colorado",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Cruz": {
+						"CharacterOffsetBegin": 41,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "Cruz",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RNC": {
+						"CharacterOffsetBegin": 25,
+						"CharacterOffsetEnd": 28,
+						"Lemma": "RNC",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 83,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"backers": {
+						"CharacterOffsetBegin": 65,
+						"CharacterOffsetEnd": 72,
+						"Lemma": "backer",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"collusion": {
+						"CharacterOffsetBegin": 29,
+						"CharacterOffsetEnd": 38,
+						"Lemma": "collusion",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"could": {
+						"CharacterOffsetBegin": 84,
+						"CharacterOffsetEnd": 89,
+						"Lemma": "could",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "MD",
+						"Sentiment": "Neutral"
+					},
+					"created": {
+						"CharacterOffsetBegin": 46,
+						"CharacterOffsetEnd": 53,
+						"Lemma": "create",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"more": {
+						"CharacterOffsetBegin": 54,
+						"CharacterOffsetEnd": 58,
+						"Lemma": "more",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJR",
+						"Sentiment": "Neutral"
+					},
+					"than": {
+						"CharacterOffsetBegin": 73,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "than",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"w": {
+						"CharacterOffsetBegin": 39,
+						"CharacterOffsetEnd": 40,
+						"Lemma": "w",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "Prideful",
+						"gov": "deceit"
+					},
+					"copula": {
+						"dev": "is",
+						"gov": "attractive"
+					},
+					"negation modifier": {
+						"dev": "not",
+						"gov": "attractive"
+					},
+					"nominal subject": {
+						"dev": "deceit",
+						"gov": "attractive"
+					},
+					"root": {
+						"dev": "attractive",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 127,
+						"CharacterOffsetEnd": 128,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"Prideful": {
+						"CharacterOffsetBegin": 94,
+						"CharacterOffsetEnd": 102,
+						"Lemma": "prideful",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"attractive": {
+						"CharacterOffsetBegin": 117,
+						"CharacterOffsetEnd": 127,
+						"Lemma": "attractive",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Positive"
+					},
+					"deceit": {
+						"CharacterOffsetBegin": 103,
+						"CharacterOffsetEnd": 109,
+						"Lemma": "deceit",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"is": {
+						"CharacterOffsetBegin": 110,
+						"CharacterOffsetEnd": 112,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"not": {
+						"CharacterOffsetBegin": 113,
+						"CharacterOffsetEnd": 116,
+						"Lemma": "not",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Negative"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"root": {
+						"dev": "https://t.…",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"https://t.…": {
+						"CharacterOffsetBegin": 129,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "https://t.…",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:52",
+		"tweet_name": "Michael Tracy",
+		"tweet_text": "RT @FiveRights: Colorado RNC collusion w Cruz created more Trump backers than Trump could've. Prideful deceit is not attractive. https://t.…",
+		"tweet_user_id": "faithbasedplans"
+	},
+	"Hillary Clinton": {
+		"id_str": "721902287950520320",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "more",
+						"gov": "backers"
+					},
+					"adverbial clause modifier": {
+						"dev": "'ve",
+						"gov": "created"
+					},
+					"auxiliary": {
+						"dev": "could",
+						"gov": "'ve"
+					},
+					"compound modifier": {
+						"dev": "Trump",
+						"gov": "backers"
+					},
+					"dependent": {
+						"dev": "w",
+						"gov": "@FiveRights"
+					},
+					"direct object": {
+						"dev": "backers",
+						"gov": "created"
+					},
+					"marker": {
+						"dev": "than",
+						"gov": "'ve"
+					},
+					"nominal subject": {
+						"dev": "Trump",
+						"gov": "'ve"
+					},
+					"relative clause modifier": {
+						"dev": "created",
+						"gov": "w"
+					},
+					"root": {
+						"dev": "@FiveRights",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"'ve": {
+						"CharacterOffsetBegin": 89,
+						"CharacterOffsetEnd": 92,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 92,
+						"CharacterOffsetEnd": 93,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 15,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@FiveRights": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "@fiverights",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"Colorado": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 24,
+						"Lemma": "Colorado",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Cruz": {
+						"CharacterOffsetBegin": 41,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "Cruz",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RNC": {
+						"CharacterOffsetBegin": 25,
+						"CharacterOffsetEnd": 28,
+						"Lemma": "RNC",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 83,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"backers": {
+						"CharacterOffsetBegin": 65,
+						"CharacterOffsetEnd": 72,
+						"Lemma": "backer",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"collusion": {
+						"CharacterOffsetBegin": 29,
+						"CharacterOffsetEnd": 38,
+						"Lemma": "collusion",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"could": {
+						"CharacterOffsetBegin": 84,
+						"CharacterOffsetEnd": 89,
+						"Lemma": "could",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "MD",
+						"Sentiment": "Neutral"
+					},
+					"created": {
+						"CharacterOffsetBegin": 46,
+						"CharacterOffsetEnd": 53,
+						"Lemma": "create",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"more": {
+						"CharacterOffsetBegin": 54,
+						"CharacterOffsetEnd": 58,
+						"Lemma": "more",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJR",
+						"Sentiment": "Neutral"
+					},
+					"than": {
+						"CharacterOffsetBegin": 73,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "than",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"w": {
+						"CharacterOffsetBegin": 39,
+						"CharacterOffsetEnd": 40,
+						"Lemma": "w",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "Prideful",
+						"gov": "deceit"
+					},
+					"copula": {
+						"dev": "is",
+						"gov": "attractive"
+					},
+					"negation modifier": {
+						"dev": "not",
+						"gov": "attractive"
+					},
+					"nominal subject": {
+						"dev": "deceit",
+						"gov": "attractive"
+					},
+					"root": {
+						"dev": "attractive",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 127,
+						"CharacterOffsetEnd": 128,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"Prideful": {
+						"CharacterOffsetBegin": 94,
+						"CharacterOffsetEnd": 102,
+						"Lemma": "prideful",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"attractive": {
+						"CharacterOffsetBegin": 117,
+						"CharacterOffsetEnd": 127,
+						"Lemma": "attractive",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Positive"
+					},
+					"deceit": {
+						"CharacterOffsetBegin": 103,
+						"CharacterOffsetEnd": 109,
+						"Lemma": "deceit",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"is": {
+						"CharacterOffsetBegin": 110,
+						"CharacterOffsetEnd": 112,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"not": {
+						"CharacterOffsetBegin": 113,
+						"CharacterOffsetEnd": 116,
+						"Lemma": "not",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Negative"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"root": {
+						"dev": "https://t.…",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"https://t.…": {
+						"CharacterOffsetBegin": 129,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "https://t.…",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:52",
+		"tweet_name": "Michael Tracy",
+		"tweet_text": "RT @FiveRights: Colorado RNC collusion w Cruz created more Trump backers than Trump could've. Prideful deceit is not attractive. https://t.…",
+		"tweet_user_id": "faithbasedplans"
+	},
+	"John Kasich": {
+		"id_str": "721902280648343552",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "for",
+						"gov": "h"
+					},
+					"compound modifier": {
+						"dev": "#LAPD",
+						"gov": "h"
+					},
+					"dependent": {
+						"dev": "Association",
+						"gov": "@EndorsementsGOP"
+					},
+					"direct object": {
+						"dev": "Trump",
+						"gov": "Endorses"
+					},
+					"nmod_preposition": {
+						"dev": "h",
+						"gov": "Trump"
+					},
+					"nominal subject": {
+						"dev": "@EndorsementsGOP",
+						"gov": "Endorses"
+					},
+					"root": {
+						"dev": "Endorses",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#LAPD": {
+						"CharacterOffsetBegin": 132,
+						"CharacterOffsetEnd": 137,
+						"Lemma": "#lapd",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#NY": {
+						"CharacterOffsetBegin": 123,
+						"CharacterOffsetEnd": 126,
+						"Lemma": "#ny",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#NYC": {
+						"CharacterOffsetBegin": 127,
+						"CharacterOffsetEnd": 131,
+						"Lemma": "#nyc",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#NYPD": {
+						"CharacterOffsetBegin": 93,
+						"CharacterOffsetEnd": 98,
+						"Lemma": "#NYPD",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 20,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@EndorsementsGOP": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "@endorsementsgop",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Association": {
+						"CharacterOffsetBegin": 45,
+						"CharacterOffsetEnd": 56,
+						"Lemma": "Association",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Donald": {
+						"CharacterOffsetBegin": 66,
+						"CharacterOffsetEnd": 72,
+						"Lemma": "Donald",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Endorses": {
+						"CharacterOffsetBegin": 57,
+						"CharacterOffsetEnd": 65,
+						"Lemma": "endorse",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"New": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 24,
+						"Lemma": "New",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Positive"
+					},
+					"Police": {
+						"CharacterOffsetBegin": 38,
+						"CharacterOffsetEnd": 44,
+						"Lemma": "Police",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"President": {
+						"CharacterOffsetBegin": 83,
+						"CharacterOffsetEnd": 92,
+						"Lemma": "President",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 73,
+						"CharacterOffsetEnd": 78,
+						"Lemma": "Trump",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Veteran": {
+						"CharacterOffsetBegin": 30,
+						"CharacterOffsetEnd": 37,
+						"Lemma": "Veteran",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"York": {
+						"CharacterOffsetBegin": 25,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "York",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"for": {
+						"CharacterOffsetBegin": 79,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "for",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"h": {
+						"CharacterOffsetBegin": 138,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "h",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/PguZGakjC9": {
+						"CharacterOffsetBegin": 99,
+						"CharacterOffsetEnd": 122,
+						"Lemma": "https://t.co/pguzgakjc9",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:50",
+		"tweet_name": "dwlove316@aol.com",
+		"tweet_text": "RT @EndorsementsGOP: New York Veteran Police Association Endorses Donald Trump for President #NYPD https://t.co/PguZGakjC9 #NY #NYC #LAPD h…",
+		"tweet_user_id": "dwlove9"
+	},
+	"Ted Cruz": {
+		"id_str": "721902293109616640",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "cruz",
+						"gov": "ship"
+					},
+					"root": {
+						"dev": "ship",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"cruz": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 4,
+						"Lemma": "cruz",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"ship": {
+						"CharacterOffsetBegin": 5,
+						"CharacterOffsetEnd": 9,
+						"Lemma": "ship",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:53",
+		"tweet_name": "kim",
+		"tweet_text": "cruz ship",
+		"tweet_user_id": "zaylenad"
+	}
+}

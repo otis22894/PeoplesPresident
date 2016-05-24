@@ -1,0 +1,36 @@
+{
+	"John Kasich": {
+		"sentiment":16,
+		"tweet_text":"ibendum finibus.In faucibus velit purus, sed bibendum massa egestas et. Vestibulum vestibulum a felis sit amet pretium. Maecenas v",
+		"tweet_user_id":"smartieflight",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Ted Cruz": {
+		"sentiment":-10,
+		"tweet_text":"vel diam placerat blandit. Donec eleifend fermentum t",
+		"tweet_user_id":"smartieflight",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Donald Trump": {
+		"sentiment":2,
+		"tweet_text":"placerat elit. In et mi non nisi convallis sodales. Ut lacinia est fringilla, pretium diam eget, vulputate neque. Sed vel sapien vulput",
+		"tweet_user_id":"smartieflight",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Bernie Sanders": {
+		"sentiment":9.127928e+01,
+		"tweet_text":"s tellus vitae nibh iaculis auctor. Nam id consequat ex. Aliquam iaculis maximus quam, eu v",
+		"tweet_user_id":"smartieflight",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Hillary Clinton": {
+		"sentiment":-911,
+		"tweet_text":"vestibulum nisl. Nunc quis diam fringilla, volutpat turpis in, luctus nulla. Nunc eget sapien faucibus, mattis liber",
+		"tweet_user_id":"smartieflight",
+		"tweet_timestamp":"timestamp"
+	}
+}

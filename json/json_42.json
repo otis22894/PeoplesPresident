@@ -1,0 +1,1227 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721902288189521920",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"acl_preposition": {
+						"dev": "@tedcruz",
+						"gov": "CO"
+					},
+					"case marker": {
+						"dev": "according",
+						"gov": "@tedcruz"
+					},
+					"compound modifier": {
+						"dev": "@FoxNews",
+						"gov": "@NRO"
+					},
+					"dependent": {
+						"dev": "@NRO",
+						"gov": "#Trump"
+					},
+					"determiner": {
+						"dev": "The",
+						"gov": "rules"
+					},
+					"direct object": {
+						"dev": "supporters",
+						"gov": "@tedcruz"
+					},
+					"marker": {
+						"dev": "to",
+						"gov": "@tedcruz"
+					},
+					"nmod_preposition": {
+						"dev": "CO",
+						"gov": "@realDonaldTrump"
+					},
+					"root": {
+						"dev": "@realDonaldTrump",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"2016": {
+						"CharacterOffsetBegin": 101,
+						"CharacterOffsetEnd": 105,
+						"Lemma": "2016",
+						"NamedEntityTag": "DATE",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"#MAGA": {
+						"CharacterOffsetBegin": 120,
+						"CharacterOffsetEnd": 125,
+						"Lemma": "#MAGA",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"#NY": {
+						"CharacterOffsetBegin": 116,
+						"CharacterOffsetEnd": 119,
+						"Lemma": "#NY",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"#NYPrimry": {
+						"CharacterOffsetBegin": 106,
+						"CharacterOffsetEnd": 115,
+						"Lemma": "#NYPrimry",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"#Trump": {
+						"CharacterOffsetBegin": 95,
+						"CharacterOffsetEnd": 101,
+						"Lemma": "#trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"''": {
+						"CharacterOffsetBegin": 27,
+						"CharacterOffsetEnd": 28,
+						"Lemma": "''",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 67,
+						"CharacterOffsetEnd": 68,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@FoxNews": {
+						"CharacterOffsetBegin": 126,
+						"CharacterOffsetEnd": 134,
+						"Lemma": "@FoxNews",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"@NRO": {
+						"CharacterOffsetBegin": 135,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "@NRO",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"@realDonaldTrump": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 16,
+						"Lemma": "@realdonaldtrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"@tedcruz": {
+						"CharacterOffsetBegin": 48,
+						"CharacterOffsetEnd": 56,
+						"Lemma": "@tedcruz",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"CO": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "CO",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"The": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 20,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"``": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 22,
+						"Lemma": "``",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					},
+					"according": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 44,
+						"Lemma": "accord",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/dM1fxkwKRH": {
+						"CharacterOffsetBegin": 70,
+						"CharacterOffsetEnd": 93,
+						"Lemma": "https://t.co/dm1fxkwkrh",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"in": {
+						"CharacterOffsetBegin": 29,
+						"CharacterOffsetEnd": 31,
+						"Lemma": "in",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"rules": {
+						"CharacterOffsetBegin": 22,
+						"CharacterOffsetEnd": 27,
+						"Lemma": "rule",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"supporters": {
+						"CharacterOffsetBegin": 57,
+						"CharacterOffsetEnd": 67,
+						"Lemma": "supporter",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 45,
+						"CharacterOffsetEnd": 47,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:52",
+		"tweet_name": "Carmine Zozzora",
+		"tweet_text": "@realDonaldTrump The \"rules\" in CO according to @tedcruz supporters:\n\nhttps://t.co/dM1fxkwKRH\n\n#Trump2016 #NYPrimry #NY #MAGA @FoxNews @NRO",
+		"tweet_user_id": "CarmineZozzora"
+	},
+	"Donald Trump": {
+		"id_str": "721902283575824384",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "via",
+						"gov": "https://t.co/I95EH2C5X9"
+					},
+					"compound modifier": {
+						"dev": "@politicususa",
+						"gov": "https://t.co/I95EH2C5X9"
+					},
+					"conj_collapsed": {
+						"dev": "Greed",
+						"gov": "In"
+					},
+					"coordination": {
+						"dev": "+",
+						"gov": "In"
+					},
+					"dependent": {
+						"dev": "Plan",
+						"gov": "Bernie"
+					},
+					"direct object": {
+						"dev": "Bernie",
+						"gov": "Endorse"
+					},
+					"nmod_preposition": {
+						"dev": "https://t.co/I95EH2C5X9",
+						"gov": "Reform"
+					},
+					"nominal subject": {
+						"dev": "+",
+						"gov": "Endorse"
+					},
+					"relative clause modifier": {
+						"dev": "+",
+						"gov": "St."
+					},
+					"root": {
+						"dev": "Economists",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"170": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 3,
+						"Lemma": "170",
+						"NamedEntityTag": "NUMBER",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"'": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 38,
+						"Lemma": "'",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "POS",
+						"Sentiment": "Neutral"
+					},
+					"+": {
+						"CharacterOffsetBegin": 74,
+						"CharacterOffsetEnd": 75,
+						"Lemma": "+",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "CC",
+						"Sentiment": "Neutral"
+					},
+					"@politicususa": {
+						"CharacterOffsetBegin": 85,
+						"CharacterOffsetEnd": 98,
+						"Lemma": "@politicususa",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"And": {
+						"CharacterOffsetBegin": 63,
+						"CharacterOffsetEnd": 66,
+						"Lemma": "and",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "CC",
+						"Sentiment": "Neutral"
+					},
+					"Bernie": {
+						"CharacterOffsetBegin": 23,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "Bernie",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Economists": {
+						"CharacterOffsetBegin": 4,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "economist",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"Endorse": {
+						"CharacterOffsetBegin": 15,
+						"CharacterOffsetEnd": 22,
+						"Lemma": "endorse",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"Greed": {
+						"CharacterOffsetBegin": 75,
+						"CharacterOffsetEnd": 80,
+						"Lemma": "Greed",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"In": {
+						"CharacterOffsetBegin": 72,
+						"CharacterOffsetEnd": 74,
+						"Lemma": "in",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"Plan": {
+						"CharacterOffsetBegin": 39,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "plan",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Reform": {
+						"CharacterOffsetBegin": 47,
+						"CharacterOffsetEnd": 53,
+						"Lemma": "reform",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Rein": {
+						"CharacterOffsetBegin": 67,
+						"CharacterOffsetEnd": 71,
+						"Lemma": "rein",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sanders": {
+						"CharacterOffsetBegin": 30,
+						"CharacterOffsetEnd": 37,
+						"Lemma": "Sanders",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"St.": {
+						"CharacterOffsetBegin": 59,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "St.",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"To": {
+						"CharacterOffsetBegin": 44,
+						"CharacterOffsetEnd": 46,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					},
+					"Wall": {
+						"CharacterOffsetBegin": 54,
+						"CharacterOffsetEnd": 58,
+						"Lemma": "wall",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/I95EH2C5X9": {
+						"CharacterOffsetBegin": 99,
+						"CharacterOffsetEnd": 122,
+						"Lemma": "https://t.co/i95eh2c5x9",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"via": {
+						"CharacterOffsetBegin": 81,
+						"CharacterOffsetEnd": 84,
+						"Lemma": "via",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:51",
+		"tweet_name": "Beth Spencer",
+		"tweet_text": "170+Economists+Endorse+Bernie+Sanders'+Plan+To+Reform+Wall+St.+And+Rein+In+Greed via @politicususa https://t.co/I95EH2C5X9",
+		"tweet_user_id": "Thelmadonna"
+	},
+	"Hillary Clinton": {
+		"id_str": "721900946004000768",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "During",
+						"gov": "https://t.co/gsFdAHVGYo"
+					},
+					"compound modifier": {
+						"dev": "Dinner",
+						"gov": "https://t.co/gsFdAHVGYo"
+					},
+					"dependent": {
+						"dev": "https://t.co/gsFdAHVGYo",
+						"gov": "Fundraiser"
+					},
+					"determiner": {
+						"dev": "A",
+						"gov": "Fundraiser"
+					},
+					"nominal subject": {
+						"dev": "Neighbor",
+						"gov": "Has"
+					},
+					"parataxis": {
+						"dev": "Has",
+						"gov": "@CanProveIt"
+					},
+					"possession modifier": {
+						"dev": "Clooney",
+						"gov": "Neighbor"
+					},
+					"root": {
+						"dev": "@CanProveIt",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "Fundraiser",
+						"gov": "Has"
+					}
+				},
+				"Token": {
+					"'s": {
+						"CharacterOffsetBegin": 23,
+						"CharacterOffsetEnd": 25,
+						"Lemma": "'s",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "POS",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 15,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@CanProveIt": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "@canproveit",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"A": {
+						"CharacterOffsetBegin": 39,
+						"CharacterOffsetEnd": 40,
+						"Lemma": "a",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"Clinton": {
+						"CharacterOffsetBegin": 67,
+						"CharacterOffsetEnd": 74,
+						"Lemma": "Clinton",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Clooney": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "Clooney",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Dinner": {
+						"CharacterOffsetBegin": 75,
+						"CharacterOffsetEnd": 81,
+						"Lemma": "Dinner",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"During": {
+						"CharacterOffsetBegin": 60,
+						"CharacterOffsetEnd": 66,
+						"Lemma": "during",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"Fundraiser": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 59,
+						"Lemma": "Fundraiser",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Has": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 38,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"Neighbor": {
+						"CharacterOffsetBegin": 26,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "Neighbor",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sanders": {
+						"CharacterOffsetBegin": 41,
+						"CharacterOffsetEnd": 48,
+						"Lemma": "Sanders",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/gsFdAHVGYo": {
+						"CharacterOffsetBegin": 82,
+						"CharacterOffsetEnd": 105,
+						"Lemma": "https://t.co/gsFdAHVGYo",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "Berkshire Kitchen",
+		"tweet_text": "RT @CanProveIt: Clooney's Neighbor Has A Sanders Fundraiser During Clinton Dinner https://t.co/gsFdAHVGYo",
+		"tweet_user_id": "dklein114"
+	},
+	"John Kasich": {
+		"id_str": "721902297249419264",
+		"sentiment": {
+			"0": {
+				"Dependency": {},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 1,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"conj_collapsed": {
+						"dev": "vice",
+						"gov": "@alexwolfe"
+					},
+					"coordination": {
+						"dev": "and",
+						"gov": "@alexwolfe"
+					},
+					"nominal subject": {
+						"dev": "@alexwolfe",
+						"gov": "versa"
+					},
+					"root": {
+						"dev": "versa",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 26,
+						"CharacterOffsetEnd": 27,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"@alexwolfe": {
+						"CharacterOffsetBegin": 1,
+						"CharacterOffsetEnd": 11,
+						"Lemma": "@alexwolfe",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"and": {
+						"CharacterOffsetBegin": 12,
+						"CharacterOffsetEnd": 15,
+						"Lemma": "and",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "CC",
+						"Sentiment": "Neutral"
+					},
+					"versa": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "versa",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"vice": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 20,
+						"Lemma": "vice",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"auxiliary": {
+						"dev": "'ve",
+						"gov": "listened"
+					},
+					"nominal subject": {
+						"dev": "I",
+						"gov": "listened"
+					},
+					"root": {
+						"dev": "listened",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "to",
+						"gov": "listened"
+					}
+				},
+				"Token": {
+					"'ve": {
+						"CharacterOffsetBegin": 29,
+						"CharacterOffsetEnd": 32,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 44,
+						"CharacterOffsetEnd": 45,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"I": {
+						"CharacterOffsetBegin": 28,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "I",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"listened": {
+						"CharacterOffsetBegin": 33,
+						"CharacterOffsetEnd": 41,
+						"Lemma": "listen",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 42,
+						"CharacterOffsetEnd": 44,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"3": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "recent",
+						"gov": "rallies"
+					},
+					"dependent": {
+						"dev": "rallies",
+						"gov": "#Trump"
+					},
+					"root": {
+						"dev": "#Trump",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#Trump": {
+						"CharacterOffsetBegin": 46,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "#trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 67,
+						"CharacterOffsetEnd": 68,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"rallies": {
+						"CharacterOffsetBegin": 60,
+						"CharacterOffsetEnd": 67,
+						"Lemma": "rally",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"recent": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 59,
+						"Lemma": "recent",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"4": {
+				"Dependency": {
+					"adverbial clause modifier": {
+						"dev": "nominated",
+						"gov": "know"
+					},
+					"auxiliary": {
+						"dev": "wo",
+						"gov": "know"
+					},
+					"copula": {
+						"dev": "is",
+						"gov": "AMAZING"
+					},
+					"dependent": {
+						"dev": "actions",
+						"gov": "AMAZING"
+					},
+					"marker": {
+						"dev": "till",
+						"gov": "nominated"
+					},
+					"negation modifier": {
+						"dev": "n't",
+						"gov": "know"
+					},
+					"nominal passive subject": {
+						"dev": "he",
+						"gov": "nominated"
+					},
+					"nominal subject": {
+						"dev": "we",
+						"gov": "know"
+					},
+					"passive auxiliary": {
+						"dev": "gets",
+						"gov": "nominated"
+					},
+					"relative clause modifier": {
+						"dev": "know",
+						"gov": "actions"
+					},
+					"root": {
+						"dev": "AMAZING",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"-LRB-": {
+						"CharacterOffsetBegin": 89,
+						"CharacterOffsetEnd": 90,
+						"Lemma": "-lrb-",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "-LRB-",
+						"Sentiment": "Neutral"
+					},
+					"-RRB-": {
+						"CharacterOffsetBegin": 134,
+						"CharacterOffsetEnd": 135,
+						"Lemma": "-rrb-",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "-RRB-",
+						"Sentiment": "Neutral"
+					},
+					"AMAZING": {
+						"CharacterOffsetBegin": 81,
+						"CharacterOffsetEnd": 88,
+						"Lemma": "AMAZING",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Rhetoric": {
+						"CharacterOffsetBegin": 69,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "rhetoric",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"actions": {
+						"CharacterOffsetBegin": 90,
+						"CharacterOffsetEnd": 97,
+						"Lemma": "action",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"gets": {
+						"CharacterOffsetBegin": 120,
+						"CharacterOffsetEnd": 124,
+						"Lemma": "get",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"he": {
+						"CharacterOffsetBegin": 117,
+						"CharacterOffsetEnd": 119,
+						"Lemma": "he",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"is": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 80,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"know": {
+						"CharacterOffsetBegin": 107,
+						"CharacterOffsetEnd": 111,
+						"Lemma": "know",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"n't": {
+						"CharacterOffsetBegin": 103,
+						"CharacterOffsetEnd": 106,
+						"Lemma": "not",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"nominated": {
+						"CharacterOffsetBegin": 125,
+						"CharacterOffsetEnd": 134,
+						"Lemma": "nominate",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"till": {
+						"CharacterOffsetBegin": 112,
+						"CharacterOffsetEnd": 116,
+						"Lemma": "till",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"we": {
+						"CharacterOffsetBegin": 98,
+						"CharacterOffsetEnd": 100,
+						"Lemma": "we",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"wo": {
+						"CharacterOffsetBegin": 101,
+						"CharacterOffsetEnd": 103,
+						"Lemma": "will",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "MD",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:54",
+		"tweet_name": "Adam Townsend",
+		"tweet_text": ".@alexwolfe and vice versa. I've listened to. #Trump recent rallies. Rhetoric is AMAZING (actions we won't know till he gets nominated)",
+		"tweet_user_id": "adamscrabble"
+	},
+	"Ted Cruz": {
+		"id_str": "721902281734488067",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "@Sassy__Gal",
+						"gov": "@RussSegner"
+					},
+					"auxiliary": {
+						"dev": "do",
+						"gov": "study"
+					},
+					"clausal complement": {
+						"dev": "study",
+						"gov": "think"
+					},
+					"conj_collapsed": {
+						"dev": "what",
+						"gov": "@RussSegner"
+					},
+					"coordination": {
+						"dev": "&amp;",
+						"gov": "@RussSegner"
+					},
+					"direct object": {
+						"dev": "politics",
+						"gov": "study"
+					},
+					"negation modifier": {
+						"dev": "n't",
+						"gov": "study"
+					},
+					"nominal subject": {
+						"dev": "I",
+						"gov": "study"
+					},
+					"root": {
+						"dev": "makes",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"&": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "&",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "CC",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 72,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"@RussSegner": {
+						"CharacterOffsetBegin": 12,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "@RussSegner",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"@Sassy__Gal": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 11,
+						"Lemma": "@sassy__gal",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"I": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 50,
+						"Lemma": "I",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"do": {
+						"CharacterOffsetBegin": 51,
+						"CharacterOffsetEnd": 53,
+						"Lemma": "do",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"makes": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 40,
+						"Lemma": "make",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"n't": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 56,
+						"Lemma": "not",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"politics": {
+						"CharacterOffsetBegin": 63,
+						"CharacterOffsetEnd": 71,
+						"Lemma": "politics",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Negative"
+					},
+					"study": {
+						"CharacterOffsetBegin": 57,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "study",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"think": {
+						"CharacterOffsetBegin": 43,
+						"CharacterOffsetEnd": 48,
+						"Lemma": "think",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"u": {
+						"CharacterOffsetBegin": 41,
+						"CharacterOffsetEnd": 42,
+						"Lemma": "u",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "FW",
+						"Sentiment": "Neutral"
+					},
+					"what": {
+						"CharacterOffsetBegin": 30,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "what",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "WP",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"adverbial modifier": {
+						"dev": "obviously",
+						"gov": "know"
+					},
+					"auxiliary": {
+						"dev": "'re",
+						"gov": "voting"
+					},
+					"case marker": {
+						"dev": "for",
+						"gov": "Cruz"
+					},
+					"direct object": {
+						"dev": "more",
+						"gov": "know"
+					},
+					"nmod_preposition": {
+						"dev": "Cruz",
+						"gov": "voting"
+					},
+					"nominal subject": {
+						"dev": "you",
+						"gov": "voting"
+					},
+					"parataxis": {
+						"dev": "voting",
+						"gov": "know"
+					},
+					"root": {
+						"dev": "know",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"'re": {
+						"CharacterOffsetBegin": 109,
+						"CharacterOffsetEnd": 112,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 103,
+						"CharacterOffsetEnd": 106,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"Cruz": {
+						"CharacterOffsetBegin": 124,
+						"CharacterOffsetEnd": 128,
+						"Lemma": "Cruz",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"I": {
+						"CharacterOffsetBegin": 73,
+						"CharacterOffsetEnd": 74,
+						"Lemma": "I",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"for": {
+						"CharacterOffsetBegin": 120,
+						"CharacterOffsetEnd": 123,
+						"Lemma": "for",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"know": {
+						"CharacterOffsetBegin": 85,
+						"CharacterOffsetEnd": 89,
+						"Lemma": "know",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"more": {
+						"CharacterOffsetBegin": 90,
+						"CharacterOffsetEnd": 94,
+						"Lemma": "more",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJR",
+						"Sentiment": "Neutral"
+					},
+					"obviously": {
+						"CharacterOffsetBegin": 75,
+						"CharacterOffsetEnd": 84,
+						"Lemma": "obviously",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"than": {
+						"CharacterOffsetBegin": 95,
+						"CharacterOffsetEnd": 99,
+						"Lemma": "than",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"voting": {
+						"CharacterOffsetBegin": 113,
+						"CharacterOffsetEnd": 119,
+						"Lemma": "vote",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"you": {
+						"CharacterOffsetBegin": 106,
+						"CharacterOffsetEnd": 109,
+						"Lemma": "you",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:50",
+		"tweet_name": "â˜€ï¸?Pure Hawaiianâ˜€ï¸?",
+		"tweet_text": "@Sassy__Gal @RussSegner &amp; what makes u think I don't study politics. I obviously know more than you...you're voting for Cruz ðŸ˜‚",
+		"tweet_user_id": "str8fromhawaii"
+	}
+}

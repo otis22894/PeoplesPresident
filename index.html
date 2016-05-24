@@ -1,0 +1,788 @@
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        <title>The People's President</title>
+        <meta charset="utf-8" />
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700,700italic,100,400italic' rel='stylesheet' type='text/css'>        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script src="js/iso.js"></script>
+        <script src="js/cells_by_row.js"></script>
+        <script type="text/javascript" src="js/smoothie.js"></script>
+
+    </head>
+
+    <body>
+
+        <div id="header">
+            <div id="websiteName">The People's President</div>
+        </div>
+
+        <div id="controlsMenuWrap">
+            <div id="controlMenuButton">
+                <div id="controlsMenuButtonIcon" class="showMenuButton"></div>
+                <div id="controlsMenuButtonText">Show Controls</div>
+            </div>
+            <div id="controlsMenuInnerWrap" class="controlsMenuWrapHide">
+                <div class="controlsMenuSection">
+                    <div class="controlsMenuTitle">Sort By</div>
+                    <div class="controlsMenuActions">
+                        <div class="sortButton sortButtonSelected">Sentiment (Decreasing)</div>
+                        <div class="sortButton">Sentiment (Increasing)</div>
+                        <div class="sortButton">Name</div>
+                    </div>
+                </div>
+                <div class="controlsMenuSection">
+                    <div class="controlsMenuTitle">Pause / Resume Streaming</div>
+                    <div class="controlsMenuActions">
+                        <div id="controlStreamingButton">
+                            <div id="controlStreamingIcon" class="pauseIcon"></div>
+                            <div id="controlStreamingText">Pause Streaming</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="controlsMenuSection">
+                    <div class="controlsMenuTitle">Tweet Pull Rate</div>
+                    <div class="controlsMenuActions">
+                        <input id="tweetPullRateSlider" type='range' min='1' max='10' value="1" />
+                        <div id="tweetPullRate"><spand id="tweetPullRateVal">1</spand> second(s)</div>
+                    </div>
+                </div>
+                <div class="controlsMenuSection">
+                    <div class="controlsMenuTitle">Tweet Window</div>
+                    <div class="controlsMenuActions">
+                        <input id="tweetRefreshRate" type='number' value="100" min="1" max="1000"/>
+                        <div id="clearTweetsButton">
+                            <div id="clearTweetsButtonIcon"></div>
+                            <div id="clearTweetsText">Clear Tweets Now</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+    <div id="bodyWrap">
+
+        <div id="topicWrap">
+            <div id="tweetStatsWrap">
+                <div id="backToFullPageButton">Go Back</div>
+                <div id="tweetsStatsTable" class="clearfix">
+                    <div class="tweetStatRow">
+                        <div class="tweetsStatsLabel">Total Tweets:</div>
+                        <div class="tweetsStatsData" id="totalTweetsData"></div>
+                    </div>
+                    <div class="tweetStatRow">
+                        <div class="tweetsStatsLabel">Total <span class="greenText">Positive</span> Tweets:</div>
+                        <div class="tweetsStatsData" id="totalPosTweetsData"></div>
+                    </div>
+                    <div class="tweetStatRow">
+                        <div class="tweetsStatsLabel">Total <span class="redText">Negative</span> Tweets:</div>
+                        <div class="tweetsStatsData" id="totalNegTweetsData"></div>
+                    </div>
+                    <div class="tweetStatRow">
+                        <div class="tweetsStatsLabel">Total <span class="yellowText">Neutral</span> Tweets:</div>
+                        <div class="tweetsStatsData" id="totalNeutTweetsData"></div>
+                    </div>
+                </div>
+                <canvas id="mycanvas" width="400" height="200"></canvas>
+            </div>
+
+            <div class="topic">
+                <div class="placeBanner"></div>
+                <div class="instantSentiment redText"></div>
+                <div class="topicPicWrap">
+                    <div class="topicCirclePic" id="tedCruzPic"></div>
+                </div>
+                <div class="topicDataWrap">
+                    <div class="topicName">Ted Cruz</div>
+                    <div class="totalSentiment">0</div>
+                </div>
+            </div>
+            <div class="topic">
+                <div class="placeBanner"></div>
+                <div class="instantSentiment greenText"></div>
+                <div class="topicPicWrap">
+                    <div class="topicCirclePic" id="johnKasichPic"></div>
+                </div>
+                <div class="topicDataWrap">
+                    <div class="topicName">John Kasich</div>
+                    <div class="totalSentiment" id="kasichSentiment">0</div>
+                </div>
+            </div>
+            <div class="topic">
+                <div class="placeBanner"></div>
+                <div class="instantSentiment greenText"></div>
+                <div class="topicPicWrap">
+                    <div class="topicCirclePic" id="bernieSandersPic"></div>
+                </div>
+                <div class="topicDataWrap">
+                    <div class="topicName">Bernie Sanders</div>
+                    <div class="totalSentiment">0</div>
+                </div>
+            </div>
+            <div class="topic">
+                <div class="placeBanner"></div>
+                <div class="instantSentiment greenText"></div>
+                <div class="topicPicWrap">
+                    <div class="topicCirclePic" id="hillaryClintonPic"></div>
+                </div>
+                <div class="topicDataWrap">
+                    <div class="topicName">Hillary Clinton</div>
+                    <div class="totalSentiment">0</div>
+                </div>
+            </div>
+            <div class="topic">
+                <div class="placeBanner"></div>
+                <div class="instantSentiment greenText"></div>
+                <div class="topicPicWrap">
+                    <div class="topicCirclePic" id="donaldTrumpPic"></div>
+                </div>
+                <div class="topicDataWrap">
+                    <div class="topicName">Donald Trump</div>
+                    <div class="totalSentiment">0</div>
+                </div>
+            </div>
+        </div>
+        <div id="tweetWrap">
+            <div id="liveFeedTitle">Live Feed</div>
+            <div class="individualTweetWrap">
+                <div class="tweetSentiment"></div>
+                <div class="analyzeButton">Analyze Tweet</div>
+                <div id="tweetsWrap-0" class="innerTweetWrap"></div>
+            </div>
+
+            <!--<div id="tweetsWrap"></div>-->
+            <div id="hideAnalysisButton">Go Back</div>
+            <div class="analysisSectionWrap">
+                <div class="analysisSectionTitle">Part-of-Speech Analysis</div>
+                <div class="analysisSection" id="parts_of_speech_section"></div>
+            </div>
+            <div class="analysisSectionWrap">
+                <div class="analysisSectionTitle">Lemmas Analysis</div>
+                <div class="analysisSection" id="lemmas_section"></div>
+            </div>
+            <div class="analysisSectionWrap">
+                <div class="analysisSectionTitle">Named Entity Recognition Analysis</div>
+                <div class="analysisSection" id="name_entity_section"></div>
+            </div>            
+        </div>
+        <div id="drumpfify">Drumpf-ify</div>
+    </div>
+
+
+
+    </body>
+
+<script>window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    t._e = [];
+    t.ready = function(f) {
+        t._e.push(f);
+    };
+
+    return t;
+}(document, "script", "twitter-wjs"));</script>
+
+<script>
+    sentiments = {};
+    tweets = {};
+    validData = {"Donald Trump":true,"Hillary Clinton":true,"Bernie Sanders":true,"John Kasich":true,"Ted Cruz":true};
+    //updateRate = 1000;
+    updateRate = 1000;
+    pauseIsotope = false;
+    selectedTopic = "";
+    var line1;
+    sortSentiment = true;
+    sortDesc = true;
+    pullTweets = true;
+    windowSize = 100;
+    tweetWrapNum = 0;
+    globTop = 0;
+    globLeft = 0;
+    color = "";
+    analysisActive = false;
+
+    function getAverageAsString(arr){
+        total = 0;
+        for(var i = 0;i<arr.length;i++){
+            total+=arr[i].Sentiment;
+        }
+        avg = Math.round((total/arr.length)*100) / 100;
+        if(avg>0){
+            return "+" + avg.toString();
+        }else{
+            return avg.toString();
+        }
+    }
+
+    function getGetOrdinal(n) {
+        var s=["th","st","nd","rd"],
+            v=n%100;
+        return n+(s[(v-20)%10]||s[v]||s[0]);
+    }
+
+    $(document).ready(function() {
+
+        if($(window).width()<420){
+            $("#mycanvas").attr("width",($(window).width()*0.95).toString() + "px");
+        }
+
+        if (matchMedia('only screen and (min-width: 1000px)').matches){
+            var $grid = $('#topicWrap').isotope({
+                // options
+                itemSelector: '.topic',
+                layoutMode: 'cellsByRow',
+                cellsByRow: {
+                    columnWidth: 500,
+                },
+                getSortData: {
+                    averageSentiment: '.totalSentiment parseFloat',
+                    topicName: '.topicName'
+                }
+            });
+        }else if((matchMedia('only screen and (min-width: 500px)').matches)){
+            var $grid = $('#topicWrap').isotope({
+                // options
+                itemSelector: '.topic',
+                layoutMode: 'cellsByRow',
+                cellsByRow: {
+                    columnWidth: 450,
+                },
+                getSortData: {
+                    averageSentiment: '.totalSentiment parseFloat',
+                    topicName: '.topicName'
+                }
+            });
+        }else{
+            var $grid = $('#topicWrap').isotope({
+                // options
+                itemSelector: '.topic',
+                layoutMode: 'cellsByRow',
+                cellsByRow: {
+                    columnWidth: $(window).width(),
+                },
+                getSortData: {
+                    averageSentiment: '.totalSentiment parseFloat',
+                    topicName: '.topicName'
+                }
+            });
+        }
+
+        globTop = $(".topicName:contains('Ted Cruz')").parent().parent().css('top');
+        globLeft = $(".topicName:contains('Ted Cruz')").parent().parent().css('left');
+
+        function countStats(arr){
+            counts = {
+                positive:0,
+                negative:0,
+                neutral:0
+            }
+            if(arr==undefined){
+
+            }else{
+                for(var i = 0;i<arr.length;i++){
+                    if(arr[i].sentiment.Sentiment<0){
+                        counts.negative++;
+                    }else if(arr[i].sentimentSentiment>0){
+                        counts.positive++;
+                    }else{
+                        counts.neutral++;
+                    }
+                }
+            }
+            return counts;
+        }
+
+        function updateDisplay(){
+            if(!pauseIsotope){
+                if(sortSentiment){
+                    $grid.isotope( 'updateSortData' );
+                    $grid.isotope({ sortBy : 'averageSentiment',
+                                   sortAscending: !sortDesc});    
+                }
+            } else {
+                if(validData[selectedTopic]){
+                    tweetArr = tweets[selectedTopic];
+
+                    $('#tweetsWrap-' + (tweetWrapNum).toString()).siblings('.tweetSentiment').html(tweetArr[tweetArr.length-1].sentiment.Sentiment).hide();
+                    if(tweetArr[tweetArr.length-1].sentiment.Sentiment>0){
+                        $('#tweetsWrap-' + (tweetWrapNum).toString()).siblings('.tweetSentiment').addClass('greenText');
+                        color = "#15c715";
+                    }else if(tweetArr[tweetArr.length-1].sentiment.Sentiment<0){
+                        $('#tweetsWrap-' + (tweetWrapNum).toString()).siblings('.tweetSentiment').addClass('redText');
+                        color = "#ff0000";
+                    }else{
+                        $('#tweetsWrap-' + (tweetWrapNum).toString()).siblings('.tweetSentiment').addClass('orangeText');
+                        color = "#ffa500";
+                    }
+
+                    tweetWrapNum++;
+                    if($("#tweetsWrap-" + (tweetWrapNum).toString()).length == 0){
+                        $("<div class='individualTweetWrap'><div class='tweetSentiment'></div><div class='analyzeButton'>Analyze Tweet</div><div id='tweetsWrap-" + tweetWrapNum.toString() + "' class='innerTweetWrap'></div></div>").insertAfter($("#liveFeedTitle"));
+                    }
+                    if(analysisActive){
+                        $("#tweetsWrap-" + (tweetWrapNum).toString()).parent().css({"display":"none"})
+                    }
+                    
+                    twttr.widgets.createTweet(
+                        tweetArr[tweetArr.length-1].id_str,
+                        document.getElementById('tweetsWrap-' + (tweetWrapNum-1).toString()),
+                        {
+                            width: 437,
+                            cards:"hidden",
+                            linkColor:color,
+                            conversation:"none"
+                        })
+                        .then(function (el) {
+                        $(window.frames[$(el).attr('id')].contentDocument).find('.EmbeddedTweet').css("border-left","4px solid " + color);
+                        $(el).addClass("tweetShow");
+                        $(el).parent().siblings('.tweetSentiment').fadeIn(1400);
+                    });
+                    
+
+                    var counts = countStats(tweetArr);
+                    $("#totalTweetsData").html(tweetArr.length);
+                    console.log(counts);
+                    $("#totalPosTweetsData").html(counts.positive);
+                    $("#totalNegTweetsData").html(counts.negative);
+                    $("#totalNeutTweetsData").html(counts.neutral);
+                    line1.append(new Date().getTime(), tweetArr[tweetArr.length-1].sentiment.Sentiment);
+                }
+            }
+        }
+
+
+        function pullTweet(){
+
+            //$.getJSON("http://52.37.84.83:5000/api/update", function( data ) {
+                
+                
+            //console.log("./json/json_" + Math.floor(Math.random()*(81-1+1)+1).toString());
+            $.getJSON("./json/json_" + Math.floor(Math.random()*(359-1+1)+1).toString() + '.json', function( data ) {
+                //$.getJSON("./json/json_5.json", function( data ) {
+
+                if(!pullTweets){
+                    return;
+                }
+
+                for(key in data){
+                    if("empty" in data[key]){
+                        if(validData[key]){
+                            validData[key] = false;
+                        }
+                        continue;
+                    }else if(!validData[key]){
+                        validData[key] = true;
+                    }
+                    if(sentiments[key]===undefined){
+                        sentiments[key] = [data[key].sentiment];
+                        tweets[key] = [data[key]];
+                    }else{
+                        sentiments[key].push(data[key].sentiment);
+                        tweets[key].push(data[key]);
+                        if(tweets[key].length>windowSize){
+                            while(tweets[key].length>windowSize){
+                                sentiments[key].shift();
+                                tweets[key].shift();
+                            }
+                        }
+                    }
+                }
+
+                $(".topic").each(function(){
+                    //consider refactoring this so we don't do a bunch of array lookups
+                    var candidateName = $(this).children('.topicDataWrap').children('.topicName').html();
+
+                    if(validData[candidateName]){
+                        var sentimentsArr = sentiments[candidateName];
+                        var averageSentiment = getAverageAsString(sentimentsArr);
+                        $(this).children(".topicDataWrap").children(".totalSentiment").html(averageSentiment);
+
+                        var mostRecentSentiment = Math.round(sentimentsArr[sentimentsArr.length-1].Sentiment*100)/100;
+                        if(mostRecentSentiment>0){
+                            $(this).children(".instantSentiment")
+                                .removeClass('redText')
+                                .removeClass('orangeText')
+                                .addClass('greenText');
+                            mostRecentSentiment = "+" + mostRecentSentiment.toString();
+                        } else if(mostRecentSentiment<0){
+                            $(this).children(".instantSentiment")
+                                .addClass('redText')
+                                .removeClass('greenText')
+                                .removeClass('orangeText');
+                            mostRecentSentiment = mostRecentSentiment.toString();
+                        }else{
+                            $(this).children(".instantSentiment")
+                                .addClass('orangeText')
+                                .removeClass('greenText')
+                                .removeClass('redText');
+                            mostRecentSentiment = mostRecentSentiment.toString();
+                        }
+                        $(this).children(".instantSentiment").html(mostRecentSentiment).show();
+                        var current = $(this).children(".instantSentiment");
+                        setTimeout(function(){$(current).fadeOut(updateRate/4,"linear")},updateRate/2);
+                    }else{
+                        $(this).children(".instantSentiment").addClass('orangeText').removeClass('greenText').removeClass('redText');
+                        var mostRecentSentiment = "N/A";
+                        $(this).children(".instantSentiment").html(mostRecentSentiment).show();
+                        var current = $(this).children(".instantSentiment");
+                        setTimeout(function(){$(current).fadeOut(updateRate/4,"linear")},updateRate/2);
+                    }
+                });
+
+                updateDisplay();
+
+                allSentiments = [];
+                $(".totalSentiment").each(function(){
+                    allSentiments.push(Number($(this).html()));
+                });
+                allSentiments = allSentiments.sort(function(a,b){return a - b}).reverse();
+                $(".totalSentiment").each(function(){
+                    $(this).parent(".topicDataWrap").siblings(".placeBanner").html(getGetOrdinal(allSentiments.indexOf(Number($(this).html()))+1));
+                });
+
+                window.setTimeout(pullTweet,updateRate);
+            });
+        }
+
+        $("#topicWrap").on('click','.topic',function(e){
+            pauseIsotope = true;
+
+            $(this).css({transition:"left 600ms linear,top 600ms linear"});
+            $(this).css({top:globTop,left:globLeft});
+            $(".topic").not($(this)).css({opacity:0,"pointer-events":"none"});
+            $("#tweetWrap").addClass("tweetWrapShow").css({"opacity":1});;
+
+            if((matchMedia('only screen and (max-width: 1000px)').matches)){
+                $("#tweetWrap").css("top","775px");
+                $("#tweetWrap").css("left","0px");
+            }
+
+            $("#tweetStatsWrap").css({"opacity":1});
+
+            var topicName = $(this).children('.topicDataWrap').children(".topicName").html();
+            selectedTopic = topicName;
+            tweetArr = tweets[topicName];
+            tolPositive = 0;
+            tolNegative = 0;
+            tolNeutral = 0;
+
+            console.log(!(tweetArr==null));
+            if(!(tweetArr==null)){
+                console.log('here!');
+                for(var i = 0;i<tweetArr.length;i++){
+                    
+                    $('#tweetsWrap-' + (tweetWrapNum).toString()).siblings('.tweetSentiment').html(tweetArr[i].sentiment.Sentiment);
+                    if(tweetArr[i].sentiment.Sentiment>0){
+                        $('#tweetsWrap-' + (tweetWrapNum).toString()).siblings('.tweetSentiment').addClass('greenText');
+                        color = "#15c715";
+                    }else if(tweetArr[i].sentiment.Sentiment<0){
+                        $('#tweetsWrap-' + (tweetWrapNum).toString()).siblings('.tweetSentiment').addClass('redText');
+                        color = "#ff0000";
+                    }else{
+                        $('#tweetsWrap-' + (tweetWrapNum).toString()).siblings('.tweetSentiment').addClass('orangeText');
+                        color = "#ffa500";
+                    }
+                    
+                    tweetWrapNum++;
+                    if($("#tweetsWrap-" + (tweetWrapNum).toString()).length == 0){
+                        $("<div class='individualTweetWrap'><div class='tweetSentiment'></div><div class='analyzeButton'>Analyze Tweet</div><div id='tweetsWrap-" + tweetWrapNum.toString() + "' class='innerTweetWrap'></div></div>").insertAfter($("#liveFeedTitle"));
+                    }
+                    twttr.widgets.createTweet(
+                        tweetArr[i].id_str,
+                        document.getElementById('tweetsWrap-' + (tweetWrapNum-1).toString()),
+                        {
+                            width: 437,
+                            cards:"hidden",
+                            linkColor:color,
+                            conversation:"none"
+                        }).then(function (el) {
+                        var contentDocument = $(window.frames[$(el).attr('id')].contentDocument);
+                        var frame = $(window.frames[$(el).attr('id')]);
+                        $(contentDocument).find('.EmbeddedTweet').css("border-left","4px solid " + $(frame).parent().siblings('.tweetSentiment').css('color'));
+                        $(el).addClass("tweetShow");
+                    });
+
+                    if ((tweetArr[i].sentiment.Sentiment)>0){
+                        tolPositive++;
+                    }else if((tweetArr[i].sentiment.Sentiment)<0){
+                        tolNegative++;
+                    }else{
+                        tolNeutral++;
+                    }
+                }
+            }
+
+            $("#totalTweetsData").html((tweetArr==null)?0:(tweetArr.length));
+            $("#totalPosTweetsData").html(tolPositive);
+            $("#totalNegTweetsData").html(tolNegative);
+            $("#totalNeutTweetsData").html(tolNeutral);
+
+            line1.clear();
+
+            $("#drumpfify").hide();
+        });
+
+        $("#backToFullPageButton").on('click',function(e){
+            pauseIsotope = false;
+
+            $(".topic").not($(this)).css({opacity:1,"pointer-events":"all"});
+            $("#tweetWrap").removeClass("tweetWrapShow").css({"opacity":0});
+
+
+            $("#tweetStatsWrap").css({"opacity":0});
+
+            $(".innerTweetWrap").html("");
+
+            if(!sortSentiment){
+                $grid.isotope({ sortBy : 'topicName',sortAscending: true});
+            }else{
+                $grid.isotope( 'updateSortData' );
+                $grid.isotope({ sortBy : 'averageSentiment',
+                               sortAscending: !sortDesc}); 
+            }
+
+            $("#drumpfify").show();
+
+            tweetWrapNum = 0;
+        });
+
+        var smoothie = new SmoothieChart();
+        smoothie.streamTo(document.getElementById("mycanvas"),1000);
+
+        line1 = new TimeSeries();
+
+        // Add to SmoothieChart
+        smoothie.addTimeSeries(line1,{lineWidth:3});
+
+        window.setTimeout(pullTweet, updateRate);
+
+        $("#tweetPullRateSlider").val(1);
+
+        $("#tweetPullRateSlider").on("input",function(e){
+            $("#tweetPullRateVal").html($(this).val());
+            updateRate = Number($(this).val()*1000);
+        });
+
+        $("#controlMenuButton").on('click',function(e){
+            $("#controlsMenuInnerWrap").toggleClass('controlsMenuWrapHide');
+            if($("#controlsMenuButtonIcon").hasClass('showMenuButton')){
+                $("#controlsMenuButtonIcon").addClass('hideMenuButton').removeClass('showMenuButton');
+                $("#controlsMenuButtonText").html("Hide Controls");
+            }else{
+                $("#controlsMenuButtonIcon").removeClass('hideMenuButton').addClass('showMenuButton');
+                $("#controlsMenuButtonText").html("Show Controls");
+            }
+        });
+
+        $(".sortButton").on('click',function(e){
+            $(".sortButton").removeClass('sortButtonSelected');
+            $(this).addClass('sortButtonSelected');
+            if($(this).html()==="Sentiment (Decreasing)"){
+                sortSentiment = true;
+                sortDesc = true;
+            }else if($(this).html()==="Sentiment (Increasing)"){
+                sortSentiment = true;
+                sortDesc = false;
+            }else{
+                sortSentiment = false;
+                if(!pauseIsotope){
+                    $grid.isotope({ sortBy : 'topicName',sortAscending: true});
+                }
+            }
+        });
+
+        $("#controlStreamingButton").on('click',function(e){
+            if($("#controlStreamingIcon").hasClass('pauseIcon')){
+                pullTweets = false;
+                $("#controlStreamingIcon").removeClass('pauseIcon').addClass('playIcon');
+                $("#controlStreamingText").html("Resume Streaming");
+            }else{
+                pullTweets = true;
+                $("#controlStreamingIcon").addClass('pauseIcon').removeClass('playIcon');
+                $("#controlStreamingText").html("Pause Streaming");
+                window.setTimeout(pullTweet, updateRate);
+            }
+        });
+
+        $("#clearTweetsButton").on('click',function(e){
+            sentiments = {};
+            tweets = {};
+            $(".totalSentiment").html("0");
+            $("#totalTweetsData").html("0");
+            $("#totalPosTweetsData").html("0");
+            $("#totalNegTweetsData").html("0");
+        });
+
+        $("#tweetRefreshRate").on('input',function(e){
+            windowSize = $(this).val();
+        });
+
+        $("#drumpfify").on('click',function(e){
+            $("#donaldTrumpPic").addClass("donaldDrumpfPic");
+            $(".topicName:contains('Donald Trump')").html("Donald Drumpf");
+        });
+
+        function updateTokens(tokens,thresh,val){
+            for(token in tokens){
+                if(tokens[token].CharacterOffsetBegin>=thresh){
+                    tokens[token].CharacterOffsetBegin+=val;
+                    tokens[token].CharacterOffsetEnd+=val;
+                }
+            }
+            return tokens;
+        }
+
+        function updateAllTokens(sentiment,thresh,val){
+            for(key2 in sentiment){
+                if(key2!=='Sentiment'){
+                    data = sentiment[key2];
+                    tokens = data.Token;
+                    sentiment[key2].Token = updateTokens(tokens,thresh,val);
+                }
+            }
+            return sentiment;
+        }
+
+        function buildPartsOfSpeechSection(sentiment,tweet){
+            var origText = tweet.tweet_text;
+            for(key in sentiment){
+                if(key!=="Sentiment"){
+                    var data = sentiment[key];
+                    var tokens = data.Token;
+                    for(token in tokens){
+                        var part_of_speech = tokens[token].PartOfSpeech;
+                        if(part_of_speech.length==1 || !part_of_speech.match(/[a-z]/i)){
+                            className = "char";
+                            factor = 96 + part_of_speech.length;
+                        }else{
+                            className = part_of_speech;
+                            factor = 92+part_of_speech.length*2;
+                        }
+                        origText = origText.substr(0,tokens[token].CharacterOffsetBegin) + 
+                            "<span class='wordComp'><span class='wordLabel " + className + "'>" + part_of_speech + "</span><span class='wordText'>" +
+                            origText.substr(tokens[token].CharacterOffsetBegin,(tokens[token].CharacterOffsetEnd-tokens[token].CharacterOffsetBegin)) + 
+                            "</span></span>" + origText.substr(tokens[token].CharacterOffsetEnd);
+                        //tokens = updateTokens(tokens,tokens[token].CharacterOffsetEnd,factor);
+                        sentiment = updateAllTokens(sentiment,tokens[token].CharacterOffsetEnd,factor);
+                        tokens = sentiment[key].Token;
+                    }
+                }
+            }
+            $("#parts_of_speech_section").html(origText);
+            $(".wordComp").each(function(e){
+                $(this).css('width',(Math.max($(this).children('.wordLabel').outerWidth(),$(this).children('.wordText').outerWidth())+5).toString() + "px");
+            });
+        }
+
+        function buildLemmasSection(sentiment,tweet){
+            var lemmaText = tweet.tweet_text;
+            for(key3 in sentiment){
+                if(key3!=="Sentiment"){
+                    var data = sentiment[key3];
+                    var tokens = data.Token;
+                    for(token3 in tokens){
+                        var lemma = tokens[token3].Lemma;
+                        var factor = 100 + lemma.length;
+                        lemmaText = lemmaText.substr(0,tokens[token3].CharacterOffsetBegin) + 
+                            "<span class='wordComp'><span class='wordLabel lemmaTag'>" + lemma + "</span><span class='wordText'>" + lemmaText.substr(tokens[token3].CharacterOffsetBegin,(tokens[token3].CharacterOffsetEnd-tokens[token3].CharacterOffsetBegin)) + "</span></span>" +
+                            lemmaText.substr(tokens[token3].CharacterOffsetEnd);
+                        sentiment = updateAllTokens(sentiment,tokens[token3].CharacterOffsetEnd,factor);
+                        tokens = sentiment[key3].Token;
+                    }
+                }
+            }
+            $("#lemmas_section").html(lemmaText);
+            $(".wordComp").each(function(e){
+                $(this).css('width',(Math.max($(this).children('.wordLabel').outerWidth(),$(this).children('.wordText').outerWidth())+5).toString() + "px");
+            });
+        }
+
+        function buildNameEntitySection(sentiment,tweet){
+            var nameEntityText = tweet.tweet_text;
+            for(key3 in sentiment){
+                if(key3!=="Sentiment"){
+                    var data = sentiment[key3];
+                    var tokens = data.Token;
+                    for(token3 in tokens){
+                        var nameEntityTag = tokens[token3].NamedEntityTag;
+                        if(nameEntityTag!=="O"){
+                            var factor = 124 + nameEntityTag.length;
+                            nameEntityText = nameEntityText.substr(0,tokens[token3].CharacterOffsetBegin) + 
+                                "<span class='wordComp'><span class='wordLabel nameEntityTag'>" + nameEntityTag + "</span><span class='wordText nameEntityWordText'>" + nameEntityText.substr(tokens[token3].CharacterOffsetBegin,(tokens[token3].CharacterOffsetEnd-tokens[token3].CharacterOffsetBegin)) + "</span></span>" +
+                                nameEntityText.substr(tokens[token3].CharacterOffsetEnd);
+                            sentiment = updateAllTokens(sentiment,tokens[token3].CharacterOffsetEnd,factor);
+                            tokens = sentiment[key3].Token;
+                        }
+                    }
+                }
+            }
+            $("#name_entity_section").html(nameEntityText);
+            $(".wordComp").each(function(e){
+                if($(this).children(".wordLabel").html()===$(this).next().children('.wordLabel').html()){
+                    $(this).children('.wordText').html($(this).children(".wordText").html() + " " + $(this).next().children(".wordText").html());
+                    $(this).next().remove();
+                }
+                $(this).css('width',(Math.max($(this).children('.wordLabel').outerWidth(),$(this).children('.wordText').outerWidth())+5).toString() + "px");
+            });
+        }
+
+        $("#tweetWrap").on('click','.individualTweetWrap .analyzeButton',function(e){
+
+            analysisActive = true;
+
+            $("#tweetWrap").removeClass('tweetWrapShow').addClass('tweetWrapShowCenter');
+            $("#tweetStatsWrap").css({"opacity":0});
+            $(".topic").css({opacity:0,"pointer-events":"none"});
+            $(".innerTweetWrap").css({"width":"450px","margin":"0 auto"});
+            $("#liveFeedTitle").css({"opacity":"0"});
+            $(".analysisSectionWrap").addClass('analysisSectionShow');
+            $("#hideAnalysisButton").css({opacity:1});
+            $(this).hide();
+            $(".individualTweetWrap").not($(this).parent()).hide();
+
+            var id = $(this).next().attr('id');
+            var ndx = Number(id.substr(id.indexOf('-')+1));
+            var sentiment = sentiments[selectedTopic][ndx];
+            var parts_of_speech_sent = $.extend(true,{},sentiment);
+            var lemma_sentiment = $.extend(true,{}, sentiment);
+            var name_entity_sentiment = $.extend(true,{}, sentiment);
+            var tweet = tweets[selectedTopic][ndx];
+            buildNameEntitySection(name_entity_sentiment,tweet);
+            buildPartsOfSpeechSection(parts_of_speech_sent,tweet);
+            buildLemmasSection(lemma_sentiment,tweet);
+
+        });
+
+        $("#hideAnalysisButton").on('click',function(e){
+
+            analysisActive = false;
+
+            $("#tweetWrap").addClass('tweetWrapShow').removeClass('tweetWrapShowCenter');
+            $("#tweetStatsWrap").css({"opacity":1});
+            $(".topic").children('.topicDataWrap').children('.topicName:contains("' + selectedTopic + '")').parent().parent().css({opacity:1,"pointer-events":"all"});
+            $(".innerTweetWrap").css({"width":"auto","margin":"auto"});
+            $("#liveFeedTitle").css({"opacity":"1"});
+            $(".analysisSectionWrap").removeClass('analysisSectionShow');
+            $("#hideAnalysisButton").css({opacity:0});
+            $(".analyzeButton").show();
+            $(".individualTweetWrap").show();
+        });
+
+
+
+    });
+</script>
+
+</html>

@@ -1,0 +1,46 @@
+{
+	"John Kasich": {
+		"id_str":"721858117584206976",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"https:\/\/t.co\/uABg1EvVeL\":{\"Lemma\":\"https:\/\/t.co\/uabg1evvel\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":42,\"Sentiment\":\"Neutral\"},\"America\":{\"Lemma\":\"America\",\"CharacterOffsetBegin\":8,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"LOCATION\",\"CharacterOffsetEnd\":15,\"Sentiment\":\"Neutral\"},\"'s\":{\"Lemma\":\"'s\",\"CharacterOffsetBegin\":5,\"PartOfSpeech\":\"POS\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":7,\"Sentiment\":\"Neutral\"},\"...\":{\"Lemma\":\"...\",\"CharacterOffsetBegin\":15,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":18,\"Sentiment\":\"Neutral\"},\"Trump\":{\"Lemma\":\"Trump\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":5,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"possession modifier\":{\"dev\":\"Trump\",\"gov\":\"America\"},\"case marker\":{\"dev\":\"'s\",\"gov\":\"Trump\"},\"root\":{\"dev\":\"America\",\"gov\":\"\"},\"dependent\":{\"dev\":\"https:\/\/t.co\/uABg1EvVeL\",\"gov\":\"America\"}}},\"Sentiment\":0}",
+		"tweet_name":"Chris Perez",
+		"tweet_text":"Trump's America... https://t.co/uABg1EvVeL",
+		"tweet_user_id":"yankee_MSU"
+	},
+
+	"Ted Cruz": {
+		"id_str":"721858117584206976",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"https:\/\/t.co\/uABg1EvVeL\":{\"Lemma\":\"https:\/\/t.co\/uabg1evvel\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":42,\"Sentiment\":\"Neutral\"},\"America\":{\"Lemma\":\"America\",\"CharacterOffsetBegin\":8,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"LOCATION\",\"CharacterOffsetEnd\":15,\"Sentiment\":\"Neutral\"},\"'s\":{\"Lemma\":\"'s\",\"CharacterOffsetBegin\":5,\"PartOfSpeech\":\"POS\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":7,\"Sentiment\":\"Neutral\"},\"...\":{\"Lemma\":\"...\",\"CharacterOffsetBegin\":15,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":18,\"Sentiment\":\"Neutral\"},\"Trump\":{\"Lemma\":\"Trump\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":5,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"possession modifier\":{\"dev\":\"Trump\",\"gov\":\"America\"},\"case marker\":{\"dev\":\"'s\",\"gov\":\"Trump\"},\"root\":{\"dev\":\"America\",\"gov\":\"\"},\"dependent\":{\"dev\":\"https:\/\/t.co\/uABg1EvVeL\",\"gov\":\"America\"}}},\"Sentiment\":0}",
+		"tweet_name":"Chris Perez",
+		"tweet_text":"Trump's America... https://t.co/uABg1EvVeL",
+		"tweet_user_id":"yankee_MSU"
+	},
+
+	"Donald Trump": {
+		"id_str":"721858117584206976",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"https:\/\/t.co\/uABg1EvVeL\":{\"Lemma\":\"https:\/\/t.co\/uabg1evvel\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":42,\"Sentiment\":\"Neutral\"},\"America\":{\"Lemma\":\"America\",\"CharacterOffsetBegin\":8,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"LOCATION\",\"CharacterOffsetEnd\":15,\"Sentiment\":\"Neutral\"},\"'s\":{\"Lemma\":\"'s\",\"CharacterOffsetBegin\":5,\"PartOfSpeech\":\"POS\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":7,\"Sentiment\":\"Neutral\"},\"...\":{\"Lemma\":\"...\",\"CharacterOffsetBegin\":15,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":18,\"Sentiment\":\"Neutral\"},\"Trump\":{\"Lemma\":\"Trump\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":5,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"possession modifier\":{\"dev\":\"Trump\",\"gov\":\"America\"},\"case marker\":{\"dev\":\"'s\",\"gov\":\"Trump\"},\"root\":{\"dev\":\"America\",\"gov\":\"\"},\"dependent\":{\"dev\":\"https:\/\/t.co\/uABg1EvVeL\",\"gov\":\"America\"}}},\"Sentiment\":0}",
+		"tweet_name":"Chris Perez",
+		"tweet_text":"Trump's America... https://t.co/uABg1EvVeL",
+		"tweet_user_id":"yankee_MSU"
+	},
+
+	"Bernie Sanders": {
+		"id_str":"721858117584206976",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"https:\/\/t.co\/uABg1EvVeL\":{\"Lemma\":\"https:\/\/t.co\/uabg1evvel\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":42,\"Sentiment\":\"Neutral\"},\"America\":{\"Lemma\":\"America\",\"CharacterOffsetBegin\":8,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"LOCATION\",\"CharacterOffsetEnd\":15,\"Sentiment\":\"Neutral\"},\"'s\":{\"Lemma\":\"'s\",\"CharacterOffsetBegin\":5,\"PartOfSpeech\":\"POS\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":7,\"Sentiment\":\"Neutral\"},\"...\":{\"Lemma\":\"...\",\"CharacterOffsetBegin\":15,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":18,\"Sentiment\":\"Neutral\"},\"Trump\":{\"Lemma\":\"Trump\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":5,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"possession modifier\":{\"dev\":\"Trump\",\"gov\":\"America\"},\"case marker\":{\"dev\":\"'s\",\"gov\":\"Trump\"},\"root\":{\"dev\":\"America\",\"gov\":\"\"},\"dependent\":{\"dev\":\"https:\/\/t.co\/uABg1EvVeL\",\"gov\":\"America\"}}},\"Sentiment\":0}",
+		"tweet_name":"Chris Perez",
+		"tweet_text":"Trump's America... https://t.co/uABg1EvVeL",
+		"tweet_user_id":"yankee_MSU"
+	},
+
+	"Hillary Clinton": {
+		"id_str":"721858117584206976",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"https:\/\/t.co\/uABg1EvVeL\":{\"Lemma\":\"https:\/\/t.co\/uabg1evvel\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":42,\"Sentiment\":\"Neutral\"},\"America\":{\"Lemma\":\"America\",\"CharacterOffsetBegin\":8,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"LOCATION\",\"CharacterOffsetEnd\":15,\"Sentiment\":\"Neutral\"},\"'s\":{\"Lemma\":\"'s\",\"CharacterOffsetBegin\":5,\"PartOfSpeech\":\"POS\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":7,\"Sentiment\":\"Neutral\"},\"...\":{\"Lemma\":\"...\",\"CharacterOffsetBegin\":15,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":18,\"Sentiment\":\"Neutral\"},\"Trump\":{\"Lemma\":\"Trump\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":5,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"possession modifier\":{\"dev\":\"Trump\",\"gov\":\"America\"},\"case marker\":{\"dev\":\"'s\",\"gov\":\"Trump\"},\"root\":{\"dev\":\"America\",\"gov\":\"\"},\"dependent\":{\"dev\":\"https:\/\/t.co\/uABg1EvVeL\",\"gov\":\"America\"}}},\"Sentiment\":0}",
+		"tweet_name":"Chris Perez",
+		"tweet_text":"Trump's America... https://t.co/uABg1EvVeL",
+		"tweet_user_id":"yankee_MSU"
+	}
+}

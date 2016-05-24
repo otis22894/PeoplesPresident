@@ -1,0 +1,924 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721902288294559744",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "campaign",
+						"gov": "manual"
+					},
+					"dependent": {
+						"dev": "https://t.co/o72Xdly7ec",
+						"gov": "manual"
+					},
+					"root": {
+						"dev": "RT",
+						"gov": ""
+					}
+				},
+				"Token": {
+					":": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 38,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@Tea4Freedom": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 15,
+						"Lemma": "@tea4freedom",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Cruz": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 21,
+						"Lemma": "Cruz",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"campaign": {
+						"CharacterOffsetBegin": 22,
+						"CharacterOffsetEnd": 30,
+						"Lemma": "campaign",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/o72Xdly7ec": {
+						"CharacterOffsetBegin": 39,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "https://t.co/o72xdly7ec",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"manual": {
+						"CharacterOffsetBegin": 31,
+						"CharacterOffsetEnd": 37,
+						"Lemma": "manual",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:52",
+		"tweet_name": "June fouts",
+		"tweet_text": "RT @Tea4Freedom: Cruz campaign manual: https://t.co/o72Xdly7ec",
+		"tweet_user_id": "june_fours"
+	},
+	"Donald Trump": {
+		"id_str": "721902284456771584",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"auxiliary": {
+						"dev": "has",
+						"gov": "released"
+					},
+					"compound modifier": {
+						"dev": "#ImWithHer",
+						"gov": "http"
+					},
+					"dependent": {
+						"dev": "speech",
+						"gov": "@WeNeedHillary"
+					},
+					"nominal passive subject": {
+						"dev": "@WeNeedHillary",
+						"gov": "released"
+					},
+					"nominal subject": {
+						"dev": "#ShesWithUs",
+						"gov": "http"
+					},
+					"passive auxiliary": {
+						"dev": "been",
+						"gov": "released"
+					},
+					"root": {
+						"dev": "released",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "http",
+						"gov": "released"
+					}
+				},
+				"Token": {
+					"#ImWithHer": {
+						"CharacterOffsetBegin": 124,
+						"CharacterOffsetEnd": 134,
+						"Lemma": "#imwithher",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#ShesWithUs": {
+						"CharacterOffsetBegin": 112,
+						"CharacterOffsetEnd": 123,
+						"Lemma": "#sheswithus",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"''": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "''",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 18,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@WeNeedHillary": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "@weneedhillary",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Clinton": {
+						"CharacterOffsetBegin": 27,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "Clinton",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Goldman": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 42,
+						"Lemma": "Goldman",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Hillary": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "Hillary",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sachs": {
+						"CharacterOffsetBegin": 43,
+						"CharacterOffsetEnd": 48,
+						"Lemma": "Sachs",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Street": {
+						"CharacterOffsetBegin": 55,
+						"CharacterOffsetEnd": 61,
+						"Lemma": "Street",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Wall": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 54,
+						"Lemma": "Wall",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"``": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 50,
+						"Lemma": "``",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					},
+					"been": {
+						"CharacterOffsetBegin": 74,
+						"CharacterOffsetEnd": 78,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"has": {
+						"CharacterOffsetBegin": 70,
+						"CharacterOffsetEnd": 73,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"http": {
+						"CharacterOffsetBegin": 135,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "http",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/UaQtotVlkx": {
+						"CharacterOffsetBegin": 88,
+						"CharacterOffsetEnd": 111,
+						"Lemma": "https://t.co/uaqtotvlkx",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"released": {
+						"CharacterOffsetBegin": 79,
+						"CharacterOffsetEnd": 87,
+						"Lemma": "release",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"speech": {
+						"CharacterOffsetBegin": 63,
+						"CharacterOffsetEnd": 69,
+						"Lemma": "speech",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Negative"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:51",
+		"tweet_name": "Lenore Patton",
+		"tweet_text": "RT @WeNeedHillary: Hillary Clinton Goldman Sachs \"Wall Street\" speech has been released https://t.co/UaQtotVlkx\n#ShesWithUs #ImWithHer http…",
+		"tweet_user_id": "LenorePatton"
+	},
+	"Hillary Clinton": {
+		"id_str": "721900947304247297",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "over",
+						"gov": "https://t.co/sWMyS5Vxi3"
+					},
+					"clausal modifier of noun": {
+						"dev": "Sued",
+						"gov": "Linked"
+					},
+					"compound modifier": {
+						"dev": "Crisis",
+						"gov": "https://t.co/sWMyS5Vxi3"
+					},
+					"dependent": {
+						"dev": "Linked",
+						"gov": "@BlacklistedNews"
+					},
+					"nmod_preposition": {
+						"dev": "https://t.co/sWMyS5Vxi3",
+						"gov": "Sued"
+					},
+					"passive auxiliary": {
+						"dev": "Being",
+						"gov": "Sued"
+					},
+					"root": {
+						"dev": "@BlacklistedNews",
+						"gov": ""
+					}
+				},
+				"Token": {
+					":": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 20,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@BlacklistedNews": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "@blacklistednews",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"Being": {
+						"CharacterOffsetBegin": 55,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"Clinton": {
+						"CharacterOffsetBegin": 29,
+						"CharacterOffsetEnd": 36,
+						"Lemma": "Clinton",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Company": {
+						"CharacterOffsetBegin": 47,
+						"CharacterOffsetEnd": 54,
+						"Lemma": "Company",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Crisis": {
+						"CharacterOffsetBegin": 83,
+						"CharacterOffsetEnd": 89,
+						"Lemma": "Crisis",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Flint": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 76,
+						"Lemma": "Flint",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Hillary": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 28,
+						"Lemma": "Hillary",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Linked": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "Linked",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sued": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 65,
+						"Lemma": "sue",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"Water": {
+						"CharacterOffsetBegin": 77,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "Water",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/sWMyS5Vxi3": {
+						"CharacterOffsetBegin": 90,
+						"CharacterOffsetEnd": 113,
+						"Lemma": "https://t.co/swmys5vxi3",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"over": {
+						"CharacterOffsetBegin": 66,
+						"CharacterOffsetEnd": 70,
+						"Lemma": "over",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 44,
+						"CharacterOffsetEnd": 46,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "Shepherd-of-Fire",
+		"tweet_text": "RT @BlacklistedNews: Hillary Clinton Linked to Company Being Sued over Flint Water Crisis https://t.co/sWMyS5Vxi3",
+		"tweet_user_id": "FloydByrum"
+	},
+	"John Kasich": {
+		"id_str": "721900946549157888",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"appositional modifier": {
+						"dev": "4-17-16",
+						"gov": "NY"
+					},
+					"compound modifier": {
+						"dev": "https://t.co/YJ0orEYQiJ",
+						"gov": "#livestream"
+					},
+					"dependent": {
+						"dev": "#livestream",
+						"gov": "NY"
+					},
+					"direct object": {
+						"dev": "https://t.co/L79jaexN0J",
+						"gov": "#trending"
+					},
+					"root": {
+						"dev": "LIVE",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "#trending",
+						"gov": "LIVE"
+					}
+				},
+				"Token": {
+					"#livestream": {
+						"CharacterOffsetBegin": 95,
+						"CharacterOffsetEnd": 106,
+						"Lemma": "#livestream",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#trending": {
+						"CharacterOffsetBegin": 107,
+						"CharacterOffsetEnd": 116,
+						"Lemma": "#trending",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					",": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 57,
+						"Lemma": ",",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ",",
+						"Sentiment": "Neutral"
+					},
+					"-LRB-": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "-lrb-",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "-LRB-",
+						"Sentiment": "Neutral"
+					},
+					"-RRB-": {
+						"CharacterOffsetBegin": 69,
+						"CharacterOffsetEnd": 70,
+						"Lemma": "-rrb-",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "-RRB-",
+						"Sentiment": "Neutral"
+					},
+					"4-17-16": {
+						"CharacterOffsetBegin": 62,
+						"CharacterOffsetEnd": 69,
+						"Lemma": "4-17-16",
+						"NamedEntityTag": "DATE",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 11,
+						"CharacterOffsetEnd": 12,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"Conference": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 42,
+						"Lemma": "Conference",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Donald": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "Donald",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Island": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 56,
+						"Lemma": "Island",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"LIVE": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 4,
+						"Lemma": "live",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"NY": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "NY",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Press": {
+						"CharacterOffsetBegin": 26,
+						"CharacterOffsetEnd": 31,
+						"Lemma": "Press",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Staten": {
+						"CharacterOffsetBegin": 43,
+						"CharacterOffsetEnd": 49,
+						"Lemma": "Staten",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Stream": {
+						"CharacterOffsetBegin": 5,
+						"CharacterOffsetEnd": 11,
+						"Lemma": "Stream",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 20,
+						"CharacterOffsetEnd": 25,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/L79jaexN0J": {
+						"CharacterOffsetBegin": 117,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "https://t.co/l79jaexn0j",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/YJ0orEYQiJ": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 94,
+						"Lemma": "https://t.co/yj0oreyqij",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "Link Management",
+		"tweet_text": "LIVE Stream: Donald Trump Press Conference Staten Island, NY (4-17-16) https://t.co/YJ0orEYQiJ #livestream #trending https://t.co/L79jaexN0J",
+		"tweet_user_id": "ahrefio"
+	},
+	"Ted Cruz": {
+		"id_str": "721902287761776644",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "much",
+						"gov": "support"
+					},
+					"adverbial clause modifier": {
+						"dev": "does",
+						"gov": "scary"
+					},
+					"adverbial modifier": {
+						"dev": "as",
+						"gov": "much"
+					},
+					"clausal complement": {
+						"dev": "has",
+						"gov": "scary"
+					},
+					"compound modifier": {
+						"dev": "RT",
+						"gov": "@USAforTrump2016"
+					},
+					"copula": {
+						"dev": "'s",
+						"gov": "scary"
+					},
+					"direct object": {
+						"dev": "support",
+						"gov": "has"
+					},
+					"marker": {
+						"dev": "as",
+						"gov": "does"
+					},
+					"nominal subject": {
+						"dev": "he",
+						"gov": "does"
+					},
+					"parataxis": {
+						"dev": "scary",
+						"gov": "@USAforTrump2016"
+					},
+					"root": {
+						"dev": "@USAforTrump2016",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"'s": {
+						"CharacterOffsetBegin": 23,
+						"CharacterOffsetEnd": 25,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 88,
+						"CharacterOffsetEnd": 89,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 20,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@USAforTrump2016": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "@usafortrump2016",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Cruz": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 57,
+						"Lemma": "Cruz",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"It": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "it",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"actually": {
+						"CharacterOffsetBegin": 26,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "actually",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"as": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 80,
+						"Lemma": "as",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"does": {
+						"CharacterOffsetBegin": 84,
+						"CharacterOffsetEnd": 88,
+						"Lemma": "do",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"has": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 61,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"he": {
+						"CharacterOffsetBegin": 81,
+						"CharacterOffsetEnd": 83,
+						"Lemma": "he",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"much": {
+						"CharacterOffsetBegin": 65,
+						"CharacterOffsetEnd": 69,
+						"Lemma": "much",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"pretty": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 41,
+						"Lemma": "pretty",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Very positive"
+					},
+					"scary": {
+						"CharacterOffsetBegin": 42,
+						"CharacterOffsetEnd": 47,
+						"Lemma": "scary",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"support": {
+						"CharacterOffsetBegin": 70,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "support",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"that": {
+						"CharacterOffsetBegin": 48,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "that",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"adverbial modifier": {
+						"dev": "How",
+						"gov": "support"
+					},
+					"auxiliary": {
+						"dev": "can",
+						"gov": "support"
+					},
+					"case marker": {
+						"dev": "that",
+						"gov": "weasel"
+					},
+					"nmod_preposition": {
+						"dev": "weasel",
+						"gov": "support"
+					},
+					"nominal subject": {
+						"dev": "people",
+						"gov": "support"
+					},
+					"root": {
+						"dev": "support",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"?": {
+						"CharacterOffsetBegin": 124,
+						"CharacterOffsetEnd": 125,
+						"Lemma": "?",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"How": {
+						"CharacterOffsetBegin": 90,
+						"CharacterOffsetEnd": 93,
+						"Lemma": "how",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "WRB",
+						"Sentiment": "Positive"
+					},
+					"can": {
+						"CharacterOffsetBegin": 94,
+						"CharacterOffsetEnd": 97,
+						"Lemma": "can",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "MD",
+						"Sentiment": "Neutral"
+					},
+					"people": {
+						"CharacterOffsetBegin": 98,
+						"CharacterOffsetEnd": 104,
+						"Lemma": "people",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"support": {
+						"CharacterOffsetBegin": 105,
+						"CharacterOffsetEnd": 112,
+						"Lemma": "support",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"that": {
+						"CharacterOffsetBegin": 113,
+						"CharacterOffsetEnd": 117,
+						"Lemma": "that",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"weasel": {
+						"CharacterOffsetBegin": 118,
+						"CharacterOffsetEnd": 124,
+						"Lemma": "weasel",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:52",
+		"tweet_name": "Ken",
+		"tweet_text": "RT @USAforTrump2016: It's actually pretty scary that Cruz has as much support as he does. How can people support that weasel?",
+		"tweet_user_id": "KenMurakami"
+	}
+}

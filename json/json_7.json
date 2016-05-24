@@ -1,0 +1,1112 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721902284863512576",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "Of",
+						"gov": "Trusts"
+					},
+					"compound modifier": {
+						"dev": "Metro",
+						"gov": "Trusts"
+					},
+					"dependent": {
+						"dev": "Clinton",
+						"gov": "Hillary"
+					},
+					"nmod_preposition": {
+						"dev": "Trusts",
+						"gov": "Me"
+					},
+					"nominal modifier": {
+						"dev": "Me",
+						"gov": "Clinton"
+					},
+					"root": {
+						"dev": "@CraigSJ",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"''": {
+						"CharacterOffsetBegin": 62,
+						"CharacterOffsetEnd": 63,
+						"Lemma": "''",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 28,
+						"CharacterOffsetEnd": 29,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@CraigSJ": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 11,
+						"Lemma": "@craigsj",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Clinton": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 28,
+						"Lemma": "Clinton",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Course": {
+						"CharacterOffsetBegin": 34,
+						"CharacterOffsetEnd": 40,
+						"Lemma": "Course",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Hillary": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 20,
+						"Lemma": "Hillary",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Me": {
+						"CharacterOffsetBegin": 60,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "I",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"Metro": {
+						"CharacterOffsetBegin": 47,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "Metro",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Of": {
+						"CharacterOffsetBegin": 31,
+						"CharacterOffsetEnd": 33,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Trusts": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 59,
+						"Lemma": "Trusts",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNPS",
+						"Sentiment": "Neutral"
+					},
+					"Young": {
+						"CharacterOffsetBegin": 41,
+						"CharacterOffsetEnd": 46,
+						"Lemma": "Young",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"``": {
+						"CharacterOffsetBegin": 30,
+						"CharacterOffsetEnd": 31,
+						"Lemma": "``",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:51",
+		"tweet_name": "CSY",
+		"tweet_text": "RT @CraigSJ: Hillary Clinton: \"Of Course Young Metro Trusts Me\"",
+		"tweet_user_id": "ynclan_chris"
+	},
+	"Donald Trump": {
+		"id_str": "721902302509080576",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "of",
+						"gov": "bill"
+					},
+					"compound modifier": {
+						"dev": "La",
+						"gov": "Razza"
+					},
+					"determiner": {
+						"dev": "the",
+						"gov": "Gang"
+					},
+					"direct object": {
+						"dev": "Gang",
+						"gov": "supported"
+					},
+					"nmod_preposition": {
+						"dev": "bill",
+						"gov": "Gang"
+					},
+					"nominal subject": {
+						"dev": "Razza",
+						"gov": "supported"
+					},
+					"numeric modifier": {
+						"dev": "8",
+						"gov": "bill"
+					},
+					"parataxis": {
+						"dev": "supported",
+						"gov": "@KLSouth"
+					},
+					"root": {
+						"dev": "@KLSouth",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"8": {
+						"CharacterOffsetBegin": 44,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "8",
+						"NamedEntityTag": "NUMBER",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 51,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 11,
+						"CharacterOffsetEnd": 12,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@KLSouth": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 11,
+						"Lemma": "@KLSouth",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Gang": {
+						"CharacterOffsetBegin": 36,
+						"CharacterOffsetEnd": 40,
+						"Lemma": "gang",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"La": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 15,
+						"Lemma": "La",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Razza": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 21,
+						"Lemma": "Razza",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"bill": {
+						"CharacterOffsetBegin": 46,
+						"CharacterOffsetEnd": 50,
+						"Lemma": "bill",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"of": {
+						"CharacterOffsetBegin": 41,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"supported": {
+						"CharacterOffsetBegin": 22,
+						"CharacterOffsetEnd": 31,
+						"Lemma": "support",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"the": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 35,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"case marker": {
+						"dev": "'s",
+						"gov": "Razza"
+					},
+					"clausal complement": {
+						"dev": "stay",
+						"gov": "let"
+					},
+					"clausal modifier of noun": {
+						"dev": "let",
+						"gov": "position"
+					},
+					"compound modifier": {
+						"dev": "La",
+						"gov": "Razza"
+					},
+					"direct object": {
+						"dev": "position",
+						"gov": "supported"
+					},
+					"marker": {
+						"dev": "of",
+						"gov": "let"
+					},
+					"nominal subject": {
+						"dev": "illegals",
+						"gov": "stay"
+					},
+					"possession modifier": {
+						"dev": "Razza",
+						"gov": "position"
+					},
+					"root": {
+						"dev": "supported",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"!": {
+						"CharacterOffsetBegin": 109,
+						"CharacterOffsetEnd": 110,
+						"Lemma": "!",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"#Cruz": {
+						"CharacterOffsetBegin": 52,
+						"CharacterOffsetEnd": 57,
+						"Lemma": "#cruz",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"''": {
+						"CharacterOffsetBegin": 110,
+						"CharacterOffsetEnd": 111,
+						"Lemma": "''",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					"'s": {
+						"CharacterOffsetBegin": 76,
+						"CharacterOffsetEnd": 78,
+						"Lemma": "'s",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "POS",
+						"Sentiment": "Neutral"
+					},
+					"La": {
+						"CharacterOffsetBegin": 68,
+						"CharacterOffsetEnd": 70,
+						"Lemma": "La",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Razza": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 76,
+						"Lemma": "Razza",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"`": {
+						"CharacterOffsetBegin": 91,
+						"CharacterOffsetEnd": 92,
+						"Lemma": "`",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					},
+					"illegals": {
+						"CharacterOffsetBegin": 96,
+						"CharacterOffsetEnd": 104,
+						"Lemma": "illegal",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"let": {
+						"CharacterOffsetBegin": 92,
+						"CharacterOffsetEnd": 95,
+						"Lemma": "let",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"of": {
+						"CharacterOffsetBegin": 88,
+						"CharacterOffsetEnd": 90,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"position": {
+						"CharacterOffsetBegin": 79,
+						"CharacterOffsetEnd": 87,
+						"Lemma": "position",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"stay": {
+						"CharacterOffsetBegin": 105,
+						"CharacterOffsetEnd": 109,
+						"Lemma": "stay",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"supported": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 67,
+						"Lemma": "support",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "=",
+						"gov": "Amnesty"
+					},
+					"root": {
+						"dev": "Amnesty",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 121,
+						"CharacterOffsetEnd": 122,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"=": {
+						"CharacterOffsetBegin": 112,
+						"CharacterOffsetEnd": 113,
+						"Lemma": "=",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"Amnesty": {
+						"CharacterOffsetBegin": 114,
+						"CharacterOffsetEnd": 121,
+						"Lemma": "amnesty",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"3": {
+				"Dependency": {
+					"root": {
+						"dev": "https://t.co/O0s…",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"https://t.co/O0s…": {
+						"CharacterOffsetBegin": 123,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "https://t.co/o0s…",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:55",
+		"tweet_name": "Salt",
+		"tweet_text": "RT @KLSouth: La Razza supported the Gang of 8 bill. #Cruz supported La Razza's position of ‘let illegals stay!�? = Amnesty. https://t.co/O0s…",
+		"tweet_user_id": "heysalt"
+	},
+	"Hillary Clinton": {
+		"id_str": "721900930199789568",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "Progressive",
+						"gov": "Party"
+					},
+					"compound modifier": {
+						"dev": "Tea",
+						"gov": "Party"
+					},
+					"copula": {
+						"dev": "ai",
+						"gov": "pretty"
+					},
+					"determiner": {
+						"dev": "The",
+						"gov": "Party"
+					},
+					"negation modifier": {
+						"dev": "n't",
+						"gov": "pretty"
+					},
+					"nominal subject": {
+						"dev": "Party",
+						"gov": "pretty"
+					},
+					"parataxis": {
+						"dev": "pretty",
+						"gov": "@BerniedOut"
+					},
+					"root": {
+						"dev": "@BerniedOut",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 54,
+						"CharacterOffsetEnd": 55,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 15,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@BerniedOut": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "@berniedout",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Party": {
+						"CharacterOffsetBegin": 36,
+						"CharacterOffsetEnd": 41,
+						"Lemma": "Party",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Progressive": {
+						"CharacterOffsetBegin": 20,
+						"CharacterOffsetEnd": 31,
+						"Lemma": "progressive",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Tea": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 35,
+						"Lemma": "Tea",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"The": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"ai": {
+						"CharacterOffsetBegin": 42,
+						"CharacterOffsetEnd": 44,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"n't": {
+						"CharacterOffsetBegin": 44,
+						"CharacterOffsetEnd": 47,
+						"Lemma": "not",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"pretty": {
+						"CharacterOffsetBegin": 48,
+						"CharacterOffsetEnd": 54,
+						"Lemma": "pretty",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Very positive"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"root": {
+						"dev": "https://t.co/lesqIGWtCp",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"https://t.co/lesqIGWtCp": {
+						"CharacterOffsetBegin": 57,
+						"CharacterOffsetEnd": 80,
+						"Lemma": "https://t.co/lesqigwtcp",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:19:28",
+		"tweet_name": "Marilyn Oliver",
+		"tweet_text": "RT @BerniedOut: The Progressive Tea Party ain't pretty.  https://t.co/lesqIGWtCp",
+		"tweet_user_id": "MTmarilyn2"
+	},
+	"John Kasich": {
+		"id_str": "721900948021452801",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"auxiliary": {
+						"dev": "is",
+						"gov": "getting"
+					},
+					"compound modifier": {
+						"dev": "RT",
+						"gov": "@WatWudReaganDo"
+					},
+					"dependent": {
+						"dev": "cheated",
+						"gov": "getting"
+					},
+					"negation modifier": {
+						"dev": "n't",
+						"gov": "getting"
+					},
+					"nominal subject": {
+						"dev": "Trump",
+						"gov": "getting"
+					},
+					"parataxis": {
+						"dev": "getting",
+						"gov": "@Youxia88"
+					},
+					"root": {
+						"dev": "@Youxia88",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 79,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 50,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@SenFrankNiceley": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 30,
+						"Lemma": "@senfrankniceley",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"@WatWudReaganDo": {
+						"CharacterOffsetBegin": 34,
+						"CharacterOffsetEnd": 49,
+						"Lemma": "@watwudreagando",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"@Youxia88": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 12,
+						"Lemma": "@youxia88",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 31,
+						"CharacterOffsetEnd": 33,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 51,
+						"CharacterOffsetEnd": 56,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"cheated": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 78,
+						"Lemma": "cheat",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Negative"
+					},
+					"getting": {
+						"CharacterOffsetBegin": 63,
+						"CharacterOffsetEnd": 70,
+						"Lemma": "get",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"is": {
+						"CharacterOffsetBegin": 57,
+						"CharacterOffsetEnd": 59,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"n't": {
+						"CharacterOffsetBegin": 59,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "not",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"adverbial modifier": {
+						"dev": "just",
+						"gov": "wants"
+					},
+					"case marker": {
+						"dev": "FOR",
+						"gov": "him"
+					},
+					"clausal modifier of noun": {
+						"dev": "cheat",
+						"gov": "@RNC"
+					},
+					"determiner": {
+						"dev": "the",
+						"gov": "@RNC"
+					},
+					"direct object": {
+						"dev": "@RNC",
+						"gov": "wants"
+					},
+					"marker": {
+						"dev": "to",
+						"gov": "cheat"
+					},
+					"nmod_preposition": {
+						"dev": "him",
+						"gov": "cheat"
+					},
+					"nominal subject": {
+						"dev": "He",
+						"gov": "wants"
+					},
+					"root": {
+						"dev": "wants",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 119,
+						"CharacterOffsetEnd": 120,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"@RNC": {
+						"CharacterOffsetBegin": 98,
+						"CharacterOffsetEnd": 102,
+						"Lemma": "@rnc",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"FOR": {
+						"CharacterOffsetBegin": 112,
+						"CharacterOffsetEnd": 115,
+						"Lemma": "for",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"He": {
+						"CharacterOffsetBegin": 80,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "he",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"cheat": {
+						"CharacterOffsetBegin": 106,
+						"CharacterOffsetEnd": 111,
+						"Lemma": "cheat",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Negative"
+					},
+					"him": {
+						"CharacterOffsetBegin": 116,
+						"CharacterOffsetEnd": 119,
+						"Lemma": "he",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"just": {
+						"CharacterOffsetBegin": 83,
+						"CharacterOffsetEnd": 87,
+						"Lemma": "just",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"the": {
+						"CharacterOffsetBegin": 94,
+						"CharacterOffsetEnd": 97,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 103,
+						"CharacterOffsetEnd": 105,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					},
+					"wants": {
+						"CharacterOffsetBegin": 88,
+						"CharacterOffsetEnd": 93,
+						"Lemma": "want",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Positive"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"root": {
+						"dev": "https://t.co/dccuo…",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"https://t.co/dccuo…": {
+						"CharacterOffsetBegin": 121,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "https://t.co/dccuo…",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "Chris",
+		"tweet_text": "RT @Youxia88: @SenFrankNiceley RT @WatWudReaganDo: Trump isn't getting cheated. He just wants the @RNC to cheat FOR him. https://t.co/dccuo…",
+		"tweet_user_id": "Lillyb3an"
+	},
+	"Ted Cruz": {
+		"id_str": "721902277884153856",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "Chooze",
+						"gov": "#Cruz"
+					},
+					"dependent": {
+						"dev": "Clearly",
+						"gov": "#Cruz"
+					},
+					"root": {
+						"dev": "#Cruz",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"!": {
+						"CharacterOffsetBegin": 20,
+						"CharacterOffsetEnd": 21,
+						"Lemma": "!",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"#Cruz": {
+						"CharacterOffsetBegin": 15,
+						"CharacterOffsetEnd": 20,
+						"Lemma": "#cruz",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Chooze": {
+						"CharacterOffsetBegin": 8,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "chooze",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"Clearly": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 7,
+						"Lemma": "clearly",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "#ME",
+						"gov": "https://t.co/HNBzFqZtBN"
+					},
+					"dependent": {
+						"dev": "https://t.co/HNBzFqZtBN",
+						"gov": "#Pittsburgh"
+					},
+					"direct object": {
+						"dev": "#Pittsburgh",
+						"gov": "#Queens"
+					},
+					"nominal subject": {
+						"dev": "#Yonkers",
+						"gov": "#Queens"
+					},
+					"root": {
+						"dev": "#Queens",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#Bronx": {
+						"CharacterOffsetBegin": 46,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "#bronx",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#CT": {
+						"CharacterOffsetBegin": 109,
+						"CharacterOffsetEnd": 112,
+						"Lemma": "#ct",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#DE": {
+						"CharacterOffsetBegin": 105,
+						"CharacterOffsetEnd": 108,
+						"Lemma": "#de",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#LongIsl": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "#longisl",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#ME": {
+						"CharacterOffsetBegin": 113,
+						"CharacterOffsetEnd": 116,
+						"Lemma": "#me",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#Manhattan": {
+						"CharacterOffsetBegin": 70,
+						"CharacterOffsetEnd": 80,
+						"Lemma": "#manhattan",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#Philly": {
+						"CharacterOffsetBegin": 81,
+						"CharacterOffsetEnd": 88,
+						"Lemma": "#philly",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#Pittsburgh": {
+						"CharacterOffsetBegin": 89,
+						"CharacterOffsetEnd": 100,
+						"Lemma": "#pittsburgh",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#Queens": {
+						"CharacterOffsetBegin": 62,
+						"CharacterOffsetEnd": 69,
+						"Lemma": "#queens",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"#RI": {
+						"CharacterOffsetBegin": 101,
+						"CharacterOffsetEnd": 104,
+						"Lemma": "#ri",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#StatenIsland": {
+						"CharacterOffsetBegin": 23,
+						"CharacterOffsetEnd": 36,
+						"Lemma": "#statenisland",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#Yonkers": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 61,
+						"Lemma": "#yonkers",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/HNBzFqZtBN": {
+						"CharacterOffsetBegin": 117,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "https://t.co/hnbzfqztbn",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:50",
+		"tweet_name": "FlossyGurl",
+		"tweet_text": "Clearly Chooze #Cruz! \n#StatenIsland #LongIsl #Bronx #Yonkers #Queens #Manhattan #Philly #Pittsburgh #RI #DE #CT #ME https://t.co/HNBzFqZtBN",
+		"tweet_user_id": "Flossy_gurl"
+	}
+}

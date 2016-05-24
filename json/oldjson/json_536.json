@@ -1,0 +1,36 @@
+{
+	"John Kasich": {
+		"sentiment":4,
+		"tweet_text":"ices posuere cubilia Curae; Integer ultrices quis urna ac consequat. Donec lectus eros, tincidunt nec eleifend id, posu",
+		"tweet_user_id":"loopholeelbow",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Ted Cruz": {
+		"sentiment":-1,
+		"tweet_text":"ttis ac ac justo. Praesent enim elit, ornare ut facilisis nec, ullamcorper",
+		"tweet_user_id":"loopholeelbow",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Donald Trump": {
+		"sentiment":8,
+		"tweet_text":" faucibus orci luctus et ultrices posuere cubilia Cu",
+		"tweet_user_id":"loopholeelbow",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Bernie Sanders": {
+		"sentiment":5.401802e+01,
+		"tweet_text":"lestie vel. Nullam hendrerit sapien eu maximus efficitur. Morbi mollis semper ex.Curab",
+		"tweet_user_id":"loopholeelbow",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Hillary Clinton": {
+		"sentiment":-535,
+		"tweet_text":". Ut ultrices dui accumsan vestibulum placerat. Aenean varius ligula e",
+		"tweet_user_id":"loopholeelbow",
+		"tweet_timestamp":"timestamp"
+	}
+}

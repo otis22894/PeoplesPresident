@@ -1,0 +1,1022 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721902301422727168",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "for",
+						"gov": "im"
+					},
+					"clausal modifier of noun": {
+						"dev": "gon",
+						"gov": "im"
+					},
+					"compound modifier": {
+						"dev": "donald",
+						"gov": "dump"
+					},
+					"dependent": {
+						"dev": "sorry",
+						"gov": "mean"
+					},
+					"direct object": {
+						"dev": "trump",
+						"gov": "mean"
+					},
+					"marker": {
+						"dev": "na",
+						"gov": "do"
+					},
+					"nmod_preposition": {
+						"dev": "im",
+						"gov": "Think"
+					},
+					"nominal subject": {
+						"dev": "i",
+						"gov": "mean"
+					},
+					"possession modifier": {
+						"dev": "my",
+						"gov": "video"
+					},
+					"root": {
+						"dev": "Think",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "mean",
+						"gov": "do"
+					}
+				},
+				"Token": {
+					"Mondays": {
+						"CharacterOffsetBegin": 36,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "Mondays",
+						"NamedEntityTag": "DATE",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Think": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 5,
+						"Lemma": "think",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"Yomairis": {
+						"CharacterOffsetBegin": 27,
+						"CharacterOffsetEnd": 35,
+						"Lemma": "Yomairis",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"do": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 55,
+						"Lemma": "do",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"donald": {
+						"CharacterOffsetBegin": 64,
+						"CharacterOffsetEnd": 70,
+						"Lemma": "donald",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"dump": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 75,
+						"Lemma": "dump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"for": {
+						"CharacterOffsetBegin": 23,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "for",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"gon": {
+						"CharacterOffsetBegin": 47,
+						"CharacterOffsetEnd": 50,
+						"Lemma": "gon",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"i": {
+						"CharacterOffsetBegin": 82,
+						"CharacterOffsetEnd": 83,
+						"Lemma": "i",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "FW",
+						"Sentiment": "Neutral"
+					},
+					"im": {
+						"CharacterOffsetBegin": 44,
+						"CharacterOffsetEnd": 46,
+						"Lemma": "im",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"mean": {
+						"CharacterOffsetBegin": 84,
+						"CharacterOffsetEnd": 88,
+						"Lemma": "mean",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Negative"
+					},
+					"my": {
+						"CharacterOffsetBegin": 6,
+						"CharacterOffsetEnd": 8,
+						"Lemma": "my",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP$",
+						"Sentiment": "Neutral"
+					},
+					"na": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "na",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					},
+					"opinion": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 63,
+						"Lemma": "opinion",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"sorry": {
+						"CharacterOffsetBegin": 76,
+						"CharacterOffsetEnd": 81,
+						"Lemma": "sorry",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"trump": {
+						"CharacterOffsetBegin": 89,
+						"CharacterOffsetEnd": 94,
+						"Lemma": "trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Positive"
+					},
+					"video": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 22,
+						"Lemma": "video",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"youtube": {
+						"CharacterOffsetBegin": 9,
+						"CharacterOffsetEnd": 16,
+						"Lemma": "youtube",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:55",
+		"tweet_name": "Yomairis",
+		"tweet_text": "Think my youtube video for Yomairis Mondays im gonna do opinion donald dump sorry i mean trump",
+		"tweet_user_id": "YomairisLove"
+	},
+	"Donald Trump": {
+		"id_str": "721902280602050561",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "#trump",
+						"gov": "@HispanicsTrump"
+					},
+					"case marker": {
+						"dev": "for",
+						"gov": "immigrants"
+					},
+					"compound modifier": {
+						"dev": "New",
+						"gov": "York"
+					},
+					"dependent": {
+						"dev": "@HispanicsTrump",
+						"gov": "immigrants"
+					},
+					"direct object": {
+						"dev": "need",
+						"gov": "reaffirmed"
+					},
+					"nmod_preposition": {
+						"dev": "immigrants",
+						"gov": "reaffirmed"
+					},
+					"nominal subject": {
+						"dev": "https://t.…",
+						"gov": "reaffirmed"
+					},
+					"numeric modifier": {
+						"dev": "2016",
+						"gov": "https://t.…"
+					},
+					"possession modifier": {
+						"dev": "our",
+						"gov": "need"
+					},
+					"root": {
+						"dev": "reaffirmed",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"2016": {
+						"CharacterOffsetBegin": 122,
+						"CharacterOffsetEnd": 126,
+						"Lemma": "2016",
+						"NamedEntityTag": "DATE",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"#trump": {
+						"CharacterOffsetBegin": 116,
+						"CharacterOffsetEnd": 122,
+						"Lemma": "#trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 14,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@HispanicsTrump": {
+						"CharacterOffsetBegin": 99,
+						"CharacterOffsetEnd": 114,
+						"Lemma": "@hispanicstrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"@Knight276": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 13,
+						"Lemma": "@knight276",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"New": {
+						"CharacterOffsetBegin": 30,
+						"CharacterOffsetEnd": 33,
+						"Lemma": "New",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Positive"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 15,
+						"CharacterOffsetEnd": 20,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"York": {
+						"CharacterOffsetBegin": 34,
+						"CharacterOffsetEnd": 38,
+						"Lemma": "York",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"for": {
+						"CharacterOffsetBegin": 59,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "for",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.…": {
+						"CharacterOffsetBegin": 131,
+						"CharacterOffsetEnd": 142,
+						"Lemma": "https://t.…",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"immigrants": {
+						"CharacterOffsetBegin": 80,
+						"CharacterOffsetEnd": 90,
+						"Lemma": "immigrant",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"in": {
+						"CharacterOffsetBegin": 27,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "in",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"legal": {
+						"CharacterOffsetBegin": 74,
+						"CharacterOffsetEnd": 79,
+						"Lemma": "legal",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"need": {
+						"CharacterOffsetBegin": 54,
+						"CharacterOffsetEnd": 58,
+						"Lemma": "need",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"our": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 53,
+						"Lemma": "we",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP$",
+						"Sentiment": "Neutral"
+					},
+					"reaffirmed": {
+						"CharacterOffsetBegin": 39,
+						"CharacterOffsetEnd": 49,
+						"Lemma": "reaffirm",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"today": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "today",
+						"NamedEntityTag": "DATE",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"welcome": {
+						"CharacterOffsetBegin": 91,
+						"CharacterOffsetEnd": 98,
+						"Lemma": "welcome",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:50",
+		"tweet_name": "Bill Figueredo",
+		"tweet_text": "RT @Knight276: Trump today in New York reaffirmed our need for immigrants legal immigrants welcome @HispanicsTrump \n#trump2016🇺🇸 https://t.…",
+		"tweet_user_id": "bfigueredo"
+	},
+	"Hillary Clinton": {
+		"id_str": "721902298989862912",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "#NewYorkPrimary",
+						"gov": "https"
+					},
+					"case marker": {
+						"dev": "in",
+						"gov": "https"
+					},
+					"compound modifier": {
+						"dev": "#MAGA",
+						"gov": "https"
+					},
+					"dependent": {
+						"dev": "https",
+						"gov": "bring"
+					},
+					"determiner": {
+						"dev": "the",
+						"gov": "https"
+					},
+					"nmod_preposition": {
+						"dev": "York",
+						"gov": "TRUMP"
+					},
+					"nominal subject": {
+						"dev": "TRUMP",
+						"gov": "bring"
+					},
+					"numeric modifier": {
+						"dev": "",
+						"gov": "TRUMP"
+					},
+					"relative clause modifier": {
+						"dev": "bring",
+						"gov": "America"
+					},
+					"root": {
+						"dev": "@UTHornsRawk",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"": {
+						"CharacterOffsetBegin": 67,
+						"CharacterOffsetEnd": 68,
+						"Lemma": "",
+						"NamedEntityTag": "NUMBER",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"#MAGA": {
+						"CharacterOffsetBegin": 132,
+						"CharacterOffsetEnd": 137,
+						"Lemma": "#maga",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#NewYorkPrimary": {
+						"CharacterOffsetBegin": 116,
+						"CharacterOffsetEnd": 131,
+						"Lemma": "#newyorkprimary",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 145,
+						"CharacterOffsetEnd": 146,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"/": {
+						"CharacterOffsetBegin": 144,
+						"CharacterOffsetEnd": 145,
+						"Lemma": "/",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 143,
+						"CharacterOffsetEnd": 144,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@UTHornsRawk": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 15,
+						"Lemma": "@uthornsrawk",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"America": {
+						"CharacterOffsetBegin": 33,
+						"CharacterOffsetEnd": 40,
+						"Lemma": "America",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Come": {
+						"CharacterOffsetBegin": 74,
+						"CharacterOffsetEnd": 78,
+						"Lemma": "come",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"Donald": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "Donald",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"New": {
+						"CharacterOffsetBegin": 82,
+						"CharacterOffsetEnd": 85,
+						"Lemma": "New",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Positive"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"TRUMP": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 63,
+						"Lemma": "TRUMP",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"VOTE": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 57,
+						"Lemma": "VOTE",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"York": {
+						"CharacterOffsetBegin": 86,
+						"CharacterOffsetEnd": 90,
+						"Lemma": "York",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"bring": {
+						"CharacterOffsetBegin": 91,
+						"CharacterOffsetEnd": 96,
+						"Lemma": "bring",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Positive"
+					},
+					"grand": {
+						"CharacterOffsetBegin": 104,
+						"CharacterOffsetEnd": 109,
+						"Lemma": "grand",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Very positive"
+					},
+					"https": {
+						"CharacterOffsetBegin": 138,
+						"CharacterOffsetEnd": 143,
+						"Lemma": "http",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"in": {
+						"CharacterOffsetBegin": 97,
+						"CharacterOffsetEnd": 99,
+						"Lemma": "in",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"on": {
+						"CharacterOffsetBegin": 79,
+						"CharacterOffsetEnd": 81,
+						"Lemma": "on",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"slam": {
+						"CharacterOffsetBegin": 110,
+						"CharacterOffsetEnd": 114,
+						"Lemma": "slam",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"the": {
+						"CharacterOffsetBegin": 100,
+						"CharacterOffsetEnd": 103,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:55",
+		"tweet_name": "ruth elissa alexandr",
+		"tweet_text": "RT @UTHornsRawk: Donald Trump �?��? America\n  🇺🇸♦�?🔷♦�?VOTE TRUMP♦�?🔷♦�?🇺🇸\nCome on New York bring in the grand slam \n#NewYorkPrimary #MAGA https:/…",
+		"tweet_user_id": "ruth_elissa"
+	},
+	"John Kasich": {
+		"id_str": "721900946004000768",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "During",
+						"gov": "https://t.co/gsFdAHVGYo"
+					},
+					"compound modifier": {
+						"dev": "Dinner",
+						"gov": "https://t.co/gsFdAHVGYo"
+					},
+					"dependent": {
+						"dev": "https://t.co/gsFdAHVGYo",
+						"gov": "Fundraiser"
+					},
+					"determiner": {
+						"dev": "A",
+						"gov": "Fundraiser"
+					},
+					"nominal subject": {
+						"dev": "Neighbor",
+						"gov": "Has"
+					},
+					"parataxis": {
+						"dev": "Has",
+						"gov": "@CanProveIt"
+					},
+					"possession modifier": {
+						"dev": "Clooney",
+						"gov": "Neighbor"
+					},
+					"root": {
+						"dev": "@CanProveIt",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "Fundraiser",
+						"gov": "Has"
+					}
+				},
+				"Token": {
+					"'s": {
+						"CharacterOffsetBegin": 23,
+						"CharacterOffsetEnd": 25,
+						"Lemma": "'s",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "POS",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 15,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@CanProveIt": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "@canproveit",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"A": {
+						"CharacterOffsetBegin": 39,
+						"CharacterOffsetEnd": 40,
+						"Lemma": "a",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"Clinton": {
+						"CharacterOffsetBegin": 67,
+						"CharacterOffsetEnd": 74,
+						"Lemma": "Clinton",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Clooney": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "Clooney",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Dinner": {
+						"CharacterOffsetBegin": 75,
+						"CharacterOffsetEnd": 81,
+						"Lemma": "Dinner",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"During": {
+						"CharacterOffsetBegin": 60,
+						"CharacterOffsetEnd": 66,
+						"Lemma": "during",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"Fundraiser": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 59,
+						"Lemma": "Fundraiser",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Has": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 38,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"Neighbor": {
+						"CharacterOffsetBegin": 26,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "Neighbor",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sanders": {
+						"CharacterOffsetBegin": 41,
+						"CharacterOffsetEnd": 48,
+						"Lemma": "Sanders",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/gsFdAHVGYo": {
+						"CharacterOffsetBegin": 82,
+						"CharacterOffsetEnd": 105,
+						"Lemma": "https://t.co/gsFdAHVGYo",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "Berkshire Kitchen",
+		"tweet_text": "RT @CanProveIt: Clooney's Neighbor Has A Sanders Fundraiser During Clinton Dinner https://t.co/gsFdAHVGYo",
+		"tweet_user_id": "dklein114"
+	},
+	"Ted Cruz": {
+		"id_str": "721902301422727168",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "for",
+						"gov": "im"
+					},
+					"clausal modifier of noun": {
+						"dev": "gon",
+						"gov": "im"
+					},
+					"compound modifier": {
+						"dev": "donald",
+						"gov": "dump"
+					},
+					"dependent": {
+						"dev": "sorry",
+						"gov": "mean"
+					},
+					"direct object": {
+						"dev": "trump",
+						"gov": "mean"
+					},
+					"marker": {
+						"dev": "na",
+						"gov": "do"
+					},
+					"nmod_preposition": {
+						"dev": "im",
+						"gov": "Think"
+					},
+					"nominal subject": {
+						"dev": "i",
+						"gov": "mean"
+					},
+					"possession modifier": {
+						"dev": "my",
+						"gov": "video"
+					},
+					"root": {
+						"dev": "Think",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "mean",
+						"gov": "do"
+					}
+				},
+				"Token": {
+					"Mondays": {
+						"CharacterOffsetBegin": 36,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "Mondays",
+						"NamedEntityTag": "DATE",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Think": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 5,
+						"Lemma": "think",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"Yomairis": {
+						"CharacterOffsetBegin": 27,
+						"CharacterOffsetEnd": 35,
+						"Lemma": "Yomairis",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"do": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 55,
+						"Lemma": "do",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"donald": {
+						"CharacterOffsetBegin": 64,
+						"CharacterOffsetEnd": 70,
+						"Lemma": "donald",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"dump": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 75,
+						"Lemma": "dump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"for": {
+						"CharacterOffsetBegin": 23,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "for",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"gon": {
+						"CharacterOffsetBegin": 47,
+						"CharacterOffsetEnd": 50,
+						"Lemma": "gon",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"i": {
+						"CharacterOffsetBegin": 82,
+						"CharacterOffsetEnd": 83,
+						"Lemma": "i",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "FW",
+						"Sentiment": "Neutral"
+					},
+					"im": {
+						"CharacterOffsetBegin": 44,
+						"CharacterOffsetEnd": 46,
+						"Lemma": "im",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"mean": {
+						"CharacterOffsetBegin": 84,
+						"CharacterOffsetEnd": 88,
+						"Lemma": "mean",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Negative"
+					},
+					"my": {
+						"CharacterOffsetBegin": 6,
+						"CharacterOffsetEnd": 8,
+						"Lemma": "my",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP$",
+						"Sentiment": "Neutral"
+					},
+					"na": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "na",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					},
+					"opinion": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 63,
+						"Lemma": "opinion",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"sorry": {
+						"CharacterOffsetBegin": 76,
+						"CharacterOffsetEnd": 81,
+						"Lemma": "sorry",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"trump": {
+						"CharacterOffsetBegin": 89,
+						"CharacterOffsetEnd": 94,
+						"Lemma": "trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Positive"
+					},
+					"video": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 22,
+						"Lemma": "video",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"youtube": {
+						"CharacterOffsetBegin": 9,
+						"CharacterOffsetEnd": 16,
+						"Lemma": "youtube",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:55",
+		"tweet_name": "Yomairis",
+		"tweet_text": "Think my youtube video for Yomairis Mondays im gonna do opinion donald dump sorry i mean trump",
+		"tweet_user_id": "YomairisLove"
+	}
+}

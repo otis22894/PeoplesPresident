@@ -1,0 +1,36 @@
+{
+	"John Kasich": {
+		"sentiment":-10,
+		"tweet_text":"onsectetur eu. Nam ultrices ante enim, ut sodales purus pulvinar eu. Aliquam quis felis eget urna bibendum lobortis vel eget magna. ",
+		"tweet_user_id":"slatydiligent",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Ted Cruz": {
+		"sentiment":6,
+		"tweet_text":"igula. Sed egestas sem non sollicitudin lobortis. Aliquam bibendum mi convallis, dapibus leo vel, posuere odio. Pellentesq",
+		"tweet_user_id":"slatydiligent",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Donald Trump": {
+		"sentiment":-7,
+		"tweet_text":"non eros pretium efficitur. Sed justo neque, dictum nec enim sit amet, ultricies pl",
+		"tweet_user_id":"slatydiligent",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Bernie Sanders": {
+		"sentiment":6.303604e+01,
+		"tweet_text":"tae. Sed nisi purus, volutpat vel nulla facilisis, ultrices laoreet libero. Suspendisse eu egestas dolor. Pellentesque gravida lectus u",
+		"tweet_user_id":"slatydiligent",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Hillary Clinton": {
+		"sentiment":-626,
+		"tweet_text":"nte, vel dignissim sem magna vitae erat. In viverra dui sollicitudin, elementum mi a, porttitor mi.Duis quis enim ultr",
+		"tweet_user_id":"slatydiligent",
+		"tweet_timestamp":"timestamp"
+	}
+}

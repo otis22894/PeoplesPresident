@@ -1,0 +1,829 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721902298671124480",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "after",
+						"gov": "https://t.co/alt4nAoxY9"
+					},
+					"clausal complement": {
+						"dev": "bought",
+						"gov": "reveals"
+					},
+					"compound modifier": {
+						"dev": "https://t.co/rhir28lKdd",
+						"gov": "https://t.co/alt4nAoxY9"
+					},
+					"direct object": {
+						"dev": "cans",
+						"gov": "bought"
+					},
+					"nmod_preposition": {
+						"dev": "https://t.co/alt4nAoxY9",
+						"gov": "bought"
+					},
+					"nominal subject": {
+						"dev": "he",
+						"gov": "bought"
+					},
+					"numeric modifier": {
+						"dev": "100",
+						"gov": "cans"
+					},
+					"parataxis": {
+						"dev": "reveals",
+						"gov": "@CBCNews"
+					},
+					"possession modifier": {
+						"dev": "their",
+						"gov": "https://t.co/alt4nAoxY9"
+					},
+					"root": {
+						"dev": "@CBCNews",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"100": {
+						"CharacterOffsetBegin": 47,
+						"CharacterOffsetEnd": 50,
+						"Lemma": "100",
+						"NamedEntityTag": "NUMBER",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"'s": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "'s",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "POS",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 11,
+						"CharacterOffsetEnd": 12,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@CBCNews": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 11,
+						"Lemma": "@cbcnews",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"Cruz": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 21,
+						"Lemma": "Cruz",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Ted": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 16,
+						"Lemma": "Ted",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"after": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 66,
+						"Lemma": "after",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"bought": {
+						"CharacterOffsetBegin": 40,
+						"CharacterOffsetEnd": 46,
+						"Lemma": "buy",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"cans": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "can",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"he": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 39,
+						"Lemma": "he",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"honeymoon": {
+						"CharacterOffsetBegin": 73,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "honeymoon",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/alt4nAoxY9": {
+						"CharacterOffsetBegin": 107,
+						"CharacterOffsetEnd": 130,
+						"Lemma": "https://t.co/alt4naoxy9",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/rhir28lKdd": {
+						"CharacterOffsetBegin": 83,
+						"CharacterOffsetEnd": 106,
+						"Lemma": "https://t.co/rhir28lkdd",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"reveals": {
+						"CharacterOffsetBegin": 29,
+						"CharacterOffsetEnd": 36,
+						"Lemma": "reveal",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"soup": {
+						"CharacterOffsetBegin": 51,
+						"CharacterOffsetEnd": 55,
+						"Lemma": "soup",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"their": {
+						"CharacterOffsetBegin": 67,
+						"CharacterOffsetEnd": 72,
+						"Lemma": "they",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP$",
+						"Sentiment": "Neutral"
+					},
+					"wife": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 28,
+						"Lemma": "wife",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:54",
+		"tweet_name": "AB",
+		"tweet_text": "RT @CBCNews: Ted Cruz's wife reveals he bought 100 soup cans after their honeymoon https://t.co/rhir28lKdd https://t.co/alt4nAoxY9",
+		"tweet_user_id": "abaigealpurcell"
+	},
+	"Donald Trump": {
+		"id_str": "721902288126681092",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "#NYPrimary",
+						"gov": "#FightingForUs"
+					},
+					"compound modifier": {
+						"dev": "#ReadyOnDayOne",
+						"gov": "https://t.co…"
+					},
+					"dependent": {
+						"dev": "https://t.co…",
+						"gov": "#FightingForUs"
+					},
+					"direct object": {
+						"dev": "#EveryVoteCounts",
+						"gov": "#MostQualified"
+					},
+					"nominal subject": {
+						"dev": "#ShesWithUs",
+						"gov": "#MostQualified"
+					},
+					"parataxis": {
+						"dev": "#MostQualified",
+						"gov": "@MikeJUofA"
+					},
+					"root": {
+						"dev": "@MikeJUofA",
+						"gov": ""
+					},
+					"temporal modifier": {
+						"dev": "#FightingForUs",
+						"gov": "#MostQualified"
+					}
+				},
+				"Token": {
+					"#EveryVoteCounts": {
+						"CharacterOffsetBegin": 69,
+						"CharacterOffsetEnd": 85,
+						"Lemma": "#everyvotecounts",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"#FightingForUs": {
+						"CharacterOffsetBegin": 97,
+						"CharacterOffsetEnd": 111,
+						"Lemma": "#fightingforus",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"#GOTVforHillary": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 68,
+						"Lemma": "#gotvforhillary",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"#ImWithHer": {
+						"CharacterOffsetBegin": 15,
+						"CharacterOffsetEnd": 25,
+						"Lemma": "#imwithher",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#MostQualified": {
+						"CharacterOffsetBegin": 38,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "#mostqualified",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"#NYPrimary": {
+						"CharacterOffsetBegin": 86,
+						"CharacterOffsetEnd": 96,
+						"Lemma": "#nyprimary",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"#ReadyOnDayOne": {
+						"CharacterOffsetBegin": 112,
+						"CharacterOffsetEnd": 126,
+						"Lemma": "#readyondayone",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#ShesWithUs": {
+						"CharacterOffsetBegin": 26,
+						"CharacterOffsetEnd": 37,
+						"Lemma": "#sheswithus",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 14,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@MikeJUofA": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 13,
+						"Lemma": "@mikejuofa",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co…": {
+						"CharacterOffsetBegin": 127,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "https://t.co…",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:52",
+		"tweet_name": "Marilyn Oliver",
+		"tweet_text": "RT @MikeJUofA: #ImWithHer #ShesWithUs #MostQualified #GOTVforHillary #EveryVoteCounts #NYPrimary #FightingForUs #ReadyOnDayOne https://t.co…",
+		"tweet_user_id": "MTmarilyn2"
+	},
+	"Hillary Clinton": {
+		"id_str": "721900931634233344",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "cuck",
+						"gov": "https://t.co/OQUmwp46vn"
+					},
+					"compound modifier": {
+						"dev": "move",
+						"gov": "https://t.co/OQUmwp46vn"
+					},
+					"dependent": {
+						"dev": "https://t.co/OQUmwp46vn",
+						"gov": "@TheRickWilson"
+					},
+					"root": {
+						"dev": "@TheRickWilson",
+						"gov": ""
+					}
+				},
+				"Token": {
+					":": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 18,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@TheRickWilson": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "@therickwilson",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Total": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 24,
+						"Lemma": "total",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"cuck": {
+						"CharacterOffsetBegin": 25,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "cuck",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/OQUmwp46vn": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 58,
+						"Lemma": "https://t.co/oqumwp46vn",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"move": {
+						"CharacterOffsetBegin": 30,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "move",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:19:29",
+		"tweet_name": "The Roadbeer",
+		"tweet_text": "RT @TheRickWilson: Total cuck move https://t.co/OQUmwp46vn",
+		"tweet_user_id": "TheRoadbeer"
+	},
+	"John Kasich": {
+		"id_str": "721902282980270080",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adverbial clause modifier": {
+						"dev": "watching",
+						"gov": "grounded"
+					},
+					"case marker": {
+						"dev": "of",
+						"gov": "numbnuts"
+					},
+					"clausal modifier of noun": {
+						"dev": "watch",
+						"gov": "Time"
+					},
+					"compound modifier": {
+						"dev": "Trump",
+						"gov": "Rally"
+					},
+					"dependent": {
+						"dev": "Time",
+						"gov": "@hale_teddy"
+					},
+					"determiner": {
+						"dev": "a",
+						"gov": "bevy"
+					},
+					"direct object": {
+						"dev": "bevy",
+						"gov": "watching"
+					},
+					"marker": {
+						"dev": "after",
+						"gov": "watching"
+					},
+					"nmod_preposition": {
+						"dev": "numbnuts",
+						"gov": "bevy"
+					},
+					"passive auxiliary": {
+						"dev": "get",
+						"gov": "grounded"
+					},
+					"root": {
+						"dev": "@hale_teddy",
+						"gov": ""
+					}
+				},
+				"Token": {
+					",": {
+						"CharacterOffsetBegin": 60,
+						"CharacterOffsetEnd": 61,
+						"Lemma": ",",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ",",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 94,
+						"CharacterOffsetEnd": 95,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 15,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@hale_teddy": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "@hale_teddy",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Rally": {
+						"CharacterOffsetBegin": 38,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "Rally",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Time": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 20,
+						"Lemma": "Time",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 37,
+						"Lemma": "Trump",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"a": {
+						"CharacterOffsetBegin": 76,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "a",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"after": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 66,
+						"Lemma": "after",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"bevy": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "bevy",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"get": {
+						"CharacterOffsetBegin": 48,
+						"CharacterOffsetEnd": 51,
+						"Lemma": "get",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"grounded": {
+						"CharacterOffsetBegin": 52,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "ground",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Positive"
+					},
+					"numbnuts": {
+						"CharacterOffsetBegin": 86,
+						"CharacterOffsetEnd": 94,
+						"Lemma": "numbnut",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"of": {
+						"CharacterOffsetBegin": 83,
+						"CharacterOffsetEnd": 85,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 45,
+						"CharacterOffsetEnd": 47,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					},
+					"watch": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "watch",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"watching": {
+						"CharacterOffsetBegin": 67,
+						"CharacterOffsetEnd": 75,
+						"Lemma": "watch",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 95,
+						"CharacterOffsetEnd": 96,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"dependent": {
+						"dev": "https",
+						"gov": "https://t.co/46KVEvZFw3"
+					},
+					"determiner": {
+						"dev": "these",
+						"gov": "https://t.co/46KVEvZFw3"
+					},
+					"relative clause modifier": {
+						"dev": "https://t.co/46KVEvZFw3",
+						"gov": "like"
+					},
+					"root": {
+						"dev": "like",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 138,
+						"CharacterOffsetEnd": 139,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"https": {
+						"CharacterOffsetBegin": 133,
+						"CharacterOffsetEnd": 138,
+						"Lemma": "http",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/46KVEvZFw3": {
+						"CharacterOffsetBegin": 109,
+						"CharacterOffsetEnd": 132,
+						"Lemma": "https://t.co/46kvevzfw3",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"like": {
+						"CharacterOffsetBegin": 96,
+						"CharacterOffsetEnd": 100,
+						"Lemma": "like",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"these": {
+						"CharacterOffsetBegin": 101,
+						"CharacterOffsetEnd": 106,
+						"Lemma": "these",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:51",
+		"tweet_name": "Nancy Hale",
+		"tweet_text": "RT @hale_teddy: Time to watch a Trump Rally, to get grounded,after watching a bevy of numbnuts..like these   https://t.co/46KVEvZFw3 https:…",
+		"tweet_user_id": "hale4jesus"
+	},
+	"Ted Cruz": {
+		"id_str": "721900947694231552",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "Hair",
+						"gov": "https://t.co/OQHZzTOpnd"
+					},
+					"dependent": {
+						"dev": "https://t.co/OQHZzTOpnd",
+						"gov": "The"
+					},
+					"root": {
+						"dev": "@MostRad",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"''": {
+						"CharacterOffsetBegin": 33,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "''",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 11,
+						"CharacterOffsetEnd": 12,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@MostRad": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 11,
+						"Lemma": "@mostrad",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Hair": {
+						"CharacterOffsetBegin": 29,
+						"CharacterOffsetEnd": 33,
+						"Lemma": "Hair",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"The": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 23,
+						"CharacterOffsetEnd": 28,
+						"Lemma": "Trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Wild": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 22,
+						"Lemma": "Wild",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Positive"
+					},
+					"``": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "``",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/OQHZzTOpnd": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 58,
+						"Lemma": "https://t.co/oqhzztopnd",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 1
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "bil",
+		"tweet_text": "RT @MostRad: \"The Wild Trump Hair\" https://t.co/OQHZzTOpnd",
+		"tweet_user_id": "SirMatSabil"
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"John Kasich": {
+		"sentiment":-4,
+		"tweet_text":"Vivamus vel interdum est. Sed condimentum laoreet elit, ac finibus nunc lacini",
+		"tweet_user_id":"deadburp",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Ted Cruz": {
+		"sentiment":-2,
+		"tweet_text":"i, aliquam vitae urna ut, dignissim sodales lorem. Sed quis bibendum arcu. Null",
+		"tweet_user_id":"deadburp",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Donald Trump": {
+		"sentiment":-9,
+		"tweet_text":"ntesque convallis massa ac libero facilisis, vitae dignissim sapien dignissim. Aliquam ",
+		"tweet_user_id":"deadburp",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Bernie Sanders": {
+		"sentiment":1.893694e+01,
+		"tweet_text":"si bibendum scelerisque. Fusce blandit magna at orci suscipit, id efficitur di",
+		"tweet_user_id":"deadburp",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Hillary Clinton": {
+		"sentiment":-181,
+		"tweet_text":"urna, egestas vel lobortis vitae, bibendum vitae elit. Donec mollis tellus eget porta posuere. Phasellus ",
+		"tweet_user_id":"deadburp",
+		"tweet_timestamp":"timestamp"
+	}
+}

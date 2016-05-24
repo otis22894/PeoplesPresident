@@ -1,0 +1,46 @@
+{
+	"John Kasich": {
+		"id_str":"721858387097600000",
+		"timestamp":"4/18/2016 12:30:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"Sensation\":{\"Lemma\":\"Sensation\",\"CharacterOffsetBegin\":29,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":38,\"Sentiment\":\"Positive\"},\"RT\":{\"Lemma\":\"rt\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":2,\"Sentiment\":\"Neutral\"},\"#WAcaucus\":{\"Lemma\":\"#WAcaucus\",\"CharacterOffsetBegin\":44,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":53,\"Sentiment\":\"Neutral\"},\":\":{\"Lemma\":\":\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":20,\"Sentiment\":\"Neutral\"},\"Sanders\":{\"Lemma\":\"Sanders\",\"CharacterOffsetBegin\":21,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":28,\"Sentiment\":\"Neutral\"},\"@McKGraKucPauNad\":{\"Lemma\":\"@mckgrakucpaunad\",\"CharacterOffsetBegin\":3,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":19,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"root\":{\"dev\":\"@McKGraKucPauNad\",\"gov\":\"\"},\"compound modifier\":{\"dev\":\"Sensation\",\"gov\":\"#WAcaucus\"},\"dependent\":{\"dev\":\"#WAcaucus\",\"gov\":\"@McKGraKucPauNad\"}}},\"Sentiment\":0}",
+		"tweet_name":"BernieForPresident",
+		"tweet_text":"RT @McKGraKucPauNad: Sanders Sensation     #WAcaucus",
+		"tweet_user_id":"Z3pp3in"
+	},
+
+	"Ted Cruz": {
+		"id_str":"721858387097600000",
+		"timestamp":"4/18/2016 12:30:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"Sensation\":{\"Lemma\":\"Sensation\",\"CharacterOffsetBegin\":29,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":38,\"Sentiment\":\"Positive\"},\"RT\":{\"Lemma\":\"rt\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":2,\"Sentiment\":\"Neutral\"},\"#WAcaucus\":{\"Lemma\":\"#WAcaucus\",\"CharacterOffsetBegin\":44,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":53,\"Sentiment\":\"Neutral\"},\":\":{\"Lemma\":\":\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":20,\"Sentiment\":\"Neutral\"},\"Sanders\":{\"Lemma\":\"Sanders\",\"CharacterOffsetBegin\":21,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":28,\"Sentiment\":\"Neutral\"},\"@McKGraKucPauNad\":{\"Lemma\":\"@mckgrakucpaunad\",\"CharacterOffsetBegin\":3,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":19,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"root\":{\"dev\":\"@McKGraKucPauNad\",\"gov\":\"\"},\"compound modifier\":{\"dev\":\"Sensation\",\"gov\":\"#WAcaucus\"},\"dependent\":{\"dev\":\"#WAcaucus\",\"gov\":\"@McKGraKucPauNad\"}}},\"Sentiment\":0}",
+		"tweet_name":"BernieForPresident",
+		"tweet_text":"RT @McKGraKucPauNad: Sanders Sensation     #WAcaucus",
+		"tweet_user_id":"Z3pp3in"
+	},
+
+	"Donald Trump": {
+		"id_str":"721858387097600000",
+		"timestamp":"4/18/2016 12:30:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"Sensation\":{\"Lemma\":\"Sensation\",\"CharacterOffsetBegin\":29,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":38,\"Sentiment\":\"Positive\"},\"RT\":{\"Lemma\":\"rt\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":2,\"Sentiment\":\"Neutral\"},\"#WAcaucus\":{\"Lemma\":\"#WAcaucus\",\"CharacterOffsetBegin\":44,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":53,\"Sentiment\":\"Neutral\"},\":\":{\"Lemma\":\":\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":20,\"Sentiment\":\"Neutral\"},\"Sanders\":{\"Lemma\":\"Sanders\",\"CharacterOffsetBegin\":21,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":28,\"Sentiment\":\"Neutral\"},\"@McKGraKucPauNad\":{\"Lemma\":\"@mckgrakucpaunad\",\"CharacterOffsetBegin\":3,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":19,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"root\":{\"dev\":\"@McKGraKucPauNad\",\"gov\":\"\"},\"compound modifier\":{\"dev\":\"Sensation\",\"gov\":\"#WAcaucus\"},\"dependent\":{\"dev\":\"#WAcaucus\",\"gov\":\"@McKGraKucPauNad\"}}},\"Sentiment\":0}",
+		"tweet_name":"BernieForPresident",
+		"tweet_text":"RT @McKGraKucPauNad: Sanders Sensation     #WAcaucus",
+		"tweet_user_id":"Z3pp3in"
+	},
+
+	"Bernie Sanders": {
+		"id_str":"721858387097600000",
+		"timestamp":"4/18/2016 12:30:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"Sensation\":{\"Lemma\":\"Sensation\",\"CharacterOffsetBegin\":29,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":38,\"Sentiment\":\"Positive\"},\"RT\":{\"Lemma\":\"rt\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":2,\"Sentiment\":\"Neutral\"},\"#WAcaucus\":{\"Lemma\":\"#WAcaucus\",\"CharacterOffsetBegin\":44,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":53,\"Sentiment\":\"Neutral\"},\":\":{\"Lemma\":\":\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":20,\"Sentiment\":\"Neutral\"},\"Sanders\":{\"Lemma\":\"Sanders\",\"CharacterOffsetBegin\":21,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":28,\"Sentiment\":\"Neutral\"},\"@McKGraKucPauNad\":{\"Lemma\":\"@mckgrakucpaunad\",\"CharacterOffsetBegin\":3,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":19,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"root\":{\"dev\":\"@McKGraKucPauNad\",\"gov\":\"\"},\"compound modifier\":{\"dev\":\"Sensation\",\"gov\":\"#WAcaucus\"},\"dependent\":{\"dev\":\"#WAcaucus\",\"gov\":\"@McKGraKucPauNad\"}}},\"Sentiment\":0}",
+		"tweet_name":"BernieForPresident",
+		"tweet_text":"RT @McKGraKucPauNad: Sanders Sensation     #WAcaucus",
+		"tweet_user_id":"Z3pp3in"
+	},
+
+	"Hillary Clinton": {
+		"id_str":"721858387097600000",
+		"timestamp":"4/18/2016 12:30:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"Sensation\":{\"Lemma\":\"Sensation\",\"CharacterOffsetBegin\":29,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":38,\"Sentiment\":\"Positive\"},\"RT\":{\"Lemma\":\"rt\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":2,\"Sentiment\":\"Neutral\"},\"#WAcaucus\":{\"Lemma\":\"#WAcaucus\",\"CharacterOffsetBegin\":44,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":53,\"Sentiment\":\"Neutral\"},\":\":{\"Lemma\":\":\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":20,\"Sentiment\":\"Neutral\"},\"Sanders\":{\"Lemma\":\"Sanders\",\"CharacterOffsetBegin\":21,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":28,\"Sentiment\":\"Neutral\"},\"@McKGraKucPauNad\":{\"Lemma\":\"@mckgrakucpaunad\",\"CharacterOffsetBegin\":3,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":19,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"root\":{\"dev\":\"@McKGraKucPauNad\",\"gov\":\"\"},\"compound modifier\":{\"dev\":\"Sensation\",\"gov\":\"#WAcaucus\"},\"dependent\":{\"dev\":\"#WAcaucus\",\"gov\":\"@McKGraKucPauNad\"}}},\"Sentiment\":0}",
+		"tweet_name":"BernieForPresident",
+		"tweet_text":"RT @McKGraKucPauNad: Sanders Sensation     #WAcaucus",
+		"tweet_user_id":"Z3pp3in"
+	}
+}

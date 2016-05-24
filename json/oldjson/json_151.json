@@ -1,0 +1,36 @@
+{
+	"John Kasich": {
+		"sentiment":9,
+		"tweet_text":"t. Maecenas ut aliquam mauris. Pellentesque ipsum quam, auctor id tempus quis, blandit facilisis ligula. Sed semper purus diam",
+		"tweet_user_id":"physicscroak",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Ted Cruz": {
+		"sentiment":1,
+		"tweet_text":"s vel tempus nibh, in ultrices lorem. Vestibulum ante ipsum primis in fauc",
+		"tweet_user_id":"physicscroak",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Donald Trump": {
+		"sentiment":-6,
+		"tweet_text":"ue metus. Sed lacinia tortor in erat eleifend facilisis. Fusce facilisis, lectus vitae eleme",
+		"tweet_user_id":"physicscroak",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Bernie Sanders": {
+		"sentiment":1.586486e+01,
+		"tweet_text":" libero eleifend ut. Aenean ullamcorper, massa vitae dictum congue, libero erat elementum purus, non",
+		"tweet_user_id":"physicscroak",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Hillary Clinton": {
+		"sentiment":-150,
+		"tweet_text":" dignissim leo eu eleifend consequat. Sed scelerisque purus in purus consequat sagittis. Vivamus id tempus nunc, id pul",
+		"tweet_user_id":"physicscroak",
+		"tweet_timestamp":"timestamp"
+	}
+}

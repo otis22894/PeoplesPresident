@@ -1,0 +1,938 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721902298708873216",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "many",
+						"gov": "allegations"
+					},
+					"adverbial modifier": {
+						"dev": "so",
+						"gov": "many"
+					},
+					"auxiliary": {
+						"dev": "did",
+						"gov": "know"
+					},
+					"case marker": {
+						"dev": "against",
+						"gov": "you"
+					},
+					"clausal complement": {
+						"dev": "were",
+						"gov": "know"
+					},
+					"compound modifier": {
+						"dev": "rape",
+						"gov": "allegations"
+					},
+					"expletive": {
+						"dev": "there",
+						"gov": "were"
+					},
+					"negation modifier": {
+						"dev": "n't",
+						"gov": "know"
+					},
+					"nmod_preposition": {
+						"dev": "you",
+						"gov": "allegations"
+					},
+					"nominal subject": {
+						"dev": "allegations",
+						"gov": "were"
+					},
+					"root": {
+						"dev": "know",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"?": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "?",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"I": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 1,
+						"Lemma": "I",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"against": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 57,
+						"Lemma": "against",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"allegations": {
+						"CharacterOffsetBegin": 38,
+						"CharacterOffsetEnd": 49,
+						"Lemma": "allegation",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"did": {
+						"CharacterOffsetBegin": 2,
+						"CharacterOffsetEnd": 5,
+						"Lemma": "do",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"know": {
+						"CharacterOffsetBegin": 9,
+						"CharacterOffsetEnd": 13,
+						"Lemma": "know",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"many": {
+						"CharacterOffsetBegin": 28,
+						"CharacterOffsetEnd": 32,
+						"Lemma": "many",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"n't": {
+						"CharacterOffsetBegin": 5,
+						"CharacterOffsetEnd": 8,
+						"Lemma": "not",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"rape": {
+						"CharacterOffsetBegin": 33,
+						"CharacterOffsetEnd": 37,
+						"Lemma": "rape",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"so": {
+						"CharacterOffsetBegin": 25,
+						"CharacterOffsetEnd": 27,
+						"Lemma": "so",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"there": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "there",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "EX",
+						"Sentiment": "Neutral"
+					},
+					"were": {
+						"CharacterOffsetBegin": 20,
+						"CharacterOffsetEnd": 24,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"you": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 61,
+						"Lemma": "you",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"root": {
+						"dev": "https://t.co/6WSuJZbeGi",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"https://t.co/6WSuJZbeGi": {
+						"CharacterOffsetBegin": 63,
+						"CharacterOffsetEnd": 86,
+						"Lemma": "https://t.co/6wsujzbegi",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:54",
+		"tweet_name": "David",
+		"tweet_text": "I didn't know there were so many rape allegations against you? https://t.co/6WSuJZbeGi",
+		"tweet_user_id": "Quack4Bernie"
+	},
+	"Donald Trump": {
+		"id_str": "721902291012308992",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "@Its_Tito_Bruh",
+						"gov": "https://t.co/5a6ew8C780"
+					},
+					"dependent": {
+						"dev": "https://t.co/5a6ew8C780",
+						"gov": "@nay_nays_tweets"
+					},
+					"root": {
+						"dev": "@nay_nays_tweets",
+						"gov": ""
+					}
+				},
+				"Token": {
+					":": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 20,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@Its_Tito_Bruh": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 35,
+						"Lemma": "@its_tito_bruh",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"@nay_nays_tweets": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "@nay_nays_tweets",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/5a6ew8C780": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "https://t.co/5a6ew8c780",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:53",
+		"tweet_name": "Your Dad",
+		"tweet_text": "RT @nay_nays_tweets: @Its_Tito_Bruh  https://t.co/5a6ew8C780",
+		"tweet_user_id": "Its_Tito_Bruh"
+	},
+	"Hillary Clinton": {
+		"id_str": "721900939536441345",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "'",
+						"gov": "Toys"
+					},
+					"clausal complement": {
+						"dev": "Has",
+						"gov": "Says"
+					},
+					"compound modifier": {
+						"dev": "Bashes",
+						"gov": "Cruz"
+					},
+					"direct object": {
+						"dev": "https://t.co/hsITmD5fgf",
+						"gov": "Says"
+					},
+					"nominal subject": {
+						"dev": "He",
+						"gov": "Has"
+					},
+					"possession modifier": {
+						"dev": "Toys",
+						"gov": "https://t.co/hsITmD5fgf"
+					},
+					"relative clause modifier": {
+						"dev": "Says",
+						"gov": "Cruz"
+					},
+					"root": {
+						"dev": "Cruz",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "Better",
+						"gov": "Has"
+					}
+				},
+				"Token": {
+					"'": {
+						"CharacterOffsetBegin": 43,
+						"CharacterOffsetEnd": 44,
+						"Lemma": "'",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "POS",
+						"Sentiment": "Neutral"
+					},
+					",": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 18,
+						"Lemma": ",",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ",",
+						"Sentiment": "Neutral"
+					},
+					"Bashes": {
+						"CharacterOffsetBegin": 6,
+						"CharacterOffsetEnd": 12,
+						"Lemma": "Bashes",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Better": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 38,
+						"Lemma": "better",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RBR",
+						"Sentiment": "Positive"
+					},
+					"Cruz": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "Cruz",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Has": {
+						"CharacterOffsetBegin": 27,
+						"CharacterOffsetEnd": 30,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"He": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "he",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"Says": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "say",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"Toys": {
+						"CharacterOffsetBegin": 39,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "Toys",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNPS",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 5,
+						"Lemma": "Trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"`": {
+						"CharacterOffsetBegin": 31,
+						"CharacterOffsetEnd": 32,
+						"Lemma": "`",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/hsITmD5fgf": {
+						"CharacterOffsetBegin": 45,
+						"CharacterOffsetEnd": 68,
+						"Lemma": "https://t.co/hsitmd5fgf",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 1
+		},
+		"timestamp": "2016-04-18 03:19:30",
+		"tweet_name": "BentColman",
+		"tweet_text": "Trump Bashes Cruz, Says He Has 'Better Toys' https://t.co/hsITmD5fgf",
+		"tweet_user_id": "bent_colman"
+	},
+	"John Kasich": {
+		"id_str": "721902294418075648",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "WITH",
+						"gov": "presence"
+					},
+					"clausal modifier of noun": {
+						"dev": "#Wyoming",
+						"gov": "#Trump"
+					},
+					"compound modifier": {
+						"dev": "campaign",
+						"gov": "presence"
+					},
+					"dependent": {
+						"dev": "#Trump",
+						"gov": "@wtfnewsamerica"
+					},
+					"marker": {
+						"dev": "in",
+						"gov": "#Wyoming"
+					},
+					"nmod_preposition": {
+						"dev": "presence",
+						"gov": "#Wyoming"
+					},
+					"root": {
+						"dev": "@wtfnewsamerica",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"!": {
+						"CharacterOffsetBegin": 95,
+						"CharacterOffsetEnd": 96,
+						"Lemma": "!",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"#FactOfTheDay": {
+						"CharacterOffsetBegin": 20,
+						"CharacterOffsetEnd": 33,
+						"Lemma": "#factoftheday",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#MarcoRubio": {
+						"CharacterOffsetBegin": 34,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "#marcorubio",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#Trump": {
+						"CharacterOffsetBegin": 51,
+						"CharacterOffsetEnd": 57,
+						"Lemma": "#trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#Wyoming": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 69,
+						"Lemma": "#wyoming",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 19,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@wtfnewsamerica": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 18,
+						"Lemma": "@wtfnewsamerica",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"BEAT": {
+						"CharacterOffsetBegin": 46,
+						"CharacterOffsetEnd": 50,
+						"Lemma": "beat",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"NO": {
+						"CharacterOffsetBegin": 75,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "no",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"WITH": {
+						"CharacterOffsetBegin": 70,
+						"CharacterOffsetEnd": 74,
+						"Lemma": "with",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"campaign": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 86,
+						"Lemma": "campaign",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"in": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "in",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"presence": {
+						"CharacterOffsetBegin": 87,
+						"CharacterOffsetEnd": 95,
+						"Lemma": "presence",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "#LosingDonnie",
+						"gov": "https"
+					},
+					"root": {
+						"dev": "https",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#LosingDonnie": {
+						"CharacterOffsetBegin": 120,
+						"CharacterOffsetEnd": 133,
+						"Lemma": "#losingdonnie",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#NYPrimary": {
+						"CharacterOffsetBegin": 109,
+						"CharacterOffsetEnd": 119,
+						"Lemma": "#nyprimary",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#NeverTrump": {
+						"CharacterOffsetBegin": 97,
+						"CharacterOffsetEnd": 108,
+						"Lemma": "#nevertrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"https": {
+						"CharacterOffsetBegin": 134,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "http",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:53",
+		"tweet_name": "#OnlyMarco Moshi",
+		"tweet_text": "RT @wtfnewsamerica: #FactOfTheDay #MarcoRubio BEAT #Trump in #Wyoming WITH NO campaign presence! #NeverTrump #NYPrimary #LosingDonnie https…",
+		"tweet_user_id": "Moshi0313"
+	},
+	"Ted Cruz": {
+		"id_str": "721902281814253569",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adverbial modifier": {
+						"dev": "directly",
+						"gov": "going"
+					},
+					"auxiliary": {
+						"dev": "was",
+						"gov": "going"
+					},
+					"case marker": {
+						"dev": "to",
+						"gov": "Hillary"
+					},
+					"clausal complement": {
+						"dev": "going",
+						"gov": "claimed"
+					},
+					"compound modifier": {
+						"dev": "CC",
+						"gov": "@NomikiKonst"
+					},
+					"dependent": {
+						"dev": "the",
+						"gov": "$"
+					},
+					"marker": {
+						"dev": "that",
+						"gov": "going"
+					},
+					"nmod_preposition": {
+						"dev": "Hillary",
+						"gov": "going"
+					},
+					"nominal subject": {
+						"dev": "most",
+						"gov": "going"
+					},
+					"relative clause modifier": {
+						"dev": "claimed",
+						"gov": "@NomikiKonst"
+					},
+					"root": {
+						"dev": "@feistybunnygirl",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"$": {
+						"CharacterOffsetBegin": 75,
+						"CharacterOffsetEnd": 76,
+						"Lemma": "$",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "$",
+						"Sentiment": "Neutral"
+					},
+					",": {
+						"CharacterOffsetBegin": 36,
+						"CharacterOffsetEnd": 37,
+						"Lemma": ",",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ",",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 106,
+						"CharacterOffsetEnd": 107,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 20,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@CNN": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 57,
+						"Lemma": "@cnn",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"@NomikiKonst": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 36,
+						"Lemma": "@nomikikonst",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"@feistybunnygirl": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "@feistybunnygirl",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"CC": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "cc",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Hillary": {
+						"CharacterOffsetBegin": 99,
+						"CharacterOffsetEnd": 106,
+						"Lemma": "Hillary",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"claimed": {
+						"CharacterOffsetBegin": 42,
+						"CharacterOffsetEnd": 49,
+						"Lemma": "claim",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"directly": {
+						"CharacterOffsetBegin": 87,
+						"CharacterOffsetEnd": 95,
+						"Lemma": "directly",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"going": {
+						"CharacterOffsetBegin": 81,
+						"CharacterOffsetEnd": 86,
+						"Lemma": "go",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"most": {
+						"CharacterOffsetBegin": 63,
+						"CharacterOffsetEnd": 67,
+						"Lemma": "most",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJS",
+						"Sentiment": "Neutral"
+					},
+					"of": {
+						"CharacterOffsetBegin": 68,
+						"CharacterOffsetEnd": 70,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"on": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "on",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"that": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "that",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"the": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 74,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 96,
+						"CharacterOffsetEnd": 98,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					},
+					"was": {
+						"CharacterOffsetBegin": 77,
+						"CharacterOffsetEnd": 80,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"who": {
+						"CharacterOffsetBegin": 38,
+						"CharacterOffsetEnd": 41,
+						"Lemma": "who",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "WP",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"auxiliary": {
+						"dev": "are",
+						"gov": "exposed"
+					},
+					"nominal passive subject": {
+						"dev": "lies",
+						"gov": "exposed"
+					},
+					"passive auxiliary": {
+						"dev": "being",
+						"gov": "exposed"
+					},
+					"possession modifier": {
+						"dev": "Your",
+						"gov": "lies"
+					},
+					"root": {
+						"dev": "exposed",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 135,
+						"CharacterOffsetEnd": 136,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"Your": {
+						"CharacterOffsetBegin": 108,
+						"CharacterOffsetEnd": 112,
+						"Lemma": "you",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP$",
+						"Sentiment": "Neutral"
+					},
+					"are": {
+						"CharacterOffsetBegin": 118,
+						"CharacterOffsetEnd": 121,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"being": {
+						"CharacterOffsetBegin": 122,
+						"CharacterOffsetEnd": 127,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"exposed": {
+						"CharacterOffsetBegin": 128,
+						"CharacterOffsetEnd": 135,
+						"Lemma": "expose",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"lies": {
+						"CharacterOffsetBegin": 113,
+						"CharacterOffsetEnd": 117,
+						"Lemma": "lie",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"root": {
+						"dev": "ht",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"ht": {
+						"CharacterOffsetBegin": 137,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "ht",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:50",
+		"tweet_name": "Trinidad2",
+		"tweet_text": "RT @feistybunnygirl: CC @NomikiKonst, who claimed on @CNN that most of the $ was going directly to Hillary. Your lies are being exposed. ht…",
+		"tweet_user_id": "TrinidadToo"
+	}
+}

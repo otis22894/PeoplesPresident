@@ -1,0 +1,36 @@
+{
+	"John Kasich": {
+		"sentiment":3,
+		"tweet_text":"sequat. Sed non odio quis dui consequat laoreet. Mauris in massa sit amet dolor porttitor sagittis. Aliquam lobortis urna",
+		"tweet_user_id":"metricphosphorus",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Ted Cruz": {
+		"sentiment":-10,
+		"tweet_text":"Nam finibus urna quam, eget convallis justo euismod id. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellente",
+		"tweet_user_id":"metricphosphorus",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Donald Trump": {
+		"sentiment":6,
+		"tweet_text":"d consectetur bibendum, mi urna consequat ante, ut tempus turpis risus vel magna. Cras id dolor ut libero rutrum egestas. Fusce sce",
+		"tweet_user_id":"metricphosphorus",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Bernie Sanders": {
+		"sentiment":9.643243e+01,
+		"tweet_text":"stibulum posuere nisi a ultrices malesuada. Proin scelerisque volutpat libero at pharetra. Nunc aliq",
+		"tweet_user_id":"metricphosphorus",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Hillary Clinton": {
+		"sentiment":-963,
+		"tweet_text":" tortor lacus porttitor dolor, vel pulvinar mauris odio auct",
+		"tweet_user_id":"metricphosphorus",
+		"tweet_timestamp":"timestamp"
+	}
+}

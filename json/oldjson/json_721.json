@@ -1,0 +1,36 @@
+{
+	"John Kasich": {
+		"sentiment":-2,
+		"tweet_text":"os, vitae malesuada ex elementum pulvinar. Sed aliquam tortor nec ant",
+		"tweet_user_id":"clipclopedible",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Ted Cruz": {
+		"sentiment":6,
+		"tweet_text":"ridiculus mus. Vivamus vel enim pharetra, hendrerit massa sit amet, sagit",
+		"tweet_user_id":"clipclopedible",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Donald Trump": {
+		"sentiment":-3,
+		"tweet_text":", non rutrum risus convallis. Donec quam turpis, dignissim non ex sed, feugiat iaculis quam.",
+		"tweet_user_id":"clipclopedible",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Bernie Sanders": {
+		"sentiment":7.235135e+01,
+		"tweet_text":"as porta condimentum erat, in suscipit lorem fringilla a.Nullam molestie bibendum elit, quis tempus tortor luctus sit ",
+		"tweet_user_id":"clipclopedible",
+		"tweet_timestamp":"timestamp"
+	},
+
+	"Hillary Clinton": {
+		"sentiment":-720,
+		"tweet_text":"dum et malesuada fames ac ante ipsum primis in faucibus. Vivamus sed vestibulum nisl. Nunc quis diam fringilla, volutpat turpis in, ",
+		"tweet_user_id":"clipclopedible",
+		"tweet_timestamp":"timestamp"
+	}
+}

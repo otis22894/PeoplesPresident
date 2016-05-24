@@ -1,0 +1,864 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721902299778392064",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "big",
+						"gov": "guy"
+					},
+					"case marker": {
+						"dev": "of",
+						"gov": "Trump"
+					},
+					"determiner": {
+						"dev": "the",
+						"gov": "defence"
+					},
+					"nmod_preposition": {
+						"dev": "Trump",
+						"gov": "defence"
+					},
+					"nominal subject": {
+						"dev": "guy",
+						"gov": "comes"
+					},
+					"numeric modifier": {
+						"dev": "3",
+						"gov": "episode"
+					},
+					"root": {
+						"dev": "comes",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"3": {
+						"CharacterOffsetBegin": 11,
+						"CharacterOffsetEnd": 12,
+						"Lemma": "3",
+						"NamedEntityTag": "NUMBER",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					",": {
+						"CharacterOffsetBegin": 26,
+						"CharacterOffsetEnd": 27,
+						"Lemma": ",",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ",",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 69,
+						"CharacterOffsetEnd": 70,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"Lathamland": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "Lathamland",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"On": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "on",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 64,
+						"CharacterOffsetEnd": 69,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"big": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 35,
+						"Lemma": "big",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"comes": {
+						"CharacterOffsetBegin": 40,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "come",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Positive"
+					},
+					"defence": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "defence",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"episode": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 10,
+						"Lemma": "episode",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"guy": {
+						"CharacterOffsetBegin": 36,
+						"CharacterOffsetEnd": 39,
+						"Lemma": "guy",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"of": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 63,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"the": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 46,
+						"CharacterOffsetEnd": 48,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "political",
+						"gov": "correctness"
+					},
+					"case marker": {
+						"dev": "to",
+						"gov": "correctness"
+					},
+					"direct object": {
+						"dev": "opposition",
+						"gov": "Loves"
+					},
+					"nmod_preposition": {
+						"dev": "correctness",
+						"gov": "opposition"
+					},
+					"possession modifier": {
+						"dev": "his",
+						"gov": "opposition"
+					},
+					"root": {
+						"dev": "Loves",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"''": {
+						"CharacterOffsetBegin": 117,
+						"CharacterOffsetEnd": 118,
+						"Lemma": "''",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 118,
+						"CharacterOffsetEnd": 119,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"Loves": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 76,
+						"Lemma": "love",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"``": {
+						"CharacterOffsetBegin": 81,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "``",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					},
+					"correctness": {
+						"CharacterOffsetBegin": 106,
+						"CharacterOffsetEnd": 117,
+						"Lemma": "correctness",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"his": {
+						"CharacterOffsetBegin": 77,
+						"CharacterOffsetEnd": 80,
+						"Lemma": "he",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP$",
+						"Sentiment": "Neutral"
+					},
+					"opposition": {
+						"CharacterOffsetBegin": 82,
+						"CharacterOffsetEnd": 92,
+						"Lemma": "opposition",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"political": {
+						"CharacterOffsetBegin": 96,
+						"CharacterOffsetEnd": 105,
+						"Lemma": "political",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 93,
+						"CharacterOffsetEnd": 95,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:55",
+		"tweet_name": "Dan Barrett",
+		"tweet_text": "On episode 3 of Lathamland, the big guy comes to the defence of Trump. Loves his \"opposition to political correctness\".",
+		"tweet_user_id": "TheDanBarrett"
+	},
+	"Donald Trump": {
+		"id_str": "721900947304247297",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "over",
+						"gov": "https://t.co/sWMyS5Vxi3"
+					},
+					"clausal modifier of noun": {
+						"dev": "Sued",
+						"gov": "Linked"
+					},
+					"compound modifier": {
+						"dev": "Crisis",
+						"gov": "https://t.co/sWMyS5Vxi3"
+					},
+					"dependent": {
+						"dev": "Linked",
+						"gov": "@BlacklistedNews"
+					},
+					"nmod_preposition": {
+						"dev": "https://t.co/sWMyS5Vxi3",
+						"gov": "Sued"
+					},
+					"passive auxiliary": {
+						"dev": "Being",
+						"gov": "Sued"
+					},
+					"root": {
+						"dev": "@BlacklistedNews",
+						"gov": ""
+					}
+				},
+				"Token": {
+					":": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 20,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@BlacklistedNews": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "@blacklistednews",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"Being": {
+						"CharacterOffsetBegin": 55,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"Clinton": {
+						"CharacterOffsetBegin": 29,
+						"CharacterOffsetEnd": 36,
+						"Lemma": "Clinton",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Company": {
+						"CharacterOffsetBegin": 47,
+						"CharacterOffsetEnd": 54,
+						"Lemma": "Company",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Crisis": {
+						"CharacterOffsetBegin": 83,
+						"CharacterOffsetEnd": 89,
+						"Lemma": "Crisis",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Flint": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 76,
+						"Lemma": "Flint",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Hillary": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 28,
+						"Lemma": "Hillary",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Linked": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "Linked",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sued": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 65,
+						"Lemma": "sue",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"Water": {
+						"CharacterOffsetBegin": 77,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "Water",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/sWMyS5Vxi3": {
+						"CharacterOffsetBegin": 90,
+						"CharacterOffsetEnd": 113,
+						"Lemma": "https://t.co/swmys5vxi3",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"over": {
+						"CharacterOffsetBegin": 66,
+						"CharacterOffsetEnd": 70,
+						"Lemma": "over",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 44,
+						"CharacterOffsetEnd": 46,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "Shepherd-of-Fire",
+		"tweet_text": "RT @BlacklistedNews: Hillary Clinton Linked to Company Being Sued over Flint Water Crisis https://t.co/sWMyS5Vxi3",
+		"tweet_user_id": "FloydByrum"
+	},
+	"Hillary Clinton": {
+		"id_str": "721902287476678656",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "#NYprimary",
+						"gov": "https://t.co/F9Ol7Tjmrp"
+					},
+					"adverbial modifier": {
+						"dev": "Too",
+						"gov": "bad"
+					},
+					"auxiliary": {
+						"dev": "'d",
+						"gov": "rated"
+					},
+					"clausal complement": {
+						"dev": "is",
+						"gov": "bad"
+					},
+					"compound modifier": {
+						"dev": "#gunlaws",
+						"gov": "https://t.co/F9Ol7Tjmrp"
+					},
+					"conj_collapsed": {
+						"dev": "https://t.co/F9Ol7Tjmrp",
+						"gov": "A"
+					},
+					"coordination": {
+						"dev": "+",
+						"gov": "A"
+					},
+					"determiner": {
+						"dev": "an",
+						"gov": "Association"
+					},
+					"direct object": {
+						"dev": "A",
+						"gov": "rated"
+					},
+					"expletive": {
+						"dev": "there",
+						"gov": "is"
+					},
+					"negation modifier": {
+						"dev": "n't",
+						"gov": "is"
+					},
+					"nominal passive subject": {
+						"dev": "I",
+						"gov": "rated"
+					},
+					"nominal subject": {
+						"dev": "Association",
+						"gov": "is"
+					},
+					"parataxis": {
+						"dev": "rated",
+						"gov": "@Honest_Hillary"
+					},
+					"passive auxiliary": {
+						"dev": "get",
+						"gov": "rated"
+					},
+					"root": {
+						"dev": "@Honest_Hillary",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#NYprimary": {
+						"CharacterOffsetBegin": 93,
+						"CharacterOffsetEnd": 103,
+						"Lemma": "#nyprimary",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"#gunlaws": {
+						"CharacterOffsetBegin": 104,
+						"CharacterOffsetEnd": 112,
+						"Lemma": "#gunlaws",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"'d": {
+						"CharacterOffsetBegin": 77,
+						"CharacterOffsetEnd": 79,
+						"Lemma": "would",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "MD",
+						"Sentiment": "Neutral"
+					},
+					"+": {
+						"CharacterOffsetBegin": 91,
+						"CharacterOffsetEnd": 92,
+						"Lemma": "+",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "CC",
+						"Sentiment": "Neutral"
+					},
+					",": {
+						"CharacterOffsetBegin": 74,
+						"CharacterOffsetEnd": 75,
+						"Lemma": ",",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ",",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 19,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@Honest_Hillary": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 18,
+						"Lemma": "@honest_hillary",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"A": {
+						"CharacterOffsetBegin": 90,
+						"CharacterOffsetEnd": 91,
+						"Lemma": "a",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"Association": {
+						"CharacterOffsetBegin": 63,
+						"CharacterOffsetEnd": 74,
+						"Lemma": "Association",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"I": {
+						"CharacterOffsetBegin": 76,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "I",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"International": {
+						"CharacterOffsetBegin": 43,
+						"CharacterOffsetEnd": 56,
+						"Lemma": "international",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Rifle": {
+						"CharacterOffsetBegin": 57,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "Rifle",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Too": {
+						"CharacterOffsetBegin": 20,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "too",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"an": {
+						"CharacterOffsetBegin": 40,
+						"CharacterOffsetEnd": 42,
+						"Lemma": "a",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"bad": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 27,
+						"Lemma": "bad",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Very negative"
+					},
+					"get": {
+						"CharacterOffsetBegin": 80,
+						"CharacterOffsetEnd": 83,
+						"Lemma": "get",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/F9Ol7Tjmrp": {
+						"CharacterOffsetBegin": 113,
+						"CharacterOffsetEnd": 136,
+						"Lemma": "https://t.co/f9ol7tjmrp",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"is": {
+						"CharacterOffsetBegin": 34,
+						"CharacterOffsetEnd": 36,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"n't": {
+						"CharacterOffsetBegin": 36,
+						"CharacterOffsetEnd": 39,
+						"Lemma": "not",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"rated": {
+						"CharacterOffsetBegin": 84,
+						"CharacterOffsetEnd": 89,
+						"Lemma": "rate",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"there": {
+						"CharacterOffsetBegin": 28,
+						"CharacterOffsetEnd": 33,
+						"Lemma": "there",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "EX",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:52",
+		"tweet_name": "J. K. Cody",
+		"tweet_text": "RT @Honest_Hillary: Too bad there isn't an International Rifle Association, I'd get rated A+ #NYprimary #gunlaws https://t.co/F9Ol7Tjmrp",
+		"tweet_user_id": "The_book_girl"
+	},
+	"John Kasich": {
+		"id_str": "721902291012308992",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "@Its_Tito_Bruh",
+						"gov": "https://t.co/5a6ew8C780"
+					},
+					"dependent": {
+						"dev": "https://t.co/5a6ew8C780",
+						"gov": "@nay_nays_tweets"
+					},
+					"root": {
+						"dev": "@nay_nays_tweets",
+						"gov": ""
+					}
+				},
+				"Token": {
+					":": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 20,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@Its_Tito_Bruh": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 35,
+						"Lemma": "@its_tito_bruh",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"@nay_nays_tweets": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "@nay_nays_tweets",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/5a6ew8C780": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "https://t.co/5a6ew8c780",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:53",
+		"tweet_name": "Your Dad",
+		"tweet_text": "RT @nay_nays_tweets: @Its_Tito_Bruh  https://t.co/5a6ew8C780",
+		"tweet_user_id": "Its_Tito_Bruh"
+	},
+	"Ted Cruz": {
+		"id_str": "721902280086130692",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "GREAT",
+						"gov": "https://t.co/vyLU2kgJ44"
+					},
+					"adverbial modifier": {
+						"dev": "AGAIN",
+						"gov": "GREAT"
+					},
+					"compound modifier": {
+						"dev": "AMERICA",
+						"gov": "https://t.co/vyLU2kgJ44"
+					},
+					"dependent": {
+						"dev": "LETS",
+						"gov": "@DanScavino"
+					},
+					"direct object": {
+						"dev": "https://t.co/vyLU2kgJ44",
+						"gov": "MAKE"
+					},
+					"root": {
+						"dev": "@DanScavino",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "MAKE",
+						"gov": "LETS"
+					}
+				},
+				"Token": {
+					":": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 15,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@DanScavino": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "@danscavino",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"AGAIN": {
+						"CharacterOffsetBegin": 40,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "again",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"AMERICA": {
+						"CharacterOffsetBegin": 26,
+						"CharacterOffsetEnd": 33,
+						"Lemma": "AMERICA",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"GREAT": {
+						"CharacterOffsetBegin": 34,
+						"CharacterOffsetEnd": 39,
+						"Lemma": "great",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"LETS": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 20,
+						"Lemma": "let",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"MAKE": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 25,
+						"Lemma": "make",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/vyLU2kgJ44": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 73,
+						"Lemma": "https://t.co/vylu2kgj44",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:50",
+		"tweet_name": "Alabama gal",
+		"tweet_text": "RT @DanScavino: LETS MAKE AMERICA GREAT AGAIN🇺🇸 https://t.co/vyLU2kgJ44",
+		"tweet_user_id": "SharonLataste"
+	}
+}

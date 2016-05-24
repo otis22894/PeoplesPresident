@@ -1,0 +1,69 @@
+"Donald Drumpf": {
+		"id_str": "718546400800333825",
+		"sentiment": {
+			"0": {
+				"Token": {
+					"Hey": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 3,
+						"Lemma": "hey",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "UH",
+						"Sentiment": "Neutral"
+					},
+					"@realDonaldTrump": {
+						"CharacterOffsetBegin": 4,
+						"CharacterOffsetEnd": 20,
+						"Lemma": "@realDonaldTrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"America": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 28,
+						"Lemma": "America",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"is": {
+						"CharacterOffsetBegin": 29,
+						"CharacterOffsetEnd": 31,
+						"Lemma": "is",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"already": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 39,
+						"Lemma": "already",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"great": {
+						"CharacterOffsetBegin": 40,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "great",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"!": {
+						"CharacterOffsetBegin": 46,
+						"CharacterOffsetEnd": 47,
+						"Lemma": "!",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1000
+		},
+		"timestamp": "2016-04-18 03:24:56",
+		"tweet_name": "☺ Patriot Czar ☺",
+		"tweet_text": "RT @Dlw20161950: Unelectable Trump's Psychological Problem\n#LyinTrump #CruzCrew\n#SleazyDonald #NeverTrump\nhttps://t.co/27WnbqUkUp https://t…",
+		"tweet_user_id": "PatriotCzar"}

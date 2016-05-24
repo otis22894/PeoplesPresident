@@ -1,0 +1,46 @@
+{
+	"John Kasich": {
+		"id_str":"721858123363778048",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"#CrookedHillary\":{\"Lemma\":\"#crookedhillary\",\"CharacterOffsetBegin\":21,\"PartOfSpeech\":\"JJ\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":36,\"Sentiment\":\"Neutral\"},\"RT\":{\"Lemma\":\"rt\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":2,\"Sentiment\":\"Neutral\"},\"https:\/\/t.co\/Hh0XvcCUNP\":{\"Lemma\":\"https:\/\/t.co\/hh0xvccunp\",\"CharacterOffsetBegin\":37,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":60,\"Sentiment\":\"Neutral\"},\"@CapitalismLover\":{\"Lemma\":\"@capitalismlover\",\"CharacterOffsetBegin\":3,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":19,\"Sentiment\":\"Neutral\"},\":\":{\"Lemma\":\":\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":20,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"root\":{\"dev\":\"@CapitalismLover\",\"gov\":\"\"},\"adjectival modifier\":{\"dev\":\"#CrookedHillary\",\"gov\":\"https:\/\/t.co\/Hh0XvcCUNP\"},\"compound modifier\":{\"dev\":\"RT\",\"gov\":\"@CapitalismLover\"},\"dependent\":{\"dev\":\"https:\/\/t.co\/Hh0XvcCUNP\",\"gov\":\"@CapitalismLover\"}}},\"Sentiment\":0}",
+		"tweet_name":"Alida Lott",
+		"tweet_text":"RT @CapitalismLover: #CrookedHillary https://t.co/Hh0XvcCUNP",
+		"tweet_user_id":"msalott"
+	},
+
+	"Ted Cruz": {
+		"id_str":"721858123363778048",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"#CrookedHillary\":{\"Lemma\":\"#crookedhillary\",\"CharacterOffsetBegin\":21,\"PartOfSpeech\":\"JJ\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":36,\"Sentiment\":\"Neutral\"},\"RT\":{\"Lemma\":\"rt\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":2,\"Sentiment\":\"Neutral\"},\"https:\/\/t.co\/Hh0XvcCUNP\":{\"Lemma\":\"https:\/\/t.co\/hh0xvccunp\",\"CharacterOffsetBegin\":37,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":60,\"Sentiment\":\"Neutral\"},\"@CapitalismLover\":{\"Lemma\":\"@capitalismlover\",\"CharacterOffsetBegin\":3,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":19,\"Sentiment\":\"Neutral\"},\":\":{\"Lemma\":\":\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":20,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"root\":{\"dev\":\"@CapitalismLover\",\"gov\":\"\"},\"adjectival modifier\":{\"dev\":\"#CrookedHillary\",\"gov\":\"https:\/\/t.co\/Hh0XvcCUNP\"},\"compound modifier\":{\"dev\":\"RT\",\"gov\":\"@CapitalismLover\"},\"dependent\":{\"dev\":\"https:\/\/t.co\/Hh0XvcCUNP\",\"gov\":\"@CapitalismLover\"}}},\"Sentiment\":0}",
+		"tweet_name":"Alida Lott",
+		"tweet_text":"RT @CapitalismLover: #CrookedHillary https://t.co/Hh0XvcCUNP",
+		"tweet_user_id":"msalott"
+	},
+
+	"Donald Trump": {
+		"id_str":"721858123363778048",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"#CrookedHillary\":{\"Lemma\":\"#crookedhillary\",\"CharacterOffsetBegin\":21,\"PartOfSpeech\":\"JJ\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":36,\"Sentiment\":\"Neutral\"},\"RT\":{\"Lemma\":\"rt\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":2,\"Sentiment\":\"Neutral\"},\"https:\/\/t.co\/Hh0XvcCUNP\":{\"Lemma\":\"https:\/\/t.co\/hh0xvccunp\",\"CharacterOffsetBegin\":37,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":60,\"Sentiment\":\"Neutral\"},\"@CapitalismLover\":{\"Lemma\":\"@capitalismlover\",\"CharacterOffsetBegin\":3,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":19,\"Sentiment\":\"Neutral\"},\":\":{\"Lemma\":\":\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":20,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"root\":{\"dev\":\"@CapitalismLover\",\"gov\":\"\"},\"adjectival modifier\":{\"dev\":\"#CrookedHillary\",\"gov\":\"https:\/\/t.co\/Hh0XvcCUNP\"},\"compound modifier\":{\"dev\":\"RT\",\"gov\":\"@CapitalismLover\"},\"dependent\":{\"dev\":\"https:\/\/t.co\/Hh0XvcCUNP\",\"gov\":\"@CapitalismLover\"}}},\"Sentiment\":0}",
+		"tweet_name":"Alida Lott",
+		"tweet_text":"RT @CapitalismLover: #CrookedHillary https://t.co/Hh0XvcCUNP",
+		"tweet_user_id":"msalott"
+	},
+
+	"Bernie Sanders": {
+		"id_str":"721858123363778048",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"#CrookedHillary\":{\"Lemma\":\"#crookedhillary\",\"CharacterOffsetBegin\":21,\"PartOfSpeech\":\"JJ\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":36,\"Sentiment\":\"Neutral\"},\"RT\":{\"Lemma\":\"rt\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":2,\"Sentiment\":\"Neutral\"},\"https:\/\/t.co\/Hh0XvcCUNP\":{\"Lemma\":\"https:\/\/t.co\/hh0xvccunp\",\"CharacterOffsetBegin\":37,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":60,\"Sentiment\":\"Neutral\"},\"@CapitalismLover\":{\"Lemma\":\"@capitalismlover\",\"CharacterOffsetBegin\":3,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":19,\"Sentiment\":\"Neutral\"},\":\":{\"Lemma\":\":\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":20,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"root\":{\"dev\":\"@CapitalismLover\",\"gov\":\"\"},\"adjectival modifier\":{\"dev\":\"#CrookedHillary\",\"gov\":\"https:\/\/t.co\/Hh0XvcCUNP\"},\"compound modifier\":{\"dev\":\"RT\",\"gov\":\"@CapitalismLover\"},\"dependent\":{\"dev\":\"https:\/\/t.co\/Hh0XvcCUNP\",\"gov\":\"@CapitalismLover\"}}},\"Sentiment\":0}",
+		"tweet_name":"Alida Lott",
+		"tweet_text":"RT @CapitalismLover: #CrookedHillary https://t.co/Hh0XvcCUNP",
+		"tweet_user_id":"msalott"
+	},
+
+	"Hillary Clinton": {
+		"id_str":"721858123363778048",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"#CrookedHillary\":{\"Lemma\":\"#crookedhillary\",\"CharacterOffsetBegin\":21,\"PartOfSpeech\":\"JJ\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":36,\"Sentiment\":\"Neutral\"},\"RT\":{\"Lemma\":\"rt\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":2,\"Sentiment\":\"Neutral\"},\"https:\/\/t.co\/Hh0XvcCUNP\":{\"Lemma\":\"https:\/\/t.co\/hh0xvccunp\",\"CharacterOffsetBegin\":37,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":60,\"Sentiment\":\"Neutral\"},\"@CapitalismLover\":{\"Lemma\":\"@capitalismlover\",\"CharacterOffsetBegin\":3,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":19,\"Sentiment\":\"Neutral\"},\":\":{\"Lemma\":\":\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":20,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"root\":{\"dev\":\"@CapitalismLover\",\"gov\":\"\"},\"adjectival modifier\":{\"dev\":\"#CrookedHillary\",\"gov\":\"https:\/\/t.co\/Hh0XvcCUNP\"},\"compound modifier\":{\"dev\":\"RT\",\"gov\":\"@CapitalismLover\"},\"dependent\":{\"dev\":\"https:\/\/t.co\/Hh0XvcCUNP\",\"gov\":\"@CapitalismLover\"}}},\"Sentiment\":0}",
+		"tweet_name":"Alida Lott",
+		"tweet_text":"RT @CapitalismLover: #CrookedHillary https://t.co/Hh0XvcCUNP",
+		"tweet_user_id":"msalott"
+	}
+}

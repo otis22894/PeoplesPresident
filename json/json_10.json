@@ -1,0 +1,938 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721902286444695554",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "many",
+						"gov": "#voters"
+					},
+					"adverbial clause modifier": {
+						"dev": "detract",
+						"gov": "says"
+					},
+					"adverbial modifier": {
+						"dev": "too",
+						"gov": "many"
+					},
+					"case marker": {
+						"dev": "in",
+						"gov": "20:50"
+					},
+					"compound modifier": {
+						"dev": "#Trump",
+						"gov": "#Dobbs"
+					},
+					"dependent": {
+						"dev": "https://t.co/DOn78b68jk",
+						"gov": "#Dobbs"
+					},
+					"direct object": {
+						"dev": "#voters",
+						"gov": "detract"
+					},
+					"marker": {
+						"dev": "to",
+						"gov": "detract"
+					},
+					"nominal subject": {
+						"dev": "#GOP",
+						"gov": "says"
+					},
+					"root": {
+						"dev": "says",
+						"gov": ""
+					},
+					"temporal modifier": {
+						"dev": "#Dobbs",
+						"gov": "detract"
+					}
+				},
+				"Token": {
+					"#Colorado": {
+						"CharacterOffsetBegin": 15,
+						"CharacterOffsetEnd": 24,
+						"Lemma": "#colorado",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#Dobbs": {
+						"CharacterOffsetBegin": 107,
+						"CharacterOffsetEnd": 113,
+						"Lemma": "#dobbs",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"#GOP": {
+						"CharacterOffsetBegin": 25,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "#gop",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#KNUS": {
+						"CharacterOffsetBegin": 94,
+						"CharacterOffsetEnd": 99,
+						"Lemma": "#knus",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#Trump": {
+						"CharacterOffsetBegin": 100,
+						"CharacterOffsetEnd": 106,
+						"Lemma": "#trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#voters": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 78,
+						"Lemma": "#voters",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					",": {
+						"CharacterOffsetBegin": 8,
+						"CharacterOffsetEnd": 9,
+						"Lemma": ",",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ",",
+						"Sentiment": "Neutral"
+					},
+					"20:50": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 5,
+						"Lemma": "20:50",
+						"NamedEntityTag": "TIME",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"@BackboneRadio": {
+						"CharacterOffsetBegin": 79,
+						"CharacterOffsetEnd": 93,
+						"Lemma": "@backboneradio",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"detract": {
+						"CharacterOffsetBegin": 54,
+						"CharacterOffsetEnd": 61,
+						"Lemma": "detract",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"head": {
+						"CharacterOffsetBegin": 10,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "head",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/DOn78b68jk": {
+						"CharacterOffsetBegin": 115,
+						"CharacterOffsetEnd": 138,
+						"Lemma": "https://t.co/don78b68jk",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"in": {
+						"CharacterOffsetBegin": 6,
+						"CharacterOffsetEnd": 8,
+						"Lemma": "in",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"many": {
+						"CharacterOffsetBegin": 66,
+						"CharacterOffsetEnd": 70,
+						"Lemma": "many",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"ridof": {
+						"CharacterOffsetBegin": 45,
+						"CharacterOffsetEnd": 50,
+						"Lemma": "ridof",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"says": {
+						"CharacterOffsetBegin": 30,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "say",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"strawpoll": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 44,
+						"Lemma": "strawpoll",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 51,
+						"CharacterOffsetEnd": 53,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					},
+					"too": {
+						"CharacterOffsetBegin": 62,
+						"CharacterOffsetEnd": 65,
+						"Lemma": "too",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:52",
+		"tweet_name": "Joan of Arc Rises",
+		"tweet_text": "20:50 in, head #Colorado #GOP says strawpoll ridof to detract too many #voters @BackboneRadio #KNUS #Trump #Dobbs  https://t.co/DOn78b68jk",
+		"tweet_user_id": "ArcJoanof"
+	},
+	"Donald Trump": {
+		"id_str": "721900945026605056",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "like",
+						"gov": "liberals"
+					},
+					"compound modifier": {
+						"dev": "#DonaldTrump",
+						"gov": "https://t.co/UVBJjHO037"
+					},
+					"copula": {
+						"dev": "are",
+						"gov": "liberals"
+					},
+					"dependent": {
+						"dev": "https://t.co/UVBJjHO037",
+						"gov": "#Trump"
+					},
+					"numeric modifier": {
+						"dev": "2016",
+						"gov": "https://t.co/UVBJjHO037"
+					},
+					"root": {
+						"dev": "Cruzbots",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"2016": {
+						"CharacterOffsetBegin": 43,
+						"CharacterOffsetEnd": 47,
+						"Lemma": "2016",
+						"NamedEntityTag": "DATE",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"#AlwaysTrump": {
+						"CharacterOffsetBegin": 83,
+						"CharacterOffsetEnd": 95,
+						"Lemma": "#alwaystrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#DonaldTrump": {
+						"CharacterOffsetBegin": 96,
+						"CharacterOffsetEnd": 108,
+						"Lemma": "#donaldtrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#TeamTrump": {
+						"CharacterOffsetBegin": 60,
+						"CharacterOffsetEnd": 70,
+						"Lemma": "#TeamTrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"#Trump": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "#Trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"#TrumpTrain": {
+						"CharacterOffsetBegin": 48,
+						"CharacterOffsetEnd": 59,
+						"Lemma": "#TrumpTrain",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"#Vote": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 76,
+						"Lemma": "#Vote",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 26,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"4Trump": {
+						"CharacterOffsetBegin": 76,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "4trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Cruzbots": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 8,
+						"Lemma": "cruzbot",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"are": {
+						"CharacterOffsetBegin": 9,
+						"CharacterOffsetEnd": 12,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/UVBJjHO037": {
+						"CharacterOffsetBegin": 109,
+						"CharacterOffsetEnd": 132,
+						"Lemma": "https://t.co/uvbjjho037",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"liberals": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "liberal",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"like": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "like",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "teddi.zaps",
+		"tweet_text": "Cruzbots are like liberals...\n#Trump\n#Trump2016\n#TrumpTrain\n#TeamTrump\n#Vote4Trump\n#AlwaysTrump\n#DonaldTrump https://t.co/UVBJjHO037",
+		"tweet_user_id": "VonKloss"
+	},
+	"Hillary Clinton": {
+		"id_str": "721902304014635008",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adverbial modifier": {
+						"dev": "most",
+						"gov": "the"
+					},
+					"case marker": {
+						"dev": "to",
+						"gov": "#Hill"
+					},
+					"compound modifier": {
+						"dev": "#HillaryIndustrialComplex",
+						"gov": "#Hill"
+					},
+					"dependent": {
+						"dev": "employees",
+						"gov": "@quijibo999"
+					},
+					"direct object": {
+						"dev": "money",
+						"gov": "give"
+					},
+					"indirect object": {
+						"dev": "the",
+						"gov": "give"
+					},
+					"nmod_preposition": {
+						"dev": "#Hill",
+						"gov": "money"
+					},
+					"nominal subject": {
+						"dev": "@quijibo999",
+						"gov": "give"
+					},
+					"root": {
+						"dev": "give",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#Hill": {
+						"CharacterOffsetBegin": 134,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "#hill",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#HillaryIndustrialComplex": {
+						"CharacterOffsetBegin": 108,
+						"CharacterOffsetEnd": 133,
+						"Lemma": "#hillaryindustrialcomplex",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 15,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@quijibo999": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "@quijibo999",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Clinton": {
+						"CharacterOffsetBegin": 76,
+						"CharacterOffsetEnd": 83,
+						"Lemma": "Clinton",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Defense": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "Defense",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Hillary": {
+						"CharacterOffsetBegin": 68,
+						"CharacterOffsetEnd": 75,
+						"Lemma": "Hillary",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"contractor": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "contractor",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"employees": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 44,
+						"Lemma": "employee",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"give": {
+						"CharacterOffsetBegin": 45,
+						"CharacterOffsetEnd": 49,
+						"Lemma": "give",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Positive"
+					},
+					"https://t.co/NlBLK8XgHC": {
+						"CharacterOffsetBegin": 84,
+						"CharacterOffsetEnd": 107,
+						"Lemma": "https://t.co/nlblk8xghc",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"money": {
+						"CharacterOffsetBegin": 59,
+						"CharacterOffsetEnd": 64,
+						"Lemma": "money",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"most": {
+						"CharacterOffsetBegin": 54,
+						"CharacterOffsetEnd": 58,
+						"Lemma": "most",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RBS",
+						"Sentiment": "Neutral"
+					},
+					"the": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 53,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 65,
+						"CharacterOffsetEnd": 67,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:56",
+		"tweet_name": "Skip Regan",
+		"tweet_text": "RT @quijibo999: Defense contractor employees give the most money to Hillary Clinton https://t.co/NlBLK8XgHC #HillaryIndustrialComplex #Hill…",
+		"tweet_user_id": "skipregan"
+	},
+	"John Kasich": {
+		"id_str": "721900945026605056",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "like",
+						"gov": "liberals"
+					},
+					"compound modifier": {
+						"dev": "#DonaldTrump",
+						"gov": "https://t.co/UVBJjHO037"
+					},
+					"copula": {
+						"dev": "are",
+						"gov": "liberals"
+					},
+					"dependent": {
+						"dev": "https://t.co/UVBJjHO037",
+						"gov": "#Trump"
+					},
+					"numeric modifier": {
+						"dev": "2016",
+						"gov": "https://t.co/UVBJjHO037"
+					},
+					"root": {
+						"dev": "Cruzbots",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"2016": {
+						"CharacterOffsetBegin": 43,
+						"CharacterOffsetEnd": 47,
+						"Lemma": "2016",
+						"NamedEntityTag": "DATE",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"#AlwaysTrump": {
+						"CharacterOffsetBegin": 83,
+						"CharacterOffsetEnd": 95,
+						"Lemma": "#alwaystrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#DonaldTrump": {
+						"CharacterOffsetBegin": 96,
+						"CharacterOffsetEnd": 108,
+						"Lemma": "#donaldtrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#TeamTrump": {
+						"CharacterOffsetBegin": 60,
+						"CharacterOffsetEnd": 70,
+						"Lemma": "#TeamTrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"#Trump": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "#Trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"#TrumpTrain": {
+						"CharacterOffsetBegin": 48,
+						"CharacterOffsetEnd": 59,
+						"Lemma": "#TrumpTrain",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"#Vote": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 76,
+						"Lemma": "#Vote",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 26,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"4Trump": {
+						"CharacterOffsetBegin": 76,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "4trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Cruzbots": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 8,
+						"Lemma": "cruzbot",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"are": {
+						"CharacterOffsetBegin": 9,
+						"CharacterOffsetEnd": 12,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/UVBJjHO037": {
+						"CharacterOffsetBegin": 109,
+						"CharacterOffsetEnd": 132,
+						"Lemma": "https://t.co/uvbjjho037",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"liberals": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "liberal",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"like": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "like",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "teddi.zaps",
+		"tweet_text": "Cruzbots are like liberals...\n#Trump\n#Trump2016\n#TrumpTrain\n#TeamTrump\n#Vote4Trump\n#AlwaysTrump\n#DonaldTrump https://t.co/UVBJjHO037",
+		"tweet_user_id": "VonKloss"
+	},
+	"Ted Cruz": {
+		"id_str": "721902288294539264",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "as",
+						"gov": "opportunity"
+					},
+					"clausal complement": {
+						"dev": "w",
+						"gov": "equate"
+					},
+					"clausal modifier of noun": {
+						"dev": "equate",
+						"gov": "opportunity"
+					},
+					"compound modifier": {
+						"dev": "https://t.co/Lm4eHH6Jlx",
+						"gov": "https"
+					},
+					"conj_collapsed": {
+						"dev": "vandals",
+						"gov": "Pharaoh"
+					},
+					"coordination": {
+						"dev": "and",
+						"gov": "Pharaoh"
+					},
+					"dependent": {
+						"dev": "https",
+						"gov": "Passover"
+					},
+					"direct object": {
+						"dev": "Passover",
+						"gov": "uses"
+					},
+					"marker": {
+						"dev": "to",
+						"gov": "equate"
+					},
+					"nmod_preposition": {
+						"dev": "opportunity",
+						"gov": "Passover"
+					},
+					"nominal subject": {
+						"dev": "BDS",
+						"gov": "w"
+					},
+					"root": {
+						"dev": "uses",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"/": {
+						"CharacterOffsetBegin": 77,
+						"CharacterOffsetEnd": 78,
+						"Lemma": "/",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 138,
+						"CharacterOffsetEnd": 139,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@RaniaKhalek": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 15,
+						"Lemma": "@raniakhalek",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"BDS": {
+						"CharacterOffsetBegin": 72,
+						"CharacterOffsetEnd": 75,
+						"Lemma": "BDS",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Clinton": {
+						"CharacterOffsetBegin": 25,
+						"CharacterOffsetEnd": 32,
+						"Lemma": "Clinton",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Hillary": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 24,
+						"Lemma": "Hillary",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Passover": {
+						"CharacterOffsetBegin": 38,
+						"CharacterOffsetEnd": 46,
+						"Lemma": "Passover",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Pharaoh": {
+						"CharacterOffsetBegin": 79,
+						"CharacterOffsetEnd": 86,
+						"Lemma": "Pharaoh",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"and": {
+						"CharacterOffsetBegin": 87,
+						"CharacterOffsetEnd": 90,
+						"Lemma": "and",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "CC",
+						"Sentiment": "Neutral"
+					},
+					"as": {
+						"CharacterOffsetBegin": 47,
+						"CharacterOffsetEnd": 49,
+						"Lemma": "as",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"equate": {
+						"CharacterOffsetBegin": 65,
+						"CharacterOffsetEnd": 71,
+						"Lemma": "equate",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"https": {
+						"CharacterOffsetBegin": 133,
+						"CharacterOffsetEnd": 138,
+						"Lemma": "http",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/Lm4eHH6Jlx": {
+						"CharacterOffsetBegin": 109,
+						"CharacterOffsetEnd": 132,
+						"Lemma": "https://t.co/lm4ehh6jlx",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"opportunity": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 61,
+						"Lemma": "opportunity",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"synagogue": {
+						"CharacterOffsetBegin": 91,
+						"CharacterOffsetEnd": 100,
+						"Lemma": "synagogue",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 62,
+						"CharacterOffsetEnd": 64,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					},
+					"uses": {
+						"CharacterOffsetBegin": 33,
+						"CharacterOffsetEnd": 37,
+						"Lemma": "use",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"vandals": {
+						"CharacterOffsetBegin": 101,
+						"CharacterOffsetEnd": 108,
+						"Lemma": "vandal",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"w": {
+						"CharacterOffsetBegin": 76,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "w",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:52",
+		"tweet_name": "DigitalEclipz",
+		"tweet_text": "RT @RaniaKhalek: Hillary Clinton uses Passover as opportunity to equate BDS w/ Pharaoh and synagogue vandals https://t.co/Lm4eHH6Jlx https:…",
+		"tweet_user_id": "DigitalEclipz"
+	}
+}

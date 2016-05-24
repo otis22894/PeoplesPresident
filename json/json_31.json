@@ -1,0 +1,960 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721900948130553856",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adverbial clause modifier": {
+						"dev": "Steal",
+						"gov": "Staged"
+					},
+					"case marker": {
+						"dev": "In",
+						"gov": "Georgia"
+					},
+					"compound modifier": {
+						"dev": "Donald",
+						"gov": "Trump"
+					},
+					"dependent": {
+						"dev": "Cruz",
+						"gov": "Trump"
+					},
+					"direct object": {
+						"dev": "Delegates",
+						"gov": "Steal"
+					},
+					"marker": {
+						"dev": "To",
+						"gov": "Steal"
+					},
+					"nmod_preposition": {
+						"dev": "Georgia",
+						"gov": "Staged"
+					},
+					"nominal subject": {
+						"dev": "https://t.co/Ubu9dXMFfN",
+						"gov": "Staged"
+					},
+					"root": {
+						"dev": "Staged",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"'": {
+						"CharacterOffsetBegin": 51,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "'",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 30,
+						"CharacterOffsetEnd": 31,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@Crimsontider": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 16,
+						"Lemma": "@crimsontider",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Attack": {
+						"CharacterOffsetBegin": 45,
+						"CharacterOffsetEnd": 51,
+						"Lemma": "attack",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Cruz": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 36,
+						"Lemma": "Cruz",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Delegates": {
+						"CharacterOffsetBegin": 73,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "Delegates",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNPS",
+						"Sentiment": "Neutral"
+					},
+					"Donald": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 24,
+						"Lemma": "Donald",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Georgia": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 63,
+						"Lemma": "Georgia",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"In": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 55,
+						"Lemma": "in",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Staged": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "stage",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"Steal": {
+						"CharacterOffsetBegin": 67,
+						"CharacterOffsetEnd": 72,
+						"Lemma": "steal",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"To": {
+						"CharacterOffsetBegin": 64,
+						"CharacterOffsetEnd": 66,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 25,
+						"CharacterOffsetEnd": 30,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"`": {
+						"CharacterOffsetBegin": 44,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "`",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/Ubu9dXMFfN": {
+						"CharacterOffsetBegin": 83,
+						"CharacterOffsetEnd": 106,
+						"Lemma": "https://t.co/ubu9dxmffn",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "Tweety Bird - JTL",
+		"tweet_text": "RT @Crimsontider: Donald Trump: Cruz Staged 'Attack' In Georgia To Steal Delegates https://t.co/Ubu9dXMFfN",
+		"tweet_user_id": "jtleitner"
+	},
+	"Donald Trump": {
+		"id_str": "721902304065142787",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "#Trump",
+						"gov": "https://t.co/6DSdOOCakE"
+					},
+					"dependent": {
+						"dev": "WOMEN4TRUMP",
+						"gov": "@Trumptbird"
+					},
+					"direct object": {
+						"dev": "https://t.co/6DSdOOCakE",
+						"gov": "@TrumpMyPres"
+					},
+					"nominal subject": {
+						"dev": "https://t.co/FatgoCJkYt",
+						"gov": "@TrumpMyPres"
+					},
+					"relative clause modifier": {
+						"dev": "@TrumpMyPres",
+						"gov": "WOMEN4TRUMP"
+					},
+					"root": {
+						"dev": "@Trumptbird",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#Trump": {
+						"CharacterOffsetBegin": 87,
+						"CharacterOffsetEnd": 93,
+						"Lemma": "#Trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 15,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@KLSouth": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 86,
+						"Lemma": "@KLSouth",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"@TrumpMyPres": {
+						"CharacterOffsetBegin": 65,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "@trumpmypres",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"@Trumptbird": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "@trumptbird",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"New": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 22,
+						"Lemma": "New",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Positive"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"VIDEO": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 40,
+						"Lemma": "video",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"WOMEN4TRUMP": {
+						"CharacterOffsetBegin": 23,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "WOMEN4TRUMP",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/6DSdOOCakE": {
+						"CharacterOffsetBegin": 94,
+						"CharacterOffsetEnd": 117,
+						"Lemma": "https://t.co/6dsdoocake",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/FatgoCJkYt": {
+						"CharacterOffsetBegin": 41,
+						"CharacterOffsetEnd": 64,
+						"Lemma": "https://t.co/fatgocjkyt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:56",
+		"tweet_name": "Sallyann Ball",
+		"tweet_text": "RT @Trumptbird: 💅 New WOMEN4TRUMP VIDEO https://t.co/FatgoCJkYt @TrumpMyPres @KLSouth #Trump https://t.co/6DSdOOCakE",
+		"tweet_user_id": "SallyannBall"
+	},
+	"Hillary Clinton": {
+		"id_str": "721900943562805248",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adverbial modifier": {
+						"dev": "all",
+						"gov": "seem"
+					},
+					"clausal modifier of noun": {
+						"dev": "damaged",
+						"gov": "brain"
+					},
+					"compound modifier": {
+						"dev": "Trump",
+						"gov": "supporters"
+					},
+					"copula": {
+						"dev": "be",
+						"gov": "brain"
+					},
+					"marker": {
+						"dev": "to",
+						"gov": "brain"
+					},
+					"nominal subject": {
+						"dev": "supporters",
+						"gov": "seem"
+					},
+					"parataxis": {
+						"dev": "seem",
+						"gov": "@bennydiego"
+					},
+					"root": {
+						"dev": "@bennydiego",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "brain",
+						"gov": "seem"
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 62,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 15,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@bennydiego": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "@bennydiego",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 21,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"all": {
+						"CharacterOffsetBegin": 33,
+						"CharacterOffsetEnd": 36,
+						"Lemma": "all",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"be": {
+						"CharacterOffsetBegin": 45,
+						"CharacterOffsetEnd": 47,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"brain": {
+						"CharacterOffsetBegin": 48,
+						"CharacterOffsetEnd": 53,
+						"Lemma": "brain",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"damaged": {
+						"CharacterOffsetBegin": 54,
+						"CharacterOffsetEnd": 61,
+						"Lemma": "damage",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Negative"
+					},
+					"seem": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 41,
+						"Lemma": "seem",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"supporters": {
+						"CharacterOffsetBegin": 22,
+						"CharacterOffsetEnd": 32,
+						"Lemma": "supporter",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 42,
+						"CharacterOffsetEnd": 44,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "#DumpTrump",
+						"gov": "https://t.co/RGEsLyOHqv"
+					},
+					"dependent": {
+						"dev": "https://t.co/RGEsLyOHqv",
+						"gov": "#NeverTrump"
+					},
+					"root": {
+						"dev": "#NeverTrump",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#DumpTrump": {
+						"CharacterOffsetBegin": 75,
+						"CharacterOffsetEnd": 85,
+						"Lemma": "#dumptrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#NeverTrump": {
+						"CharacterOffsetBegin": 63,
+						"CharacterOffsetEnd": 74,
+						"Lemma": "#nevertrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/RGEsLyOHqv": {
+						"CharacterOffsetBegin": 86,
+						"CharacterOffsetEnd": 109,
+						"Lemma": "https://t.co/rgeslyohqv",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:19:31",
+		"tweet_name": "Terri Harvey",
+		"tweet_text": "RT @bennydiego: Trump supporters all seem to be brain damaged. #NeverTrump #DumpTrump https://t.co/RGEsLyOHqv",
+		"tweet_user_id": "terri_georgia"
+	},
+	"John Kasich": {
+		"id_str": "721902284456771584",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"auxiliary": {
+						"dev": "has",
+						"gov": "released"
+					},
+					"compound modifier": {
+						"dev": "#ImWithHer",
+						"gov": "http"
+					},
+					"dependent": {
+						"dev": "speech",
+						"gov": "@WeNeedHillary"
+					},
+					"nominal passive subject": {
+						"dev": "@WeNeedHillary",
+						"gov": "released"
+					},
+					"nominal subject": {
+						"dev": "#ShesWithUs",
+						"gov": "http"
+					},
+					"passive auxiliary": {
+						"dev": "been",
+						"gov": "released"
+					},
+					"root": {
+						"dev": "released",
+						"gov": ""
+					},
+					"xclausal complement": {
+						"dev": "http",
+						"gov": "released"
+					}
+				},
+				"Token": {
+					"#ImWithHer": {
+						"CharacterOffsetBegin": 124,
+						"CharacterOffsetEnd": 134,
+						"Lemma": "#imwithher",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#ShesWithUs": {
+						"CharacterOffsetBegin": 112,
+						"CharacterOffsetEnd": 123,
+						"Lemma": "#sheswithus",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"''": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "''",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 18,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@WeNeedHillary": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "@weneedhillary",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Clinton": {
+						"CharacterOffsetBegin": 27,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "Clinton",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Goldman": {
+						"CharacterOffsetBegin": 35,
+						"CharacterOffsetEnd": 42,
+						"Lemma": "Goldman",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Hillary": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "Hillary",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sachs": {
+						"CharacterOffsetBegin": 43,
+						"CharacterOffsetEnd": 48,
+						"Lemma": "Sachs",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Street": {
+						"CharacterOffsetBegin": 55,
+						"CharacterOffsetEnd": 61,
+						"Lemma": "Street",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Wall": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 54,
+						"Lemma": "Wall",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"``": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 50,
+						"Lemma": "``",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					},
+					"been": {
+						"CharacterOffsetBegin": 74,
+						"CharacterOffsetEnd": 78,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"has": {
+						"CharacterOffsetBegin": 70,
+						"CharacterOffsetEnd": 73,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"http": {
+						"CharacterOffsetBegin": 135,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "http",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/UaQtotVlkx": {
+						"CharacterOffsetBegin": 88,
+						"CharacterOffsetEnd": 111,
+						"Lemma": "https://t.co/uaqtotvlkx",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"released": {
+						"CharacterOffsetBegin": 79,
+						"CharacterOffsetEnd": 87,
+						"Lemma": "release",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"speech": {
+						"CharacterOffsetBegin": 63,
+						"CharacterOffsetEnd": 69,
+						"Lemma": "speech",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Negative"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:51",
+		"tweet_name": "Lenore Patton",
+		"tweet_text": "RT @WeNeedHillary: Hillary Clinton Goldman Sachs \"Wall Street\" speech has been released https://t.co/UaQtotVlkx\n#ShesWithUs #ImWithHer http…",
+		"tweet_user_id": "LenorePatton"
+	},
+	"Ted Cruz": {
+		"id_str": "721900948113780736",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adverbial modifier": {
+						"dev": "just",
+						"gov": "corru"
+					},
+					"auxiliary": {
+						"dev": "has",
+						"gov": "convinced"
+					},
+					"case marker": {
+						"dev": "as",
+						"gov": "corru"
+					},
+					"clausal complement": {
+						"dev": "corru",
+						"gov": "convinced"
+					},
+					"compound modifier": {
+						"dev": "Sanders",
+						"gov": "campaign"
+					},
+					"copula": {
+						"dev": "are",
+						"gov": "corru"
+					},
+					"dependent": {
+						"dev": "especially",
+						"gov": "Hillary"
+					},
+					"determiner": {
+						"dev": "the",
+						"gov": "Dems"
+					},
+					"direct object": {
+						"dev": "them",
+						"gov": "convinced"
+					},
+					"marker": {
+						"dev": "that",
+						"gov": "corru"
+					},
+					"nmod_preposition": {
+						"dev": "campaign",
+						"gov": "@speechboy71"
+					},
+					"nominal subject": {
+						"dev": "Dems",
+						"gov": "corru"
+					},
+					"root": {
+						"dev": "@Wilson__Valdez",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"-LRB-": {
+						"CharacterOffsetBegin": 101,
+						"CharacterOffsetEnd": 102,
+						"Lemma": "-lrb-",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "-LRB-",
+						"Sentiment": "Neutral"
+					},
+					"-RRB-": {
+						"CharacterOffsetBegin": 120,
+						"CharacterOffsetEnd": 121,
+						"Lemma": "-rrb-",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "-RRB-",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 19,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@Wilson__Valdez": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 18,
+						"Lemma": "@wilson__valdez",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"@speechboy71": {
+						"CharacterOffsetBegin": 20,
+						"CharacterOffsetEnd": 32,
+						"Lemma": "@speechboy71",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Dems": {
+						"CharacterOffsetBegin": 96,
+						"CharacterOffsetEnd": 100,
+						"Lemma": "dem",
+						"NamedEntityTag": "MISC",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"Hillary": {
+						"CharacterOffsetBegin": 102,
+						"CharacterOffsetEnd": 109,
+						"Lemma": "Hillary",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sanders": {
+						"CharacterOffsetBegin": 41,
+						"CharacterOffsetEnd": 48,
+						"Lemma": "Sanders",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"are": {
+						"CharacterOffsetBegin": 122,
+						"CharacterOffsetEnd": 125,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"as": {
+						"CharacterOffsetBegin": 131,
+						"CharacterOffsetEnd": 133,
+						"Lemma": "as",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"basically": {
+						"CharacterOffsetBegin": 62,
+						"CharacterOffsetEnd": 71,
+						"Lemma": "basically",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"but": {
+						"CharacterOffsetBegin": 33,
+						"CharacterOffsetEnd": 36,
+						"Lemma": "but",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "CC",
+						"Sentiment": "Neutral"
+					},
+					"campaign": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 57,
+						"Lemma": "campaign",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"convinced": {
+						"CharacterOffsetBegin": 72,
+						"CharacterOffsetEnd": 81,
+						"Lemma": "convinced",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Positive"
+					},
+					"corru": {
+						"CharacterOffsetBegin": 134,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "corru",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"especially": {
+						"CharacterOffsetBegin": 110,
+						"CharacterOffsetEnd": 120,
+						"Lemma": "especially",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"has": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 61,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"just": {
+						"CharacterOffsetBegin": 126,
+						"CharacterOffsetEnd": 130,
+						"Lemma": "just",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"that": {
+						"CharacterOffsetBegin": 87,
+						"CharacterOffsetEnd": 91,
+						"Lemma": "that",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"the": {
+						"CharacterOffsetBegin": 92,
+						"CharacterOffsetEnd": 95,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"them": {
+						"CharacterOffsetBegin": 82,
+						"CharacterOffsetEnd": 86,
+						"Lemma": "they",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "AMC",
+		"tweet_text": "RT @Wilson__Valdez: @speechboy71 but the Sanders campaign has basically convinced them that the Dems (Hillary especially) are just as corru…",
+		"tweet_user_id": "Truthbuster"
+	}
+}

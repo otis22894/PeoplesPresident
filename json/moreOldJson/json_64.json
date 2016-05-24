@@ -1,0 +1,46 @@
+{
+	"John Kasich": {
+		"id_str":"721858122374061952",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"@tedcruz\":{\"Lemma\":\"@tedcruz\",\"CharacterOffsetBegin\":14,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":22,\"Sentiment\":\"Neutral\"},\"of\":{\"Lemma\":\"of\",\"CharacterOffsetBegin\":36,\"PartOfSpeech\":\"IN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":38,\"Sentiment\":\"Neutral\"},\"@shadohchaser\":{\"Lemma\":\"@shadohchaser\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":13,\"Sentiment\":\"Neutral\"},\"imaging\":{\"Lemma\":\"imaging\",\"CharacterOffsetBegin\":28,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":35,\"Sentiment\":\"Neutral\"},\"nice\":{\"Lemma\":\"nice\",\"CharacterOffsetBegin\":23,\"PartOfSpeech\":\"JJ\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":27,\"Sentiment\":\"Positive\"},\"Trump\":{\"Lemma\":\"Trump\",\"CharacterOffsetBegin\":39,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":44,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"nmod_preposition\":{\"dev\":\"Trump\",\"gov\":\"imaging\"},\"root\":{\"dev\":\"@tedcruz\",\"gov\":\"\"},\"case marker\":{\"dev\":\"of\",\"gov\":\"Trump\"},\"adjectival modifier\":{\"dev\":\"nice\",\"gov\":\"imaging\"},\"compound modifier\":{\"dev\":\"@shadohchaser\",\"gov\":\"@tedcruz\"},\"dependent\":{\"dev\":\"imaging\",\"gov\":\"@tedcruz\"}}},\"Sentiment\":1}",
+		"tweet_name":"happiness daily",
+		"tweet_text":"@shadohchaser @tedcruz nice imaging of Trump",
+		"tweet_user_id":"funtrouble1"
+	},
+
+	"Ted Cruz": {
+		"id_str":"721858122374061952",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"@tedcruz\":{\"Lemma\":\"@tedcruz\",\"CharacterOffsetBegin\":14,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":22,\"Sentiment\":\"Neutral\"},\"of\":{\"Lemma\":\"of\",\"CharacterOffsetBegin\":36,\"PartOfSpeech\":\"IN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":38,\"Sentiment\":\"Neutral\"},\"@shadohchaser\":{\"Lemma\":\"@shadohchaser\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":13,\"Sentiment\":\"Neutral\"},\"imaging\":{\"Lemma\":\"imaging\",\"CharacterOffsetBegin\":28,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":35,\"Sentiment\":\"Neutral\"},\"nice\":{\"Lemma\":\"nice\",\"CharacterOffsetBegin\":23,\"PartOfSpeech\":\"JJ\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":27,\"Sentiment\":\"Positive\"},\"Trump\":{\"Lemma\":\"Trump\",\"CharacterOffsetBegin\":39,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":44,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"nmod_preposition\":{\"dev\":\"Trump\",\"gov\":\"imaging\"},\"root\":{\"dev\":\"@tedcruz\",\"gov\":\"\"},\"case marker\":{\"dev\":\"of\",\"gov\":\"Trump\"},\"adjectival modifier\":{\"dev\":\"nice\",\"gov\":\"imaging\"},\"compound modifier\":{\"dev\":\"@shadohchaser\",\"gov\":\"@tedcruz\"},\"dependent\":{\"dev\":\"imaging\",\"gov\":\"@tedcruz\"}}},\"Sentiment\":1}",
+		"tweet_name":"happiness daily",
+		"tweet_text":"@shadohchaser @tedcruz nice imaging of Trump",
+		"tweet_user_id":"funtrouble1"
+	},
+
+	"Donald Trump": {
+		"id_str":"721858122374061952",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"@tedcruz\":{\"Lemma\":\"@tedcruz\",\"CharacterOffsetBegin\":14,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":22,\"Sentiment\":\"Neutral\"},\"of\":{\"Lemma\":\"of\",\"CharacterOffsetBegin\":36,\"PartOfSpeech\":\"IN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":38,\"Sentiment\":\"Neutral\"},\"@shadohchaser\":{\"Lemma\":\"@shadohchaser\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":13,\"Sentiment\":\"Neutral\"},\"imaging\":{\"Lemma\":\"imaging\",\"CharacterOffsetBegin\":28,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":35,\"Sentiment\":\"Neutral\"},\"nice\":{\"Lemma\":\"nice\",\"CharacterOffsetBegin\":23,\"PartOfSpeech\":\"JJ\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":27,\"Sentiment\":\"Positive\"},\"Trump\":{\"Lemma\":\"Trump\",\"CharacterOffsetBegin\":39,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":44,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"nmod_preposition\":{\"dev\":\"Trump\",\"gov\":\"imaging\"},\"root\":{\"dev\":\"@tedcruz\",\"gov\":\"\"},\"case marker\":{\"dev\":\"of\",\"gov\":\"Trump\"},\"adjectival modifier\":{\"dev\":\"nice\",\"gov\":\"imaging\"},\"compound modifier\":{\"dev\":\"@shadohchaser\",\"gov\":\"@tedcruz\"},\"dependent\":{\"dev\":\"imaging\",\"gov\":\"@tedcruz\"}}},\"Sentiment\":1}",
+		"tweet_name":"happiness daily",
+		"tweet_text":"@shadohchaser @tedcruz nice imaging of Trump",
+		"tweet_user_id":"funtrouble1"
+	},
+
+	"Bernie Sanders": {
+		"id_str":"721858122374061952",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"@tedcruz\":{\"Lemma\":\"@tedcruz\",\"CharacterOffsetBegin\":14,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":22,\"Sentiment\":\"Neutral\"},\"of\":{\"Lemma\":\"of\",\"CharacterOffsetBegin\":36,\"PartOfSpeech\":\"IN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":38,\"Sentiment\":\"Neutral\"},\"@shadohchaser\":{\"Lemma\":\"@shadohchaser\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":13,\"Sentiment\":\"Neutral\"},\"imaging\":{\"Lemma\":\"imaging\",\"CharacterOffsetBegin\":28,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":35,\"Sentiment\":\"Neutral\"},\"nice\":{\"Lemma\":\"nice\",\"CharacterOffsetBegin\":23,\"PartOfSpeech\":\"JJ\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":27,\"Sentiment\":\"Positive\"},\"Trump\":{\"Lemma\":\"Trump\",\"CharacterOffsetBegin\":39,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":44,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"nmod_preposition\":{\"dev\":\"Trump\",\"gov\":\"imaging\"},\"root\":{\"dev\":\"@tedcruz\",\"gov\":\"\"},\"case marker\":{\"dev\":\"of\",\"gov\":\"Trump\"},\"adjectival modifier\":{\"dev\":\"nice\",\"gov\":\"imaging\"},\"compound modifier\":{\"dev\":\"@shadohchaser\",\"gov\":\"@tedcruz\"},\"dependent\":{\"dev\":\"imaging\",\"gov\":\"@tedcruz\"}}},\"Sentiment\":1}",
+		"tweet_name":"happiness daily",
+		"tweet_text":"@shadohchaser @tedcruz nice imaging of Trump",
+		"tweet_user_id":"funtrouble1"
+	},
+
+	"Hillary Clinton": {
+		"id_str":"721858122374061952",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"@tedcruz\":{\"Lemma\":\"@tedcruz\",\"CharacterOffsetBegin\":14,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":22,\"Sentiment\":\"Neutral\"},\"of\":{\"Lemma\":\"of\",\"CharacterOffsetBegin\":36,\"PartOfSpeech\":\"IN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":38,\"Sentiment\":\"Neutral\"},\"@shadohchaser\":{\"Lemma\":\"@shadohchaser\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":13,\"Sentiment\":\"Neutral\"},\"imaging\":{\"Lemma\":\"imaging\",\"CharacterOffsetBegin\":28,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":35,\"Sentiment\":\"Neutral\"},\"nice\":{\"Lemma\":\"nice\",\"CharacterOffsetBegin\":23,\"PartOfSpeech\":\"JJ\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":27,\"Sentiment\":\"Positive\"},\"Trump\":{\"Lemma\":\"Trump\",\"CharacterOffsetBegin\":39,\"PartOfSpeech\":\"NNP\",\"NamedEntityTag\":\"PERSON\",\"CharacterOffsetEnd\":44,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"nmod_preposition\":{\"dev\":\"Trump\",\"gov\":\"imaging\"},\"root\":{\"dev\":\"@tedcruz\",\"gov\":\"\"},\"case marker\":{\"dev\":\"of\",\"gov\":\"Trump\"},\"adjectival modifier\":{\"dev\":\"nice\",\"gov\":\"imaging\"},\"compound modifier\":{\"dev\":\"@shadohchaser\",\"gov\":\"@tedcruz\"},\"dependent\":{\"dev\":\"imaging\",\"gov\":\"@tedcruz\"}}},\"Sentiment\":1}",
+		"tweet_name":"happiness daily",
+		"tweet_text":"@shadohchaser @tedcruz nice imaging of Trump",
+		"tweet_user_id":"funtrouble1"
+	}
+}

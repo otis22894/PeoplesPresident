@@ -1,0 +1,1030 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721902282703376384",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "only",
+						"gov": "primary"
+					},
+					"adverbial modifier": {
+						"dev": "where",
+						"gov": "won"
+					},
+					"auxiliary": {
+						"dev": "has",
+						"gov": "won"
+					},
+					"case marker": {
+						"dev": "of",
+						"gov": "vote"
+					},
+					"clausal complement": {
+						"dev": "Vermont",
+						"gov": "won"
+					},
+					"compound modifier": {
+						"dev": "RT",
+						"gov": "@Nate_Cohn"
+					},
+					"copula": {
+						"dev": "is",
+						"gov": "Vermont"
+					},
+					"dependent": {
+						"dev": "primary",
+						"gov": "@Nate_Cohn"
+					},
+					"determiner": {
+						"dev": "the",
+						"gov": "vote"
+					},
+					"nmod_preposition": {
+						"dev": "vote",
+						"gov": "%"
+					},
+					"nominal subject": {
+						"dev": "%",
+						"gov": "Vermont"
+					},
+					"numeric modifier": {
+						"dev": "64",
+						"gov": "%"
+					},
+					"relative clause modifier": {
+						"dev": "won",
+						"gov": "primary"
+					},
+					"root": {
+						"dev": "@Nate_Cohn",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"64": {
+						"CharacterOffsetBegin": 54,
+						"CharacterOffsetEnd": 56,
+						"Lemma": "64",
+						"NamedEntityTag": "PERCENT",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"%": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 57,
+						"Lemma": "%",
+						"NamedEntityTag": "PERCENT",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 14,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@Nate_Cohn": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 13,
+						"Lemma": "@nate_cohn",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sanders": {
+						"CharacterOffsetBegin": 38,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "Sanders",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"The": {
+						"CharacterOffsetBegin": 15,
+						"CharacterOffsetEnd": 18,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"Vermont": {
+						"CharacterOffsetBegin": 73,
+						"CharacterOffsetEnd": 80,
+						"Lemma": "Vermont",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"has": {
+						"CharacterOffsetBegin": 46,
+						"CharacterOffsetEnd": 49,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"is": {
+						"CharacterOffsetBegin": 70,
+						"CharacterOffsetEnd": 72,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"of": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"only": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "only",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"primary": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 31,
+						"Lemma": "primary",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"the": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 64,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"vote": {
+						"CharacterOffsetBegin": 65,
+						"CharacterOffsetEnd": 69,
+						"Lemma": "vote",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"where": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 37,
+						"Lemma": "where",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "WRB",
+						"Sentiment": "Neutral"
+					},
+					"won": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 53,
+						"Lemma": "win",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Positive"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:51",
+		"tweet_name": "Bernie",
+		"tweet_text": "RT @Nate_Cohn: The only primary where Sanders has won 64% of the vote is Vermont",
+		"tweet_user_id": "GuessWho002"
+	},
+	"Donald Trump": {
+		"id_str": "721902281621389312",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "#wfp",
+						"gov": "4bernie"
+					},
+					"dependent": {
+						"dev": "4bernie",
+						"gov": "@BernieSanders"
+					},
+					"direct object": {
+						"dev": "@BernieSanders",
+						"gov": "endorses"
+					},
+					"relative clause modifier": {
+						"dev": "endorses",
+						"gov": "@JumaaneWilliams"
+					},
+					"root": {
+						"dev": "@NYWFP",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#FeelTheBern": {
+						"CharacterOffsetBegin": 101,
+						"CharacterOffsetEnd": 113,
+						"Lemma": "#feelthebern",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#NYforBernie": {
+						"CharacterOffsetBegin": 114,
+						"CharacterOffsetEnd": 126,
+						"Lemma": "#nyforbernie",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#wfp": {
+						"CharacterOffsetBegin": 127,
+						"CharacterOffsetEnd": 131,
+						"Lemma": "#wfp",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 138,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"4bernie": {
+						"CharacterOffsetBegin": 131,
+						"CharacterOffsetEnd": 138,
+						"Lemma": "4bernie",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 20,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@BernieSanders": {
+						"CharacterOffsetBegin": 62,
+						"CharacterOffsetEnd": 76,
+						"Lemma": "@berniesanders",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"@JumaaneWilliams": {
+						"CharacterOffsetBegin": 36,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "@JumaaneWilliams",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"@NYWFP": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 9,
+						"Lemma": "@nywfp",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"BREAKING": {
+						"CharacterOffsetBegin": 11,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "BREAKING",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Councilman": {
+						"CharacterOffsetBegin": 25,
+						"CharacterOffsetEnd": 35,
+						"Lemma": "Councilman",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"NYC": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 24,
+						"Lemma": "NYC",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"endorses": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 61,
+						"Lemma": "endorse",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Positive"
+					},
+					"https://t.co/YnH0IUSBOg": {
+						"CharacterOffsetBegin": 77,
+						"CharacterOffsetEnd": 100,
+						"Lemma": "https://t.co/ynh0iusbog",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:50",
+		"tweet_name": "Bhaskar Sunkara",
+		"tweet_text": "RT @NYWFP: BREAKING: NYC Councilman @JumaaneWilliams endorses @BernieSanders https://t.co/YnH0IUSBOg #FeelTheBern #NYforBernie #wfp4bernie…",
+		"tweet_user_id": "sunraysunray"
+	},
+	"Hillary Clinton": {
+		"id_str": "721902299346374656",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adverbial modifier": {
+						"dev": "back",
+						"gov": "Sanders"
+					},
+					"compound modifier": {
+						"dev": "Policy",
+						"gov": "Experts"
+					},
+					"dependent": {
+						"dev": "Experts",
+						"gov": "@eelawl1966"
+					},
+					"relative clause modifier": {
+						"dev": "Sanders",
+						"gov": "Experts"
+					},
+					"root": {
+						"dev": "@eelawl1966",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 51,
+						"CharacterOffsetEnd": 52,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 14,
+						"CharacterOffsetEnd": 15,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@eelawl1966": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 14,
+						"Lemma": "@eelawl1966",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Experts": {
+						"CharacterOffsetBegin": 31,
+						"CharacterOffsetEnd": 38,
+						"Lemma": "expert",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"Foreign": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "Foreign",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Policy": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 30,
+						"Lemma": "Policy",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sanders": {
+						"CharacterOffsetBegin": 44,
+						"CharacterOffsetEnd": 51,
+						"Lemma": "Sanders",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"back": {
+						"CharacterOffsetBegin": 39,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "back",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"root": {
+						"dev": "https://t.co/XgYUsZckET",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"https://t.co/XgYUsZckET": {
+						"CharacterOffsetBegin": 54,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "https://t.co/xgyuszcket",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:55",
+		"tweet_name": "Lola Haag",
+		"tweet_text": "RT @eelawl1966: Foreign Policy Experts back Sanders.\n https://t.co/XgYUsZckET",
+		"tweet_user_id": "ojailola"
+	},
+	"John Kasich": {
+		"id_str": "721900947304247297",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "over",
+						"gov": "https://t.co/sWMyS5Vxi3"
+					},
+					"clausal modifier of noun": {
+						"dev": "Sued",
+						"gov": "Linked"
+					},
+					"compound modifier": {
+						"dev": "Crisis",
+						"gov": "https://t.co/sWMyS5Vxi3"
+					},
+					"dependent": {
+						"dev": "Linked",
+						"gov": "@BlacklistedNews"
+					},
+					"nmod_preposition": {
+						"dev": "https://t.co/sWMyS5Vxi3",
+						"gov": "Sued"
+					},
+					"passive auxiliary": {
+						"dev": "Being",
+						"gov": "Sued"
+					},
+					"root": {
+						"dev": "@BlacklistedNews",
+						"gov": ""
+					}
+				},
+				"Token": {
+					":": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 20,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@BlacklistedNews": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "@blacklistednews",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"Being": {
+						"CharacterOffsetBegin": 55,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"Clinton": {
+						"CharacterOffsetBegin": 29,
+						"CharacterOffsetEnd": 36,
+						"Lemma": "Clinton",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Company": {
+						"CharacterOffsetBegin": 47,
+						"CharacterOffsetEnd": 54,
+						"Lemma": "Company",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Crisis": {
+						"CharacterOffsetBegin": 83,
+						"CharacterOffsetEnd": 89,
+						"Lemma": "Crisis",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Flint": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 76,
+						"Lemma": "Flint",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Hillary": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 28,
+						"Lemma": "Hillary",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Linked": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "Linked",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Sued": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 65,
+						"Lemma": "sue",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"Water": {
+						"CharacterOffsetBegin": 77,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "Water",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/sWMyS5Vxi3": {
+						"CharacterOffsetBegin": 90,
+						"CharacterOffsetEnd": 113,
+						"Lemma": "https://t.co/swmys5vxi3",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"over": {
+						"CharacterOffsetBegin": 66,
+						"CharacterOffsetEnd": 70,
+						"Lemma": "over",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"to": {
+						"CharacterOffsetBegin": 44,
+						"CharacterOffsetEnd": 46,
+						"Lemma": "to",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "TO",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:19:32",
+		"tweet_name": "Shepherd-of-Fire",
+		"tweet_text": "RT @BlacklistedNews: Hillary Clinton Linked to Company Being Sued over Flint Water Crisis https://t.co/sWMyS5Vxi3",
+		"tweet_user_id": "FloydByrum"
+	},
+	"Ted Cruz": {
+		"id_str": "721902282841972736",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "Ted",
+						"gov": "Cruz"
+					},
+					"dependent": {
+						"dev": "Cruz",
+						"gov": "@KLSouth"
+					},
+					"root": {
+						"dev": "@KLSouth",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"''": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 33,
+						"Lemma": "''",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "''",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 38,
+						"CharacterOffsetEnd": 39,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 11,
+						"CharacterOffsetEnd": 12,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@KLSouth": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 11,
+						"Lemma": "@KLSouth",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Cruz": {
+						"CharacterOffsetBegin": 34,
+						"CharacterOffsetEnd": 38,
+						"Lemma": "Cruz",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Eduardo": {
+						"CharacterOffsetBegin": 20,
+						"CharacterOffsetEnd": 27,
+						"Lemma": "Eduardo",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Rafael": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 19,
+						"Lemma": "Rafael",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Ted": {
+						"CharacterOffsetBegin": 29,
+						"CharacterOffsetEnd": 32,
+						"Lemma": "Ted",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"``": {
+						"CharacterOffsetBegin": 28,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "``",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "``",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "1st",
+						"gov": "term"
+					},
+					"appositional modifier": {
+						"dev": "Senator",
+						"gov": "term"
+					},
+					"root": {
+						"dev": "term",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 57,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"1st": {
+						"CharacterOffsetBegin": 40,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "1st",
+						"NamedEntityTag": "ORDINAL",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"Senator": {
+						"CharacterOffsetBegin": 49,
+						"CharacterOffsetEnd": 56,
+						"Lemma": "Senator",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"term": {
+						"CharacterOffsetBegin": 44,
+						"CharacterOffsetEnd": 48,
+						"Lemma": "term",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"root": {
+						"dev": "Foreign-born",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 70,
+						"CharacterOffsetEnd": 71,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"Foreign-born": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 70,
+						"Lemma": "foreign-born",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"3": {
+				"Dependency": {
+					"nominal subject": {
+						"dev": "Records",
+						"gov": "sealed"
+					},
+					"root": {
+						"dev": "sealed",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 86,
+						"CharacterOffsetEnd": 87,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"Records": {
+						"CharacterOffsetBegin": 72,
+						"CharacterOffsetEnd": 79,
+						"Lemma": "Records",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"sealed": {
+						"CharacterOffsetBegin": 80,
+						"CharacterOffsetEnd": 86,
+						"Lemma": "seal",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"4": {
+				"Dependency": {
+					"direct object": {
+						"dev": "change",
+						"gov": "Name"
+					},
+					"root": {
+						"dev": "Name",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 99,
+						"CharacterOffsetEnd": 100,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"Name": {
+						"CharacterOffsetBegin": 88,
+						"CharacterOffsetEnd": 92,
+						"Lemma": "name",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"change": {
+						"CharacterOffsetBegin": 93,
+						"CharacterOffsetEnd": 99,
+						"Lemma": "change",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"5": {
+				"Dependency": {
+					"root": {
+						"dev": "Lawyer",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 107,
+						"CharacterOffsetEnd": 108,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"Lawyer": {
+						"CharacterOffsetBegin": 101,
+						"CharacterOffsetEnd": 107,
+						"Lemma": "Lawyer",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"6": {
+				"Dependency": {
+					"dependent": {
+						"dev": "achievements",
+						"gov": "Senate"
+					},
+					"negation modifier": {
+						"dev": "No",
+						"gov": "Senate"
+					},
+					"root": {
+						"dev": "Senate",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 131,
+						"CharacterOffsetEnd": 132,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"No": {
+						"CharacterOffsetBegin": 109,
+						"CharacterOffsetEnd": 111,
+						"Lemma": "no",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Negative"
+					},
+					"Senate": {
+						"CharacterOffsetBegin": 112,
+						"CharacterOffsetEnd": 118,
+						"Lemma": "Senate",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"achievements": {
+						"CharacterOffsetBegin": 119,
+						"CharacterOffsetEnd": 131,
+						"Lemma": "achievement",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"7": {
+				"Dependency": {
+					"determiner": {
+						"dev": "The",
+						"gov": "Ob"
+					},
+					"root": {
+						"dev": "Ob",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"Ob": {
+						"CharacterOffsetBegin": 137,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "ob",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"The": {
+						"CharacterOffsetBegin": 133,
+						"CharacterOffsetEnd": 136,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:51",
+		"tweet_name": "C Lee",
+		"tweet_text": "RT @KLSouth: Rafael Eduardo \"Ted\" Cruz. 1st term Senator. Foreign-born. Records sealed. Name change. Lawyer. No Senate achievements. The Ob…",
+		"tweet_user_id": "sunserger"
+	}
+}

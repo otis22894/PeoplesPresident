@@ -1,0 +1,1160 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721902301703569409",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "OF",
+						"gov": "#MakeAmericaGr"
+					},
+					"compound modifier": {
+						"dev": "#Trump",
+						"gov": "#MakeAmericaGr"
+					},
+					"conj_collapsed": {
+						"dev": "DEMOCRATS",
+						"gov": "REPUBLICANS"
+					},
+					"coordination": {
+						"dev": "AND",
+						"gov": "REPUBLICANS"
+					},
+					"copula": {
+						"dev": "ARE",
+						"gov": "TIRED"
+					},
+					"dependent": {
+						"dev": "PEOPLE",
+						"gov": "@Gianluca_1970"
+					},
+					"determiner": {
+						"dev": "THE",
+						"gov": "#MakeAmericaGr"
+					},
+					"nmod_preposition": {
+						"dev": "#MakeAmericaGr",
+						"gov": "TIRED"
+					},
+					"nominal subject": {
+						"dev": "@Gianluca_1970",
+						"gov": "TIRED"
+					},
+					"root": {
+						"dev": "TIRED",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#MakeAmericaGr": {
+						"CharacterOffsetBegin": 125,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "#makeamericagr",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"#Trump": {
+						"CharacterOffsetBegin": 118,
+						"CharacterOffsetEnd": 124,
+						"Lemma": "#trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"...": {
+						"CharacterOffsetBegin": 139,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "...",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 18,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@Gianluca_1970": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "@gianluca_1970",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"ABSOLUTE": {
+						"CharacterOffsetBegin": 63,
+						"CharacterOffsetEnd": 71,
+						"Lemma": "ABSOLUTE",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"AND": {
+						"CharacterOffsetBegin": 44,
+						"CharacterOffsetEnd": 47,
+						"Lemma": "and",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "CC",
+						"Sentiment": "Neutral"
+					},
+					"ARE": {
+						"CharacterOffsetBegin": 92,
+						"CharacterOffsetEnd": 95,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"BOTH": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "both",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"BULLSHIT": {
+						"CharacterOffsetBegin": 109,
+						"CharacterOffsetEnd": 117,
+						"Lemma": "BULLSHIT",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"DEMOCRATS": {
+						"CharacterOffsetBegin": 48,
+						"CharacterOffsetEnd": 57,
+						"Lemma": "DEMOCRATS",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNPS",
+						"Sentiment": "Neutral"
+					},
+					"OF": {
+						"CharacterOffsetBegin": 102,
+						"CharacterOffsetEnd": 104,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"PARTIES": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 31,
+						"Lemma": "party",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"PEOPLE": {
+						"CharacterOffsetBegin": 85,
+						"CharacterOffsetEnd": 91,
+						"Lemma": "PEOPLE",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"POWER": {
+						"CharacterOffsetBegin": 72,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "POWER",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"REPUBLICANS": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 43,
+						"Lemma": "REPUBLICANS",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNPS",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"THE": {
+						"CharacterOffsetBegin": 105,
+						"CharacterOffsetEnd": 108,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"TIRED": {
+						"CharacterOffsetBegin": 96,
+						"CharacterOffsetEnd": 101,
+						"Lemma": "tired",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"WANT": {
+						"CharacterOffsetBegin": 58,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "WANT",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"WE": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 80,
+						"Lemma": "WE",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:55",
+		"tweet_name": "ALL4TRUMP",
+		"tweet_text": "RT @Gianluca_1970: BOTH PARTIES REPUBLICANS AND DEMOCRATS WANT ABSOLUTE POWER\nWE THE PEOPLE ARE TIRED OF THE BULLSHIT #Trump #MakeAmericaGr…",
+		"tweet_user_id": "LOYALtoTRUMP"
+	},
+	"Donald Trump": {
+		"id_str": "721902286776049665",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adverbial modifier": {
+						"dev": "now",
+						"gov": "bullied"
+					},
+					"auxiliary": {
+						"dev": "'re",
+						"gov": "bullied"
+					},
+					"case marker": {
+						"dev": "by",
+						"gov": "@realDonaldTrump"
+					},
+					"clausal complement": {
+						"dev": "bullied",
+						"gov": "think"
+					},
+					"dependent": {
+						"dev": "You",
+						"gov": "@Reince"
+					},
+					"nmod_preposition": {
+						"dev": "@realDonaldTrump",
+						"gov": "bullied"
+					},
+					"nominal passive subject": {
+						"dev": "you",
+						"gov": "bullied"
+					},
+					"nominal subject": {
+						"dev": "@Reince",
+						"gov": "think"
+					},
+					"passive auxiliary": {
+						"dev": "being",
+						"gov": "bullied"
+					},
+					"root": {
+						"dev": "think",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"'re": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 24,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"?": {
+						"CharacterOffsetBegin": 63,
+						"CharacterOffsetEnd": 64,
+						"Lemma": "?",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"@Reince": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 7,
+						"Lemma": "@Reince",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"@realDonaldTrump": {
+						"CharacterOffsetBegin": 46,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "@realdonaldtrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"You": {
+						"CharacterOffsetBegin": 8,
+						"CharacterOffsetEnd": 11,
+						"Lemma": "you",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"being": {
+						"CharacterOffsetBegin": 25,
+						"CharacterOffsetEnd": 30,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"bullied": {
+						"CharacterOffsetBegin": 31,
+						"CharacterOffsetEnd": 38,
+						"Lemma": "bully",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"by": {
+						"CharacterOffsetBegin": 43,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "by",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"now": {
+						"CharacterOffsetBegin": 39,
+						"CharacterOffsetEnd": 42,
+						"Lemma": "now",
+						"NamedEntityTag": "DATE",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"think": {
+						"CharacterOffsetBegin": 12,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "think",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"you": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 21,
+						"Lemma": "you",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "incompetent",
+						"gov": "Chmn"
+					},
+					"adverbial clause modifier": {
+						"dev": "elected",
+						"gov": "Wait"
+					},
+					"appositional modifier": {
+						"dev": "Chmn",
+						"gov": "DONE"
+					},
+					"clausal complement": {
+						"dev": "DONE",
+						"gov": "Wait"
+					},
+					"compound modifier": {
+						"dev": "Party",
+						"gov": "Chmn"
+					},
+					"copula": {
+						"dev": "are",
+						"gov": "DONE"
+					},
+					"marker": {
+						"dev": "until",
+						"gov": "elected"
+					},
+					"nominal passive subject": {
+						"dev": "Trump",
+						"gov": "elected"
+					},
+					"nominal subject": {
+						"dev": "You",
+						"gov": "DONE"
+					},
+					"passive auxiliary": {
+						"dev": "is",
+						"gov": "elected"
+					},
+					"root": {
+						"dev": "Wait",
+						"gov": ""
+					}
+				},
+				"Token": {
+					",": {
+						"CharacterOffsetBegin": 116,
+						"CharacterOffsetEnd": 117,
+						"Lemma": ",",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ",",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 103,
+						"CharacterOffsetEnd": 104,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"Chmn": {
+						"CharacterOffsetBegin": 136,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "Chmn",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"DONE": {
+						"CharacterOffsetBegin": 112,
+						"CharacterOffsetEnd": 116,
+						"Lemma": "DONE",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Party": {
+						"CharacterOffsetBegin": 130,
+						"CharacterOffsetEnd": 135,
+						"Lemma": "Party",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"President": {
+						"CharacterOffsetBegin": 76,
+						"CharacterOffsetEnd": 85,
+						"Lemma": "President",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 86,
+						"CharacterOffsetEnd": 91,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Wait": {
+						"CharacterOffsetBegin": 65,
+						"CharacterOffsetEnd": 69,
+						"Lemma": "wait",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"You": {
+						"CharacterOffsetBegin": 104,
+						"CharacterOffsetEnd": 107,
+						"Lemma": "you",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"are": {
+						"CharacterOffsetBegin": 108,
+						"CharacterOffsetEnd": 111,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBP",
+						"Sentiment": "Neutral"
+					},
+					"elected": {
+						"CharacterOffsetBegin": 95,
+						"CharacterOffsetEnd": 102,
+						"Lemma": "elect",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"incompetent": {
+						"CharacterOffsetBegin": 118,
+						"CharacterOffsetEnd": 129,
+						"Lemma": "incompetent",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Negative"
+					},
+					"is": {
+						"CharacterOffsetBegin": 92,
+						"CharacterOffsetEnd": 94,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"until": {
+						"CharacterOffsetBegin": 70,
+						"CharacterOffsetEnd": 75,
+						"Lemma": "until",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:52",
+		"tweet_name": "Mauricio D Mendez",
+		"tweet_text": "@Reince You think you're being bullied now by @realDonaldTrump ? Wait until President Trump is elected :You are DONE, incompetent Party Chmn",
+		"tweet_user_id": "mauriciod44"
+	},
+	"Hillary Clinton": {
+		"id_str": "721902282091016196",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "first",
+						"gov": "candidate"
+					},
+					"compound modifier": {
+						"dev": "RT",
+						"gov": "@jvgraz"
+					},
+					"dependent": {
+						"dev": "candidate",
+						"gov": "@jvgraz"
+					},
+					"determiner": {
+						"dev": "the",
+						"gov": "candidate"
+					},
+					"discourse element": {
+						"dev": "Well",
+						"gov": "candidate"
+					},
+					"root": {
+						"dev": "@jvgraz",
+						"gov": ""
+					}
+				},
+				"Token": {
+					",": {
+						"CharacterOffsetBegin": 16,
+						"CharacterOffsetEnd": 17,
+						"Lemma": ",",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ",",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 38,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 10,
+						"CharacterOffsetEnd": 11,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@jvgraz": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 10,
+						"Lemma": "@jvgraz",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Well": {
+						"CharacterOffsetBegin": 12,
+						"CharacterOffsetEnd": 16,
+						"Lemma": "well",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "UH",
+						"Sentiment": "Neutral"
+					},
+					"candidate": {
+						"CharacterOffsetBegin": 28,
+						"CharacterOffsetEnd": 37,
+						"Lemma": "candidate",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"first": {
+						"CharacterOffsetBegin": 22,
+						"CharacterOffsetEnd": 27,
+						"Lemma": "first",
+						"NamedEntityTag": "ORDINAL",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"the": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 21,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"auxiliary": {
+						"dev": "will",
+						"gov": "president"
+					},
+					"copula": {
+						"dev": "be",
+						"gov": "president"
+					},
+					"negation modifier": {
+						"dev": "never",
+						"gov": "president"
+					},
+					"nominal subject": {
+						"dev": "She",
+						"gov": "president"
+					},
+					"root": {
+						"dev": "president",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 66,
+						"CharacterOffsetEnd": 67,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"She": {
+						"CharacterOffsetBegin": 39,
+						"CharacterOffsetEnd": 42,
+						"Lemma": "she",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"be": {
+						"CharacterOffsetBegin": 54,
+						"CharacterOffsetEnd": 56,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"never": {
+						"CharacterOffsetBegin": 48,
+						"CharacterOffsetEnd": 53,
+						"Lemma": "never",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Neutral"
+					},
+					"president": {
+						"CharacterOffsetBegin": 57,
+						"CharacterOffsetEnd": 66,
+						"Lemma": "president",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"will": {
+						"CharacterOffsetBegin": 43,
+						"CharacterOffsetEnd": 47,
+						"Lemma": "will",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "MD",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"root": {
+						"dev": "https://t.co/0K0KwrD7qB",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"https://t.co/0K0KwrD7qB": {
+						"CharacterOffsetBegin": 68,
+						"CharacterOffsetEnd": 91,
+						"Lemma": "https://t.co/0k0kwrd7qb",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:51",
+		"tweet_name": "Christopher",
+		"tweet_text": "RT @jvgraz: Well, the first candidate. She will never be president. https://t.co/0K0KwrD7qB",
+		"tweet_user_id": "BuenaVista28"
+	},
+	"John Kasich": {
+		"id_str": "721902298671124480",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "after",
+						"gov": "https://t.co/alt4nAoxY9"
+					},
+					"clausal complement": {
+						"dev": "bought",
+						"gov": "reveals"
+					},
+					"compound modifier": {
+						"dev": "https://t.co/rhir28lKdd",
+						"gov": "https://t.co/alt4nAoxY9"
+					},
+					"direct object": {
+						"dev": "cans",
+						"gov": "bought"
+					},
+					"nmod_preposition": {
+						"dev": "https://t.co/alt4nAoxY9",
+						"gov": "bought"
+					},
+					"nominal subject": {
+						"dev": "he",
+						"gov": "bought"
+					},
+					"numeric modifier": {
+						"dev": "100",
+						"gov": "cans"
+					},
+					"parataxis": {
+						"dev": "reveals",
+						"gov": "@CBCNews"
+					},
+					"possession modifier": {
+						"dev": "their",
+						"gov": "https://t.co/alt4nAoxY9"
+					},
+					"root": {
+						"dev": "@CBCNews",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"100": {
+						"CharacterOffsetBegin": 47,
+						"CharacterOffsetEnd": 50,
+						"Lemma": "100",
+						"NamedEntityTag": "NUMBER",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"'s": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "'s",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "POS",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 11,
+						"CharacterOffsetEnd": 12,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@CBCNews": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 11,
+						"Lemma": "@cbcnews",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"Cruz": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 21,
+						"Lemma": "Cruz",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Ted": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 16,
+						"Lemma": "Ted",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"after": {
+						"CharacterOffsetBegin": 61,
+						"CharacterOffsetEnd": 66,
+						"Lemma": "after",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"bought": {
+						"CharacterOffsetBegin": 40,
+						"CharacterOffsetEnd": 46,
+						"Lemma": "buy",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"cans": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 60,
+						"Lemma": "can",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"he": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 39,
+						"Lemma": "he",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"honeymoon": {
+						"CharacterOffsetBegin": 73,
+						"CharacterOffsetEnd": 82,
+						"Lemma": "honeymoon",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/alt4nAoxY9": {
+						"CharacterOffsetBegin": 107,
+						"CharacterOffsetEnd": 130,
+						"Lemma": "https://t.co/alt4naoxy9",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/rhir28lKdd": {
+						"CharacterOffsetBegin": 83,
+						"CharacterOffsetEnd": 106,
+						"Lemma": "https://t.co/rhir28lkdd",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"reveals": {
+						"CharacterOffsetBegin": 29,
+						"CharacterOffsetEnd": 36,
+						"Lemma": "reveal",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"soup": {
+						"CharacterOffsetBegin": 51,
+						"CharacterOffsetEnd": 55,
+						"Lemma": "soup",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"their": {
+						"CharacterOffsetBegin": 67,
+						"CharacterOffsetEnd": 72,
+						"Lemma": "they",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP$",
+						"Sentiment": "Neutral"
+					},
+					"wife": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 28,
+						"Lemma": "wife",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:54",
+		"tweet_name": "AB",
+		"tweet_text": "RT @CBCNews: Ted Cruz's wife reveals he bought 100 soup cans after their honeymoon https://t.co/rhir28lKdd https://t.co/alt4nAoxY9",
+		"tweet_user_id": "abaigealpurcell"
+	},
+	"Ted Cruz": {
+		"id_str": "721902288139235328",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "other",
+						"gov": "Trump"
+					},
+					"adverbial clause modifier": {
+						"dev": "customer",
+						"gov": "had"
+					},
+					"adverbial modifier": {
+						"dev": "absolutely",
+						"gov": "relationship"
+					},
+					"case marker": {
+						"dev": "at",
+						"gov": "casino"
+					},
+					"copula": {
+						"dev": "being",
+						"gov": "customer"
+					},
+					"dependent": {
+						"dev": "gangster",
+						"gov": "@stophilary4ever"
+					},
+					"determiner": {
+						"dev": "a",
+						"gov": "customer"
+					},
+					"direct object": {
+						"dev": "relationship",
+						"gov": "had"
+					},
+					"marker": {
+						"dev": "than",
+						"gov": "customer"
+					},
+					"negation modifier": {
+						"dev": "no",
+						"gov": "relationship"
+					},
+					"nmod_preposition": {
+						"dev": "casino",
+						"gov": "customer"
+					},
+					"nominal subject": {
+						"dev": "@stophilary4ever",
+						"gov": "had"
+					},
+					"possession modifier": {
+						"dev": "his",
+						"gov": "casino"
+					},
+					"root": {
+						"dev": "had",
+						"gov": ""
+					}
+				},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 121,
+						"CharacterOffsetEnd": 122,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"@stophilary4ever": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 16,
+						"Lemma": "@stophilary4ever",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"That": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 21,
+						"Lemma": "that",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "WDT",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 74,
+						"CharacterOffsetEnd": 79,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"a": {
+						"CharacterOffsetBegin": 97,
+						"CharacterOffsetEnd": 98,
+						"Lemma": "a",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"absolutely": {
+						"CharacterOffsetBegin": 42,
+						"CharacterOffsetEnd": 52,
+						"Lemma": "absolutely",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RB",
+						"Sentiment": "Positive"
+					},
+					"at": {
+						"CharacterOffsetBegin": 108,
+						"CharacterOffsetEnd": 110,
+						"Lemma": "at",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"being": {
+						"CharacterOffsetBegin": 91,
+						"CharacterOffsetEnd": 96,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBG",
+						"Sentiment": "Neutral"
+					},
+					"casino": {
+						"CharacterOffsetBegin": 115,
+						"CharacterOffsetEnd": 121,
+						"Lemma": "casino",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"customer": {
+						"CharacterOffsetBegin": 99,
+						"CharacterOffsetEnd": 107,
+						"Lemma": "customer",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"gangster": {
+						"CharacterOffsetBegin": 29,
+						"CharacterOffsetEnd": 37,
+						"Lemma": "gangster",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Negative"
+					},
+					"had": {
+						"CharacterOffsetBegin": 38,
+						"CharacterOffsetEnd": 41,
+						"Lemma": "have",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"his": {
+						"CharacterOffsetBegin": 111,
+						"CharacterOffsetEnd": 114,
+						"Lemma": "he",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP$",
+						"Sentiment": "Neutral"
+					},
+					"no": {
+						"CharacterOffsetBegin": 53,
+						"CharacterOffsetEnd": 55,
+						"Lemma": "no",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Negative"
+					},
+					"other": {
+						"CharacterOffsetBegin": 80,
+						"CharacterOffsetEnd": 85,
+						"Lemma": "other",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"racist": {
+						"CharacterOffsetBegin": 22,
+						"CharacterOffsetEnd": 28,
+						"Lemma": "racist",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Negative"
+					},
+					"relationship": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 68,
+						"Lemma": "relationship",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"than": {
+						"CharacterOffsetBegin": 86,
+						"CharacterOffsetEnd": 90,
+						"Lemma": "than",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"with": {
+						"CharacterOffsetBegin": 69,
+						"CharacterOffsetEnd": 73,
+						"Lemma": "with",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:52",
+		"tweet_name": "Latinos para Trump",
+		"tweet_text": "@stophilary4ever That racist gangster had absolutely no relationship with Trump other than being a customer at his casino.",
+		"tweet_user_id": "LatinoParaTrump"
+	}
+}

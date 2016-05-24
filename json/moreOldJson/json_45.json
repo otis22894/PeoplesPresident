@@ -1,0 +1,46 @@
+{
+	"John Kasich": {
+		"id_str":"721858126954168064",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"@mindfulmusing\":{\"Lemma\":\"@mindfulmusing\",\"CharacterOffsetBegin\":3,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":17,\"Sentiment\":\"Neutral\"},\"RT\":{\"Lemma\":\"rt\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":2,\"Sentiment\":\"Neutral\"},\"#ImWithHer\":{\"Lemma\":\"#imwithher\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":29,\"Sentiment\":\"Neutral\"},\"https:\/\/t.co\/QrMhyIv61a\":{\"Lemma\":\"https:\/\/t.co\/qrmhyiv61a\",\"CharacterOffsetBegin\":31,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":54,\"Sentiment\":\"Neutral\"},\":\":{\"Lemma\":\":\",\"CharacterOffsetBegin\":17,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":18,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"root\":{\"dev\":\"@mindfulmusing\",\"gov\":\"\"},\"compound modifier\":{\"dev\":\"#ImWithHer\",\"gov\":\"https:\/\/t.co\/QrMhyIv61a\"},\"dependent\":{\"dev\":\"https:\/\/t.co\/QrMhyIv61a\",\"gov\":\"@mindfulmusing\"}}},\"Sentiment\":0}",
+		"tweet_name":"Pat Fuller",
+		"tweet_text":"RT @mindfulmusing: #ImWithHer  https://t.co/QrMhyIv61a",
+		"tweet_user_id":"bannerite"
+	},
+
+	"Ted Cruz": {
+		"id_str":"721858126954168064",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"@mindfulmusing\":{\"Lemma\":\"@mindfulmusing\",\"CharacterOffsetBegin\":3,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":17,\"Sentiment\":\"Neutral\"},\"RT\":{\"Lemma\":\"rt\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":2,\"Sentiment\":\"Neutral\"},\"#ImWithHer\":{\"Lemma\":\"#imwithher\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":29,\"Sentiment\":\"Neutral\"},\"https:\/\/t.co\/QrMhyIv61a\":{\"Lemma\":\"https:\/\/t.co\/qrmhyiv61a\",\"CharacterOffsetBegin\":31,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":54,\"Sentiment\":\"Neutral\"},\":\":{\"Lemma\":\":\",\"CharacterOffsetBegin\":17,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":18,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"root\":{\"dev\":\"@mindfulmusing\",\"gov\":\"\"},\"compound modifier\":{\"dev\":\"#ImWithHer\",\"gov\":\"https:\/\/t.co\/QrMhyIv61a\"},\"dependent\":{\"dev\":\"https:\/\/t.co\/QrMhyIv61a\",\"gov\":\"@mindfulmusing\"}}},\"Sentiment\":0}",
+		"tweet_name":"Pat Fuller",
+		"tweet_text":"RT @mindfulmusing: #ImWithHer  https://t.co/QrMhyIv61a",
+		"tweet_user_id":"bannerite"
+	},
+
+	"Donald Trump": {
+		"id_str":"721858126954168064",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"@mindfulmusing\":{\"Lemma\":\"@mindfulmusing\",\"CharacterOffsetBegin\":3,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":17,\"Sentiment\":\"Neutral\"},\"RT\":{\"Lemma\":\"rt\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":2,\"Sentiment\":\"Neutral\"},\"#ImWithHer\":{\"Lemma\":\"#imwithher\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":29,\"Sentiment\":\"Neutral\"},\"https:\/\/t.co\/QrMhyIv61a\":{\"Lemma\":\"https:\/\/t.co\/qrmhyiv61a\",\"CharacterOffsetBegin\":31,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":54,\"Sentiment\":\"Neutral\"},\":\":{\"Lemma\":\":\",\"CharacterOffsetBegin\":17,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":18,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"root\":{\"dev\":\"@mindfulmusing\",\"gov\":\"\"},\"compound modifier\":{\"dev\":\"#ImWithHer\",\"gov\":\"https:\/\/t.co\/QrMhyIv61a\"},\"dependent\":{\"dev\":\"https:\/\/t.co\/QrMhyIv61a\",\"gov\":\"@mindfulmusing\"}}},\"Sentiment\":0}",
+		"tweet_name":"Pat Fuller",
+		"tweet_text":"RT @mindfulmusing: #ImWithHer  https://t.co/QrMhyIv61a",
+		"tweet_user_id":"bannerite"
+	},
+
+	"Bernie Sanders": {
+		"id_str":"721858126954168064",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"@mindfulmusing\":{\"Lemma\":\"@mindfulmusing\",\"CharacterOffsetBegin\":3,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":17,\"Sentiment\":\"Neutral\"},\"RT\":{\"Lemma\":\"rt\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":2,\"Sentiment\":\"Neutral\"},\"#ImWithHer\":{\"Lemma\":\"#imwithher\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":29,\"Sentiment\":\"Neutral\"},\"https:\/\/t.co\/QrMhyIv61a\":{\"Lemma\":\"https:\/\/t.co\/qrmhyiv61a\",\"CharacterOffsetBegin\":31,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":54,\"Sentiment\":\"Neutral\"},\":\":{\"Lemma\":\":\",\"CharacterOffsetBegin\":17,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":18,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"root\":{\"dev\":\"@mindfulmusing\",\"gov\":\"\"},\"compound modifier\":{\"dev\":\"#ImWithHer\",\"gov\":\"https:\/\/t.co\/QrMhyIv61a\"},\"dependent\":{\"dev\":\"https:\/\/t.co\/QrMhyIv61a\",\"gov\":\"@mindfulmusing\"}}},\"Sentiment\":0}",
+		"tweet_name":"Pat Fuller",
+		"tweet_text":"RT @mindfulmusing: #ImWithHer  https://t.co/QrMhyIv61a",
+		"tweet_user_id":"bannerite"
+	},
+
+	"Hillary Clinton": {
+		"id_str":"721858126954168064",
+		"timestamp":"4/18/2016 12:29:00 AM",
+		"sentiment":"{\"0\":{\"Token\":{\"@mindfulmusing\":{\"Lemma\":\"@mindfulmusing\",\"CharacterOffsetBegin\":3,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":17,\"Sentiment\":\"Neutral\"},\"RT\":{\"Lemma\":\"rt\",\"CharacterOffsetBegin\":0,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":2,\"Sentiment\":\"Neutral\"},\"#ImWithHer\":{\"Lemma\":\"#imwithher\",\"CharacterOffsetBegin\":19,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":29,\"Sentiment\":\"Neutral\"},\"https:\/\/t.co\/QrMhyIv61a\":{\"Lemma\":\"https:\/\/t.co\/qrmhyiv61a\",\"CharacterOffsetBegin\":31,\"PartOfSpeech\":\"NN\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":54,\"Sentiment\":\"Neutral\"},\":\":{\"Lemma\":\":\",\"CharacterOffsetBegin\":17,\"PartOfSpeech\":\":\",\"NamedEntityTag\":\"O\",\"CharacterOffsetEnd\":18,\"Sentiment\":\"Neutral\"}},\"Dependency\":{\"root\":{\"dev\":\"@mindfulmusing\",\"gov\":\"\"},\"compound modifier\":{\"dev\":\"#ImWithHer\",\"gov\":\"https:\/\/t.co\/QrMhyIv61a\"},\"dependent\":{\"dev\":\"https:\/\/t.co\/QrMhyIv61a\",\"gov\":\"@mindfulmusing\"}}},\"Sentiment\":0}",
+		"tweet_name":"Pat Fuller",
+		"tweet_text":"RT @mindfulmusing: #ImWithHer  https://t.co/QrMhyIv61a",
+		"tweet_user_id":"bannerite"
+	}
+}

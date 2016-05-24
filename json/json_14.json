@@ -1,0 +1,957 @@
+{
+	"Bernie Sanders": {
+		"id_str": "721902296213364738",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"acl_preposition": {
+						"dev": "shut",
+						"gov": "concept"
+					},
+					"adjectival modifier": {
+						"dev": "donald",
+						"gov": "trump"
+					},
+					"adverbial clause modifier": {
+						"dev": "shut",
+						"gov": "created"
+					},
+					"auxiliary": {
+						"dev": "could",
+						"gov": "shut"
+					},
+					"case marker": {
+						"dev": "for",
+						"gov": "trump"
+					},
+					"compound modifier": {
+						"dev": "RT",
+						"gov": "@Bill_Nye_Tho__"
+					},
+					"dependent": {
+						"dev": "up",
+						"gov": "https://t.co/o…"
+					},
+					"determiner": {
+						"dev": "the",
+						"gov": "fuck"
+					},
+					"direct object": {
+						"dev": "fuck",
+						"gov": "shut"
+					},
+					"marker": {
+						"dev": "so",
+						"gov": "shut"
+					},
+					"nmod_preposition": {
+						"dev": "trump",
+						"gov": "people"
+					},
+					"nominal modifier": {
+						"dev": "https://t.co/o…",
+						"gov": "shut"
+					},
+					"nominal passive subject": {
+						"dev": "@Bill_Nye_Tho__",
+						"gov": "created"
+					},
+					"nominal subject": {
+						"dev": "he",
+						"gov": "shut"
+					},
+					"passive auxiliary": {
+						"dev": "was",
+						"gov": "created"
+					},
+					"phrasal verb particle": {
+						"dev": "up",
+						"gov": "shut"
+					},
+					"root": {
+						"dev": "created",
+						"gov": ""
+					}
+				},
+				"Token": {
+					":": {
+						"CharacterOffsetBegin": 18,
+						"CharacterOffsetEnd": 19,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@Bill_Nye_Tho__": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 18,
+						"Lemma": "@bill_nye_tho__",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"The": {
+						"CharacterOffsetBegin": 20,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"by": {
+						"CharacterOffsetBegin": 64,
+						"CharacterOffsetEnd": 66,
+						"Lemma": "by",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"concept": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 31,
+						"Lemma": "concept",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"could": {
+						"CharacterOffsetBegin": 101,
+						"CharacterOffsetEnd": 106,
+						"Lemma": "could",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "MD",
+						"Sentiment": "Neutral"
+					},
+					"created": {
+						"CharacterOffsetBegin": 56,
+						"CharacterOffsetEnd": 63,
+						"Lemma": "create",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBN",
+						"Sentiment": "Neutral"
+					},
+					"donald": {
+						"CharacterOffsetBegin": 82,
+						"CharacterOffsetEnd": 88,
+						"Lemma": "donald",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"for": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 81,
+						"Lemma": "for",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"fuck": {
+						"CharacterOffsetBegin": 116,
+						"CharacterOffsetEnd": 120,
+						"Lemma": "fuck",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"he": {
+						"CharacterOffsetBegin": 98,
+						"CharacterOffsetEnd": 100,
+						"Lemma": "he",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/o…": {
+						"CharacterOffsetBegin": 125,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "https://t.co/o…",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"of": {
+						"CharacterOffsetBegin": 32,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "of",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"people": {
+						"CharacterOffsetBegin": 71,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "people",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"shut": {
+						"CharacterOffsetBegin": 107,
+						"CharacterOffsetEnd": 111,
+						"Lemma": "shut",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"so": {
+						"CharacterOffsetBegin": 95,
+						"CharacterOffsetEnd": 97,
+						"Lemma": "so",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"the": {
+						"CharacterOffsetBegin": 112,
+						"CharacterOffsetEnd": 115,
+						"Lemma": "the",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "DT",
+						"Sentiment": "Neutral"
+					},
+					"trump": {
+						"CharacterOffsetBegin": 89,
+						"CharacterOffsetEnd": 94,
+						"Lemma": "trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Positive"
+					},
+					"up": {
+						"CharacterOffsetBegin": 121,
+						"CharacterOffsetEnd": 123,
+						"Lemma": "up",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "RP",
+						"Sentiment": "Neutral"
+					},
+					"was": {
+						"CharacterOffsetBegin": 52,
+						"CharacterOffsetEnd": 55,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:54",
+		"tweet_name": "Elia",
+		"tweet_text": "RT @Bill_Nye_Tho__: The concept of shut the fuck up was created by the people for donald trump so he could shut the fuck up \nhttps://t.co/o…",
+		"tweet_user_id": "Eliais2rad"
+	},
+	"Donald Trump": {
+		"id_str": "721902305549881344",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "Psychological",
+						"gov": "https://t…"
+					},
+					"case marker": {
+						"dev": "'s",
+						"gov": "Trump"
+					},
+					"compound modifier": {
+						"dev": "https://t.co/27WnbqUkUp",
+						"gov": "https://t…"
+					},
+					"dependent": {
+						"dev": "https://t…",
+						"gov": "@Dlw20161950"
+					},
+					"possession modifier": {
+						"dev": "Trump",
+						"gov": "https://t…"
+					},
+					"root": {
+						"dev": "@Dlw20161950",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#CruzCrew": {
+						"CharacterOffsetBegin": 70,
+						"CharacterOffsetEnd": 79,
+						"Lemma": "#CruzCrew",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"#LyinTrump": {
+						"CharacterOffsetBegin": 59,
+						"CharacterOffsetEnd": 69,
+						"Lemma": "#LyinTrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"#NeverTrump": {
+						"CharacterOffsetBegin": 94,
+						"CharacterOffsetEnd": 105,
+						"Lemma": "#NeverTrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"#SleazyDonald": {
+						"CharacterOffsetBegin": 80,
+						"CharacterOffsetEnd": 93,
+						"Lemma": "#SleazyDonald",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"'s": {
+						"CharacterOffsetBegin": 34,
+						"CharacterOffsetEnd": 36,
+						"Lemma": "'s",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "POS",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 15,
+						"CharacterOffsetEnd": 16,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@Dlw20161950": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 15,
+						"Lemma": "@dlw20161950",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Problem": {
+						"CharacterOffsetBegin": 51,
+						"CharacterOffsetEnd": 58,
+						"Lemma": "Problem",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Psychological": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 50,
+						"Lemma": "psychological",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 29,
+						"CharacterOffsetEnd": 34,
+						"Lemma": "Trump",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Unelectable": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 28,
+						"Lemma": "unelectable",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/27WnbqUkUp": {
+						"CharacterOffsetBegin": 106,
+						"CharacterOffsetEnd": 129,
+						"Lemma": "https://t.co/27wnbqukup",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t…": {
+						"CharacterOffsetBegin": 130,
+						"CharacterOffsetEnd": 140,
+						"Lemma": "https://t…",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:56",
+		"tweet_name": "☺ Patriot Czar ☺",
+		"tweet_text": "RT @Dlw20161950: Unelectable Trump's Psychological Problem\n#LyinTrump #CruzCrew\n#SleazyDonald #NeverTrump\nhttps://t.co/27WnbqUkUp https://t…",
+		"tweet_user_id": "PatriotCzar"
+	},
+	"Hillary Clinton": {
+		"id_str": "721902286977544192",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"auxiliary": {
+						"dev": "Will",
+						"gov": "next"
+					},
+					"compound modifier": {
+						"dev": "RT",
+						"gov": "@goprapebuster"
+					},
+					"copula": {
+						"dev": "be",
+						"gov": "next"
+					},
+					"dependent": {
+						"dev": "next",
+						"gov": "@goprapebuster"
+					},
+					"nominal subject": {
+						"dev": "Texas",
+						"gov": "next"
+					},
+					"root": {
+						"dev": "@goprapebuster",
+						"gov": ""
+					}
+				},
+				"Token": {
+					":": {
+						"CharacterOffsetBegin": 17,
+						"CharacterOffsetEnd": 18,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"?": {
+						"CharacterOffsetBegin": 37,
+						"CharacterOffsetEnd": 38,
+						"Lemma": "?",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"@goprapebuster": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 17,
+						"Lemma": "@goprapebuster",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Texas": {
+						"CharacterOffsetBegin": 24,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "Texas",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Will": {
+						"CharacterOffsetBegin": 19,
+						"CharacterOffsetEnd": 23,
+						"Lemma": "will",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "MD",
+						"Sentiment": "Neutral"
+					},
+					"be": {
+						"CharacterOffsetBegin": 30,
+						"CharacterOffsetEnd": 32,
+						"Lemma": "be",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					},
+					"next": {
+						"CharacterOffsetBegin": 33,
+						"CharacterOffsetEnd": 37,
+						"Lemma": "next",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {
+					"direct object": {
+						"dev": "????",
+						"gov": "Please"
+					},
+					"root": {
+						"dev": "Please",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"????": {
+						"CharacterOffsetBegin": 45,
+						"CharacterOffsetEnd": 49,
+						"Lemma": "????",
+						"NamedEntityTag": "NUMBER",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"Please": {
+						"CharacterOffsetBegin": 39,
+						"CharacterOffsetEnd": 45,
+						"Lemma": "please",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VB",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"root": {
+						"dev": "https://t.co/5qqFst2dT8",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"https://t.co/5qqFst2dT8": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 73,
+						"Lemma": "https://t.co/5qqfst2dt8",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:52",
+		"tweet_name": "angie patterson",
+		"tweet_text": "RT @goprapebuster: Will Texas be next? Please???? https://t.co/5qqFst2dT8",
+		"tweet_user_id": "angiepatterso15"
+	},
+	"John Kasich": {
+		"id_str": "721902280602050561",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"adjectival modifier": {
+						"dev": "#trump",
+						"gov": "@HispanicsTrump"
+					},
+					"case marker": {
+						"dev": "for",
+						"gov": "immigrants"
+					},
+					"compound modifier": {
+						"dev": "New",
+						"gov": "York"
+					},
+					"dependent": {
+						"dev": "@HispanicsTrump",
+						"gov": "immigrants"
+					},
+					"direct object": {
+						"dev": "need",
+						"gov": "reaffirmed"
+					},
+					"nmod_preposition": {
+						"dev": "immigrants",
+						"gov": "reaffirmed"
+					},
+					"nominal subject": {
+						"dev": "https://t.…",
+						"gov": "reaffirmed"
+					},
+					"numeric modifier": {
+						"dev": "2016",
+						"gov": "https://t.…"
+					},
+					"possession modifier": {
+						"dev": "our",
+						"gov": "need"
+					},
+					"root": {
+						"dev": "reaffirmed",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"2016": {
+						"CharacterOffsetBegin": 122,
+						"CharacterOffsetEnd": 126,
+						"Lemma": "2016",
+						"NamedEntityTag": "DATE",
+						"PartOfSpeech": "CD",
+						"Sentiment": "Neutral"
+					},
+					"#trump": {
+						"CharacterOffsetBegin": 116,
+						"CharacterOffsetEnd": 122,
+						"Lemma": "#trump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					":": {
+						"CharacterOffsetBegin": 13,
+						"CharacterOffsetEnd": 14,
+						"Lemma": ":",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					"@HispanicsTrump": {
+						"CharacterOffsetBegin": 99,
+						"CharacterOffsetEnd": 114,
+						"Lemma": "@hispanicstrump",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"@Knight276": {
+						"CharacterOffsetBegin": 3,
+						"CharacterOffsetEnd": 13,
+						"Lemma": "@knight276",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"New": {
+						"CharacterOffsetBegin": 30,
+						"CharacterOffsetEnd": 33,
+						"Lemma": "New",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Positive"
+					},
+					"RT": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 2,
+						"Lemma": "rt",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"Trump": {
+						"CharacterOffsetBegin": 15,
+						"CharacterOffsetEnd": 20,
+						"Lemma": "Trump",
+						"NamedEntityTag": "PERSON",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"York": {
+						"CharacterOffsetBegin": 34,
+						"CharacterOffsetEnd": 38,
+						"Lemma": "York",
+						"NamedEntityTag": "LOCATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"for": {
+						"CharacterOffsetBegin": 59,
+						"CharacterOffsetEnd": 62,
+						"Lemma": "for",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.…": {
+						"CharacterOffsetBegin": 131,
+						"CharacterOffsetEnd": 142,
+						"Lemma": "https://t.…",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"immigrants": {
+						"CharacterOffsetBegin": 80,
+						"CharacterOffsetEnd": 90,
+						"Lemma": "immigrant",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"in": {
+						"CharacterOffsetBegin": 27,
+						"CharacterOffsetEnd": 29,
+						"Lemma": "in",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"legal": {
+						"CharacterOffsetBegin": 74,
+						"CharacterOffsetEnd": 79,
+						"Lemma": "legal",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					},
+					"need": {
+						"CharacterOffsetBegin": 54,
+						"CharacterOffsetEnd": 58,
+						"Lemma": "need",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"our": {
+						"CharacterOffsetBegin": 50,
+						"CharacterOffsetEnd": 53,
+						"Lemma": "we",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "PRP$",
+						"Sentiment": "Neutral"
+					},
+					"reaffirmed": {
+						"CharacterOffsetBegin": 39,
+						"CharacterOffsetEnd": 49,
+						"Lemma": "reaffirm",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBD",
+						"Sentiment": "Neutral"
+					},
+					"today": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 26,
+						"Lemma": "today",
+						"NamedEntityTag": "DATE",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"welcome": {
+						"CharacterOffsetBegin": 91,
+						"CharacterOffsetEnd": 98,
+						"Lemma": "welcome",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "JJ",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": -1
+		},
+		"timestamp": "2016-04-18 03:24:50",
+		"tweet_name": "Bill Figueredo",
+		"tweet_text": "RT @Knight276: Trump today in New York reaffirmed our need for immigrants legal immigrants welcome @HispanicsTrump \n#trump2016🇺🇸 https://t.…",
+		"tweet_user_id": "bfigueredo"
+	},
+	"Ted Cruz": {
+		"id_str": "721902301309313024",
+		"sentiment": {
+			"0": {
+				"Dependency": {
+					"case marker": {
+						"dev": "from",
+						"gov": "supporters"
+					},
+					"compound modifier": {
+						"dev": "https://t.co/wHPZ4TgaFC:",
+						"gov": "Tel."
+					},
+					"dependent": {
+						"dev": "Tel.",
+						"gov": "harassment"
+					},
+					"direct object": {
+						"dev": "harassment",
+						"gov": "superdelegates"
+					},
+					"nmod_preposition": {
+						"dev": "supporters",
+						"gov": "harassment"
+					},
+					"nominal subject": {
+						"dev": "Democrat",
+						"gov": "superdelegates"
+					},
+					"root": {
+						"dev": "superdelegates",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"-": {
+						"CharacterOffsetBegin": 76,
+						"CharacterOffsetEnd": 77,
+						"Lemma": "-",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ":",
+						"Sentiment": "Neutral"
+					},
+					".": {
+						"CharacterOffsetBegin": 107,
+						"CharacterOffsetEnd": 108,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					},
+					"Democrat": {
+						"CharacterOffsetBegin": 12,
+						"CharacterOffsetEnd": 20,
+						"Lemma": "Democrat",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Google": {
+						"CharacterOffsetBegin": 0,
+						"CharacterOffsetEnd": 6,
+						"Lemma": "Google",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"News": {
+						"CharacterOffsetBegin": 7,
+						"CharacterOffsetEnd": 11,
+						"Lemma": "News",
+						"NamedEntityTag": "ORGANIZATION",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Sanders": {
+						"CharacterOffsetBegin": 57,
+						"CharacterOffsetEnd": 64,
+						"Lemma": "Sanders",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNP",
+						"Sentiment": "Neutral"
+					},
+					"Tel.": {
+						"CharacterOffsetBegin": 103,
+						"CharacterOffsetEnd": 107,
+						"Lemma": "tel.",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"face": {
+						"CharacterOffsetBegin": 36,
+						"CharacterOffsetEnd": 40,
+						"Lemma": "face",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"from": {
+						"CharacterOffsetBegin": 52,
+						"CharacterOffsetEnd": 56,
+						"Lemma": "from",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "IN",
+						"Sentiment": "Neutral"
+					},
+					"harassment": {
+						"CharacterOffsetBegin": 41,
+						"CharacterOffsetEnd": 51,
+						"Lemma": "harassment",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/wHPZ4TgaFC:": {
+						"CharacterOffsetBegin": 78,
+						"CharacterOffsetEnd": 102,
+						"Lemma": "https://t.co/whpz4tgafc:",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					},
+					"superdelegates": {
+						"CharacterOffsetBegin": 21,
+						"CharacterOffsetEnd": 35,
+						"Lemma": "superdelegate",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "VBZ",
+						"Sentiment": "Neutral"
+					},
+					"supporters": {
+						"CharacterOffsetBegin": 65,
+						"CharacterOffsetEnd": 75,
+						"Lemma": "supporter",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"1": {
+				"Dependency": {},
+				"Token": {
+					".": {
+						"CharacterOffsetBegin": 108,
+						"CharacterOffsetEnd": 109,
+						"Lemma": ".",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": ".",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"2": {
+				"Dependency": {
+					"compound modifier": {
+						"dev": "https://t.co/zTTstp9f0q",
+						"gov": "#News"
+					},
+					"root": {
+						"dev": "#News",
+						"gov": ""
+					}
+				},
+				"Token": {
+					"#News": {
+						"CharacterOffsetBegin": 134,
+						"CharacterOffsetEnd": 139,
+						"Lemma": "#news",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NNS",
+						"Sentiment": "Neutral"
+					},
+					"https://t.co/zTTstp9f0q": {
+						"CharacterOffsetBegin": 110,
+						"CharacterOffsetEnd": 133,
+						"Lemma": "https://t.co/zttstp9f0q",
+						"NamedEntityTag": "O",
+						"PartOfSpeech": "NN",
+						"Sentiment": "Neutral"
+					}
+				}
+			},
+			"Sentiment": 0
+		},
+		"timestamp": "2016-04-18 03:24:55",
+		"tweet_name": "Sabah Maju Jaya",
+		"tweet_text": "Google News Democrat superdelegates face harassment from Sanders supporters - https://t.co/wHPZ4TgaFC: Tel... https://t.co/zTTstp9f0q #News",
+		"tweet_user_id": "sabahmajujaya"
+	}
+}
